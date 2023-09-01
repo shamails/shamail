@@ -561,7 +561,7 @@ and (max-device-width: 812px) {
         width: 45vh;
         height: 85vw;
         display: none;
-        margin-left: 8vw;
+        margin-left: 6vw;
         margin-top: -72vh;
         background-color: #330036;
         border-radius: 5vh;
@@ -569,7 +569,7 @@ and (max-device-width: 812px) {
     
     .photo{
         position: absolute;
-        width: 33vh;
+        width: 38vh;
         height: 70vw;
         display: none; 
         margin-left: 7vw;
