@@ -452,7 +452,7 @@ and (max-device-width: 812px) {
         font-weight: 500;
         display: none;
         color:  #BEA2C2;
-        margin-left: 4vw;
+        margin-left: 3vw;
         margin-top: 70vh;
         background-color: #330036;
         text-align: center;
@@ -569,10 +569,10 @@ and (max-device-width: 812px) {
     
     .photo{
         width: 35vh;
-        height: 5vw;
+        height: 40vw;
         display: none; 
         margin-left: 18vw;
-        margin-top: -29vh;
+        margin-top: -9vh;
         background-color: #BEA2C2;
         border-radius: 5vh;
     }
