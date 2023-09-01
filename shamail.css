@@ -1,0 +1,582 @@
+body{
+    background-color: #cef8e9;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+/* pervious colors used:
+dark purple:330036
+light blue:B9F0E9
+light purple:BEA2C2*/
+.intro{
+    font-family: 'Hammersmith One', sans-serif;
+    color: #330036;
+}
+
+.welcome{
+    font-size: 10vw;
+    font-weight: 800;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 3.5vw;
+    margin-right: 5vw;
+    margin-top: 23vh;
+    /* height: 25%;
+    width: 25%; 
+    left: 50;
+    top: 50;
+     position: absolute; */
+}
+
+#w {
+    transform: rotate(-40deg);
+    /* color: #FFA0AC; */
+    }
+#e {
+    transform: rotate(30deg);
+    /* color: #506C64; */
+    }
+#l {
+    transform: rotate(-47deg);
+    /* color: #FFA0AC; */
+    }
+#c {
+    transform: rotate(20deg);
+    /* color: #506C64; */
+    }
+#o {
+    transform: rotate(-33deg);
+    /* color: #FFA0AC; */
+    }
+#m {
+    transform: rotate(43deg);
+    /* color: #506C64; */
+    }
+#e2 {
+    transform: rotate(-38deg);
+    /* color: #FFA0AC; */
+    }
+
+#to{
+    font-size: 2vw;
+    margin-left: 50vw;
+    color: #330036;
+
+}
+
+#sham{
+    font-size: 6.5vw;
+    margin-left: 18vw;
+    color: #330036;
+}
+
+#w{
+    animation-name: dance-w;
+    animation-iteration-count: infinite;
+    animation-duration: 1.5s;
+}
+
+#e{
+    animation-name: dance-e;
+    animation-iteration-count: infinite;
+    animation-duration: 1.5s;
+}
+
+#l{
+    animation-name: dance-l;
+    animation-iteration-count: infinite;
+    animation-duration: 1.5s;
+}
+
+#c{
+    animation-name: dance-c;
+    animation-iteration-count: infinite;
+    animation-duration: 1.5s;
+}
+
+#o{
+    animation-name: dance-o;
+    animation-iteration-count: infinite;
+    animation-duration: 1.5s;
+}
+
+#m{
+    animation-name: dance-m;
+    animation-iteration-count: infinite;
+    animation-duration: 1.5s;
+}
+
+#e2{
+    animation-name: dance-e2;
+    animation-iteration-count: infinite;
+    animation-duration: 1.5s;
+}
+
+@keyframes dance-w {
+    0% {transform: rotate(-40deg);}
+    50% {transform: rotate(40deg);}
+    100% {transform: rotate(-40deg);}
+}
+
+@keyframes dance-e {
+    0% {transform: rotate(30deg);}
+    50% {transform: rotate(-30deg);}
+    100% {transform: rotate(30deg);}
+}
+
+@keyframes dance-l {
+    0% {transform: rotate(-47deg);}
+    50% {transform: rotate(47deg);}
+    100% {transform: rotate(-47deg);}
+}
+
+@keyframes dance-c {
+    0% {transform: rotate(20deg);}
+    50% {transform: rotate(-20deg);}
+    100% {transform: rotate(20deg);}
+}
+
+@keyframes dance-o {
+    0% {transform: rotate(-37deg);}
+    50% {transform: rotate(37deg);}
+    10% {transform: rotate(-37deg);}
+}
+
+@keyframes dance-m {
+    0% {transform: rotate(43deg);}
+    50% {transform: rotate(-43deg);}
+    100% {transform: rotate(43deg);}
+}
+
+@keyframes dance-e2 {
+    0% {transform: rotate(-38deg);}
+    50% {transform: rotate(38deg);}
+    100% {transform: rotate(-38deg);}
+}
+
+/* I AM REDOING!!!! LOOK AT SKETCH IN NOTEBOOK!!! */
+ .sections{
+    width: 55vh;
+    height: 27vw;
+    font-size: 2vw;
+    font-family: 'K2D', sans-serif;
+    font-weight: 500;
+    display: none;
+    color:  #BEA2C2;
+    margin-left: 20vw;
+    margin-top: 24vh;
+    background-color: #330036;
+    text-align: center;
+    border-radius: 5vh;
+    
+}
+
+.interactive , .interactive:active , .interactive:link , .interactive:visited{
+    font-size: 1.9vw;
+    font-weight: 100;
+    /* width: 17vw;
+    height: 6vh; */
+    text-align: center;
+    /* margin-left: 3.5vw; */
+    margin-top: 2.7vh;
+    color:  #BEA2C2;
+    /* background-color: green; */
+    text-decoration: none;
+    /* margin-top: 15vh;
+    margin-left: 2vw; */
+    /* z-index: 0;  */
+}
+
+/* #title{
+    margin-top: 5vh;
+} */
+
+
+.toys , .toys:link , .toys:visited , .toys:active {
+    font-size: 1.9vw;
+    font-weight: 100;
+    margin-top: .5vw;
+    text-decoration: none;
+    /* width: 17vw;
+    height: 6vh; */
+    /* background-color: green; */
+    color:  #BEA2C2;
+    /* margin-top: 22vh;
+    margin-left: 35vw; */
+    text-align: center;
+}
+
+.editorial , .editorial:link , .editorial:visited , .editorial:active {
+    font-size: 1.9vw;
+    font-weight: 100;
+    margin-top: .5vw;
+    text-decoration: none;
+    /* width: 17vw;
+    height: 6vh; */
+    /* margin-left: 1.5vw; */
+    /* background-color: green; */
+    color:  #BEA2C2;
+    /* margin-top: 22vh;
+    margin-left: 15vw; */
+    text-align: center;
+}
+
+.about , .about:link , .about:visited , .about:active{
+    font-size: 1.9vw;
+    font-weight: 100;
+    margin-top: .5vw;
+    text-decoration: none;
+    /* width: 17vw;
+    height: 6vh; */
+    /* margin-left: 1vw; */
+    /* background-color: green; */
+    color:  #BEA2C2;
+    /* margin-top: 10vh;
+    margin-left: 70vw; */
+    text-align: center;
+}
+
+/*.wm{
+    background-color: aquamarine;
+    width: 10vh;
+    height: 10vw;
+    visibility: hidden;
+    cef8e9
+} */
+
+
+.interactive:hover{
+    color: #330036;
+    background-color: #BEA2C2;
+}
+
+.toys:hover{
+    color: #330036;
+    background-color: #BEA2C2;
+}
+
+.editorial:hover {
+    color: #330036;
+    background-color: #BEA2C2;
+}
+
+.about:hover {
+    color: #330036;
+    background-color: #BEA2C2;
+}
+
+.box{
+    width: 60vh;
+    height: 30vw;
+    display: none;
+    margin-left: 55vw;
+    margin-top: -52vh;
+    background-color: #330036;
+    border-radius: 5vh;
+}
+
+.photo{
+    width: 55vh;
+    height: 27vw;
+    display: none; 
+    margin-left: 56.3vw;
+    margin-top: -52vh;
+    background-color: #BEA2C2;
+    border-radius: 5vh;
+}
+@media only screen 
+and (min-width: 375px) 
+and (max-width: 812px) {
+    body{
+        background-color: #cef8e9;
+        overflow-y: hidden;
+        overflow-x: hidden;
+    }
+    
+    /* pervious colors used:
+    dark purple:330036
+    light blue:B9F0E9
+    light purple:BEA2C2*/
+    .intro{
+        font-family: 'Hammersmith One', sans-serif;
+        color: #330036;
+    }
+    
+    .welcome{
+        font-size: 10vw;
+        font-weight: 800;
+        display: flex;
+        justify-content: space-between;
+        margin-left: 3.5vw;
+        margin-right: 5vw;
+        margin-top: 23vh;
+        /* height: 25%;
+        width: 25%; 
+        left: 50;
+        top: 50;
+         position: absolute; */
+    }
+    
+    #w {
+        transform: rotate(-40deg);
+        /* color: #FFA0AC; */
+        }
+    #e {
+        transform: rotate(30deg);
+        /* color: #506C64; */
+        }
+    #l {
+        transform: rotate(-47deg);
+        /* color: #FFA0AC; */
+        }
+    #c {
+        transform: rotate(20deg);
+        /* color: #506C64; */
+        }
+    #o {
+        transform: rotate(-33deg);
+        /* color: #FFA0AC; */
+        }
+    #m {
+        transform: rotate(43deg);
+        /* color: #506C64; */
+        }
+    #e2 {
+        transform: rotate(-38deg);
+        /* color: #FFA0AC; */
+        }
+    
+    #to{
+        font-size: 2vw;
+        margin-left: 50vw;
+        color: #330036;
+    
+    }
+    
+    #sham{
+        font-size: 6.5vw;
+        margin-left: 18vw;
+        color: #330036;
+    }
+    
+    #w{
+        animation-name: dance-w;
+        animation-iteration-count: infinite;
+        animation-duration: 1.5s;
+    }
+    
+    #e{
+        animation-name: dance-e;
+        animation-iteration-count: infinite;
+        animation-duration: 1.5s;
+    }
+    
+    #l{
+        animation-name: dance-l;
+        animation-iteration-count: infinite;
+        animation-duration: 1.5s;
+    }
+    
+    #c{
+        animation-name: dance-c;
+        animation-iteration-count: infinite;
+        animation-duration: 1.5s;
+    }
+    
+    #o{
+        animation-name: dance-o;
+        animation-iteration-count: infinite;
+        animation-duration: 1.5s;
+    }
+    
+    #m{
+        animation-name: dance-m;
+        animation-iteration-count: infinite;
+        animation-duration: 1.5s;
+    }
+    
+    #e2{
+        animation-name: dance-e2;
+        animation-iteration-count: infinite;
+        animation-duration: 1.5s;
+    }
+    
+    @keyframes dance-w {
+        0% {transform: rotate(-40deg);}
+        50% {transform: rotate(40deg);}
+        100% {transform: rotate(-40deg);}
+    }
+    
+    @keyframes dance-e {
+        0% {transform: rotate(30deg);}
+        50% {transform: rotate(-30deg);}
+        100% {transform: rotate(30deg);}
+    }
+    
+    @keyframes dance-l {
+        0% {transform: rotate(-47deg);}
+        50% {transform: rotate(47deg);}
+        100% {transform: rotate(-47deg);}
+    }
+    
+    @keyframes dance-c {
+        0% {transform: rotate(20deg);}
+        50% {transform: rotate(-20deg);}
+        100% {transform: rotate(20deg);}
+    }
+    
+    @keyframes dance-o {
+        0% {transform: rotate(-37deg);}
+        50% {transform: rotate(37deg);}
+        10% {transform: rotate(-37deg);}
+    }
+    
+    @keyframes dance-m {
+        0% {transform: rotate(43deg);}
+        50% {transform: rotate(-43deg);}
+        100% {transform: rotate(43deg);}
+    }
+    
+    @keyframes dance-e2 {
+        0% {transform: rotate(-38deg);}
+        50% {transform: rotate(38deg);}
+        100% {transform: rotate(-38deg);}
+    }
+    
+    /* I AM REDOING!!!! LOOK AT SKETCH IN NOTEBOOK!!! */
+     .sections{
+        width: 40vh;
+        height: 33vw;
+        font-size: 3vw;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        display: none;
+        color:  #BEA2C2;
+        margin-left: 13vw;
+        margin-top: 55vh;
+        background-color: #330036;
+        text-align: center;
+        border-radius: 5vh;
+        
+    }
+    #title{
+        margin-top: -7vh;
+    }
+    
+    .interactive , .interactive:active , .interactive:link , .interactive:visited{
+        font-size: 3vw;
+        font-weight: 100;
+        /* width: 17vw;
+        height: 6vh; */
+        text-align: center;
+        /* margin-left: 3.5vw; */
+        margin-top: .5vh;
+        color:  #BEA2C2;
+        /* background-color: green; */
+        text-decoration: none;
+        /* margin-top: 15vh;
+        margin-left: 2vw; */
+        /* z-index: 0;  */
+    }
+    
+    /* #title{
+        margin-top: 5vh;
+    } */
+    
+    
+    .toys , .toys:link , .toys:visited , .toys:active {
+        font-size: 3vw;
+        font-weight: 100;
+        margin-top: .5vw;
+        text-decoration: none;
+        /* width: 17vw;
+        height: 6vh; */
+        /* background-color: green; */
+        color:  #BEA2C2;
+        /* margin-top: 22vh;
+        margin-left: 35vw; */
+        text-align: center;
+    }
+    
+    .editorial , .editorial:link , .editorial:visited , .editorial:active {
+        font-size: 3vw;
+        font-weight: 100;
+        margin-top: .5vw;
+        text-decoration: none;
+        /* width: 17vw;
+        height: 6vh; */
+        /* margin-left: 1.5vw; */
+        /* background-color: green; */
+        color:  #BEA2C2;
+        /* margin-top: 22vh;
+        margin-left: 15vw; */
+        text-align: center;
+    }
+    
+    .about , .about:link , .about:visited , .about:active{
+        font-size: 3vw;
+        font-weight: 100;
+        margin-top: .5vw;
+        text-decoration: none;
+        /* width: 17vw;
+        height: 6vh; */
+        /* margin-left: 1vw; */
+        /* background-color: green; */
+        color:  #BEA2C2;
+        /* margin-top: 10vh;
+        margin-left: 70vw; */
+        text-align: center;
+    }
+    
+    /*.wm{
+        background-color: aquamarine;
+        width: 10vh;
+        height: 10vw;
+        visibility: hidden;
+        cef8e9
+    } */
+    
+    
+    .interactive:hover{
+        color: #330036;
+        background-color: #BEA2C2;
+    }
+    
+    .toys:hover{
+        color: #330036;
+        background-color: #BEA2C2;
+    }
+    
+    .editorial:hover {
+        color: #330036;
+        background-color: #BEA2C2;
+    }
+    
+    .about:hover {
+        color: #330036;
+        background-color: #BEA2C2;
+    }
+    
+    .box{
+        width: 40vh;
+        height: 60vw;
+        display: none;
+        margin-left: 13vw;
+        margin-top: -52vh;
+        background-color: #330036;
+        border-radius: 5vh;
+    }
+    
+    .photo{
+        width: 35vh;
+        height: 45vw;
+        display: none; 
+        margin-left: 18vw;
+        margin-top: -29vh;
+        background-color: #BEA2C2;
+        border-radius: 5vh;
+    }
+    /* you have to do media queries now T-T only for mobile and maybe tablet! should be okay for any desktop!! */
+		}
+
+/* you have to do media queries now T-T only for mobile and maybe tablet! should be okay for any desktop!! */

@@ -1,0 +1,519 @@
+body{
+    background-color: #cef8e9;
+    overflow-y: hidden;
+}
+
+.back{
+    width: 50px;
+    height: 50px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 4vh;
+}
+
+#back{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.projects{
+    font-family: 'K2D', sans-serif;
+    font-weight: 500;
+    display: flex;
+}
+
+.project-1{
+    /* width:90%; */
+    margin-left: 3vw;
+    margin-top: -4.1vh;
+}
+
+#project-1-title{
+    color: #330036;
+    font-family: 'K2D', sans-serif;
+    font-weight: 500;
+    font-size: 3.5vw;
+}
+
+.project-1-content{
+    background-color: #330036;
+    color:  #BEA2C2;
+    font-family: 'K2D', sans-serif;
+    font-weight: 300;
+    font-size: 1.5vw;
+    height:700px;
+    width: 80vw;
+    border-radius: 3vh;
+    padding: 2.5vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    text-align: justify;
+    overflow: auto;
+}                  
+
+.project-2{
+    width:90%;
+    margin-left: 2vw;
+    margin-top: -4.1vh;
+}
+
+#project-2-title{
+    color: #330036;
+    font-family: 'K2D', sans-serif;
+    font-weight: 500;
+    font-size: 3.5vw;
+}
+
+.project-2-content{
+    background-color: #330036;
+    color:  #BEA2C2;
+    font-family: 'K2D', sans-serif;
+    font-weight: 300;
+    font-size: 1.5vw;
+    height:700px;
+    width: 80vw;
+    border-radius: 3vh;
+    padding: 2.5vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    text-align: justify;
+    overflow: auto;
+}
+
+.project-3{
+    width:90%;
+    margin-left: 2vw;
+    margin-top: -4.1vh;
+}
+
+#project-3-title{
+    color: #330036;
+    font-family: 'K2D', sans-serif;
+    font-weight: 500;
+    font-size: 3.5vw;
+}
+
+.project-3-content{
+    background-color: #330036;
+    color:  #BEA2C2;
+    font-family: 'K2D', sans-serif;
+    font-weight: 300;
+    font-size: 1.5vw;
+    height:700px;
+    width: 80vw;
+    border-radius: 3vh;
+    padding: 2.5vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    text-align: justify;
+    overflow: auto;
+}
+.project-4{
+    width:90%;
+    margin-left: 2vw;
+    margin-top: -4.1vh;
+}
+
+#project-4-title{
+    color: #330036;
+    font-family: 'K2D', sans-serif;
+    font-weight: 500;
+    font-size: 3.5vw;
+}
+
+.project-4-content{
+    background-color: #330036;
+    color:  #BEA2C2;
+    font-family: 'K2D', sans-serif;
+    font-weight: 300;
+    font-size: 1.5vw;
+    height:700px;
+    width: 80vw;
+    border-radius: 3vh;
+    padding: 2.5vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    text-align: justify;
+    overflow: auto;
+}
+
+.project-5{
+    width:90%;
+    margin-left: 2vw;
+    margin-top: -4.1vh;
+}
+
+#project-5-title{
+    color: #330036;
+    font-family: 'K2D', sans-serif;
+    font-weight: 500;
+    font-size: 3.5vw;
+}
+
+.project-5-content{
+    background-color: #330036;
+    color:  #BEA2C2;
+    font-family: 'K2D', sans-serif;
+    font-weight: 300;
+    font-size: 1.5vw;
+    height:700px;
+    width: 80vw;
+    border-radius: 3vh;
+    padding: 2.5vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    text-align: justify;
+    overflow: auto;
+}
+@media only screen 
+and (min-width: 768px) 
+and (max-width: 1024px) 
+/* and (orientation: portrait)   */
+{
+	body{
+        background-color: #cef8e9;
+        overflow-y: hidden;
+    }
+    
+    .back{
+        width: 50px;
+        height: 50px;
+        position: -webkit-sticky;
+        position: sticky;
+        top: 4vh;
+    }
+    
+    #back{
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+    
+    .projects{
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        display: flex;
+    }
+    
+    .project-1{
+        /* width:90%; */
+        margin-left: 6.5vw;
+        margin-top: -3.5vh;
+    }
+    
+    #project-1-title{
+        color: #330036;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 5vw;
+    }
+    
+    .project-1-content{
+        background-color: #330036;
+        color:  #BEA2C2;
+        font-family: 'K2D', sans-serif;
+        font-weight: 300;
+        font-size: 2vw;
+        height:700px;
+        width: 80vw;
+        border-radius: 3vh;
+        padding: 2.5vw;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        text-align: justify;
+        overflow: auto;
+    }                  
+    
+    .project-2{
+        width:90%;
+        margin-left: 2vw;
+        margin-top: -3.5vh;
+    }
+    
+    #project-2-title{
+        color: #330036;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 5vw;
+    }
+    
+    .project-2-content{
+        background-color: #330036;
+        color:  #BEA2C2;
+        font-family: 'K2D', sans-serif;
+        font-weight: 300;
+        font-size: 2vw;
+        height:700px;
+        width: 80vw;
+        border-radius: 3vh;
+        padding: 2.5vw;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        text-align: justify;
+        overflow: auto;
+    }
+    
+    .project-3{
+        width:90%;
+        margin-left: 2vw;
+        margin-top: -3.5vh;
+    }
+    
+    #project-3-title{
+        color: #330036;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 5vw;
+    }
+    
+    .project-3-content{
+        background-color: #330036;
+        color:  #BEA2C2;
+        font-family: 'K2D', sans-serif;
+        font-weight: 300;
+        font-size: 2vw;
+        height:700px;
+        width: 80vw;
+        border-radius: 3vh;
+        padding: 2.5vw;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        text-align: justify;
+        overflow: auto;
+    }
+    .project-4{
+        width:90%;
+        margin-left: 2vw;
+        margin-top: -3.5vh;
+    }
+    
+    #project-4-title{
+        color: #330036;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 5vw;
+    }
+    
+    .project-4-content{
+        background-color: #330036;
+        color:  #BEA2C2;
+        font-family: 'K2D', sans-serif;
+        font-weight: 300;
+        font-size: 2vw;
+        height:700px;
+        width: 80vw;
+        border-radius: 3vh;
+        padding: 2.5vw;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        text-align: justify;
+        overflow: auto;
+    }
+    
+    .project-5{
+        width:90%;
+        margin-left: 2vw;
+        margin-top: -3.5vh;
+    }
+    
+    #project-5-title{
+        color: #330036;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 5vw;
+    }
+    
+    .project-5-content{
+        background-color: #330036;
+        color:  #BEA2C2;
+        font-family: 'K2D', sans-serif;
+        font-weight: 300;
+        font-size: 2vw;
+        height:700px;
+        width: 80vw;
+        border-radius: 3vh;
+        padding: 2.5vw;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        text-align: justify;
+        overflow: auto;
+    }
+	}
+
+@media only screen 
+and (min-width: 375px) 
+and (max-width: 812px) {
+	body{
+        background-color: #cef8e9;
+        overflow-y: hidden;
+    }
+    
+    .back{
+        width: 40px;
+        height: 40px;
+        position: -webkit-sticky;
+        position: sticky;
+        top: 5.5vh;
+    }
+    
+    #back{
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+    
+    .projects{
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        display: flex;
+    }
+    
+    .project-1{
+        /* width:90%; */
+        margin-left: 8.7vw;
+        margin-top: -1vh;
+    }
+    
+    #project-1-title{
+        color: #330036;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 8vw;
+    }
+    
+    .project-1-content{
+        background-color: #330036;
+        color:  #BEA2C2;
+        font-family: 'K2D', sans-serif;
+        font-weight: 300;
+        font-size: 3vw;
+        height:700px;
+        width: 80vw;
+        border-radius: 3vh;
+        padding: 2.5vw;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        text-align: justify;
+        overflow: auto;
+    }                  
+    
+    .project-2{
+        width:90%;
+        margin-left: 2vw;
+        margin-top: -1vh;
+    }
+    
+    #project-2-title{
+        color: #330036;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 8vw;
+    }
+    
+    .project-2-content{
+        background-color: #330036;
+        color:  #BEA2C2;
+        font-family: 'K2D', sans-serif;
+        font-weight: 300;
+        font-size: 3vw;
+        height:700px;
+        width: 80vw;
+        border-radius: 3vh;
+        padding: 2.5vw;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        text-align: justify;
+        overflow: auto;
+    }
+    
+    .project-3{
+        width:90%;
+        margin-left: 2vw;
+        margin-top: -1vh;
+    }
+    
+    #project-3-title{
+        color: #330036;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 8vw;
+    }
+    
+    .project-3-content{
+        background-color: #330036;
+        color:  #BEA2C2;
+        font-family: 'K2D', sans-serif;
+        font-weight: 300;
+        font-size: 3vw;
+        height:700px;
+        width: 80vw;
+        border-radius: 3vh;
+        padding: 2.5vw;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        text-align: justify;
+        overflow: auto;
+    }
+    .project-4{
+        width:90%;
+        margin-left: 2vw;
+        margin-top: -1vh;
+    }
+    
+    #project-4-title{
+        color: #330036;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 8vw;
+    }
+    
+    .project-4-content{
+        background-color: #330036;
+        color:  #BEA2C2;
+        font-family: 'K2D', sans-serif;
+        font-weight: 300;
+        font-size: 3vw;
+        height:700px;
+        width: 80vw;
+        border-radius: 3vh;
+        padding: 2.5vw;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        text-align: justify;
+        overflow: auto;
+    }
+    
+    .project-5{
+        width:90%;
+        margin-left: 2vw;
+        margin-top: -1vh;
+    }
+    
+    #project-5-title{
+        color: #330036;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 8vw;
+    }
+    
+    .project-5-content{
+        background-color: #330036;
+        color:  #BEA2C2;
+        font-family: 'K2D', sans-serif;
+        font-weight: 300;
+        font-size: 3vw;
+        height:700px;
+        width: 80vw;
+        border-radius: 3vh;
+        padding: 2.5vw;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        text-align: justify;
+        overflow: auto;
+    }
+		}
+
+
+
+/* media queries!!!!! */
