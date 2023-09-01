@@ -445,8 +445,8 @@ and (max-device-width: 812px) {
     
     /* I AM REDOING!!!! LOOK AT SKETCH IN NOTEBOOK!!! */
      .sections{
-        width: 50vh;
-        height: 40vw;
+        width: 45vh;
+        height: 50vw;
         font-size: 5vw;
         font-family: 'K2D', sans-serif;
         font-weight: 500;
@@ -562,17 +562,17 @@ and (max-device-width: 812px) {
         height: 60vw;
         display: none;
         margin-left: 13vw;
-        margin-top: -72vh;
+        margin-top: -62vh;
         background-color: #330036;
         border-radius: 5vh;
     }
     
     .photo{
         width: 35vh;
-        height: 45vw;
+        height: 5vw;
         display: none; 
         margin-left: 18vw;
-        margin-top: -49vh;
+        margin-top: -29vh;
         background-color: #BEA2C2;
         border-radius: 5vh;
     }
