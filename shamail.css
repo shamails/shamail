@@ -559,20 +559,20 @@ and (max-device-width: 812px) {
     
     .box{
         width: 40vh;
-        height: 60vw;
+        height: 80vw;
         display: none;
-        margin-left: 13vw;
+        margin-left: 8vw;
         margin-top: -62vh;
         background-color: #330036;
         border-radius: 5vh;
     }
     
     .photo{
-        width: 35vh;
-        height: 40vw;
+        width: 33vh;
+        height: 70vw;
         display: none; 
-        margin-left: 18vw;
-        margin-top: -9vh;
+        margin-left: 16vw;
+        margin-top: -35vh;
         background-color: #BEA2C2;
         border-radius: 5vh;
     }
