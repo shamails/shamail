@@ -445,14 +445,14 @@ and (max-width: 812px) {
     
     /* I AM REDOING!!!! LOOK AT SKETCH IN NOTEBOOK!!! */
      .sections{
-        width: 40vh;
-        height: 33vw;
-        font-size: 3vw;
+        width: 30vh;
+        height: 40vw;
+        font-size: 4vw;
         font-family: 'K2D', sans-serif;
         font-weight: 500;
         display: none;
         color:  #BEA2C2;
-        margin-left: 13vw;
+        margin-left: 8vw;
         margin-top: 55vh;
         background-color: #330036;
         text-align: center;
@@ -464,7 +464,7 @@ and (max-width: 812px) {
     }
     
     .interactive , .interactive:active , .interactive:link , .interactive:visited{
-        font-size: 3vw;
+        font-size: 4vw;
         font-weight: 100;
         /* width: 17vw;
         height: 6vh; */
@@ -485,7 +485,7 @@ and (max-width: 812px) {
     
     
     .toys , .toys:link , .toys:visited , .toys:active {
-        font-size: 3vw;
+        font-size: 4vw;
         font-weight: 100;
         margin-top: .5vw;
         text-decoration: none;
@@ -499,7 +499,7 @@ and (max-width: 812px) {
     }
     
     .editorial , .editorial:link , .editorial:visited , .editorial:active {
-        font-size: 3vw;
+        font-size: 4vw;
         font-weight: 100;
         margin-top: .5vw;
         text-decoration: none;
@@ -514,7 +514,7 @@ and (max-width: 812px) {
     }
     
     .about , .about:link , .about:visited , .about:active{
-        font-size: 3vw;
+        font-size: 4vw;
         font-weight: 100;
         margin-top: .5vw;
         text-decoration: none;
