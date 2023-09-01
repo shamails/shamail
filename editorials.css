@@ -350,11 +350,12 @@ and (max-device-width: 812px) {
     }
     
     .back{
-        width: 40px;
-        height: 40px;
+        width: 60px;
+        height: 60px;
         position: -webkit-sticky;
         position: sticky;
         top: 5.5vh;
+        left: 2vw;
     }
     
     #back{
@@ -372,7 +373,7 @@ and (max-device-width: 812px) {
     .project-1{
         /* width:90%; */
         margin-left: 8.7vw;
-        margin-top: 5vh;
+        margin-top: 1vh;
     }
     
     #project-1-title{
@@ -387,9 +388,9 @@ and (max-device-width: 812px) {
         color:  #BEA2C2;
         font-family: 'K2D', sans-serif;
         font-weight: 300;
-        font-size: 3vw;
-        height:900px;
-        width: 80vw;
+        font-size: 2.7vw;
+        height:1300px;
+        width: 78vw;
         border-radius: 3vh;
         padding: 2.5vw;
         padding-left: 3vw;
@@ -401,7 +402,7 @@ and (max-device-width: 812px) {
     .project-2{
         width:90%;
         margin-left: 2vw;
-        margin-top: 5vh;
+        margin-top: 1vh;
     }
     
     #project-2-title{
@@ -416,9 +417,9 @@ and (max-device-width: 812px) {
         color:  #BEA2C2;
         font-family: 'K2D', sans-serif;
         font-weight: 300;
-        font-size: 3vw;
-        height:900px;
-        width: 80vw;
+        font-size: 2.7vw;
+        height:1300px;
+        width: 78vw;
         border-radius: 3vh;
         padding: 2.5vw;
         padding-left: 3vw;
@@ -430,7 +431,7 @@ and (max-device-width: 812px) {
     .project-3{
         width:90%;
         margin-left: 2vw;
-        margin-top: 5vh;
+        margin-top: 1vh;
     }
     
     #project-3-title{
@@ -445,9 +446,9 @@ and (max-device-width: 812px) {
         color:  #BEA2C2;
         font-family: 'K2D', sans-serif;
         font-weight: 300;
-        font-size: 3vw;
-        height:900px;
-        width: 80vw;
+        font-size: 2.7vw;
+        height:1300px;
+        width: 78vw;
         border-radius: 3vh;
         padding: 2.5vw;
         padding-left: 3vw;
@@ -458,7 +459,7 @@ and (max-device-width: 812px) {
     .project-4{
         width:90%;
         margin-left: 2vw;
-        margin-top: 5vh;
+        margin-top: 1vh;
     }
     
     #project-4-title{
@@ -473,9 +474,9 @@ and (max-device-width: 812px) {
         color:  #BEA2C2;
         font-family: 'K2D', sans-serif;
         font-weight: 300;
-        font-size: 3vw;
-        height:900px;
-        width: 80vw;
+        font-size: 2.7vw;
+        height:1300px;
+        width: 78vw;
         border-radius: 3vh;
         padding: 2.5vw;
         padding-left: 3vw;
@@ -487,7 +488,7 @@ and (max-device-width: 812px) {
     .project-5{
         width:90%;
         margin-left: 2vw;
-        margin-top: 5vh;
+        margin-top: 1vh;
     }
     
     #project-5-title{
@@ -502,9 +503,9 @@ and (max-device-width: 812px) {
         color:  #BEA2C2;
         font-family: 'K2D', sans-serif;
         font-weight: 300;
-        font-size: 3vw;
-        height:900px;
-        width: 80vw;
+        font-size: 2.7vw;
+        height:1300px;
+        width: 78vw;
         border-radius: 3vh;
         padding: 2.5vw;
         padding-left: 3vw;
