@@ -447,13 +447,13 @@ and (max-width: 812px) {
      .sections{
         width: 30vh;
         height: 40vw;
-        font-size: 4vw;
+        font-size: 5vw;
         font-family: 'K2D', sans-serif;
         font-weight: 500;
         display: none;
         color:  #BEA2C2;
-        margin-left: 8vw;
-        margin-top: 55vh;
+        margin-left: 4vw;
+        margin-top: 85vh;
         background-color: #330036;
         text-align: center;
         border-radius: 5vh;
