@@ -1,7 +1,7 @@
 body{
     background-color: #cef8e9;
-    overflow-y: hidden;
-    overflow-x: hidden;
+    /* overflow-y: hidden;
+    overflow-x: hidden; */
 }
 
 /* pervious colors used:
@@ -276,11 +276,12 @@ light purple:BEA2C2*/
 }
 
 .photo{
+    position: absolute;
     width: 55vh;
     height: 27vw;
     display: none; 
-    margin-left: 56.3vw;
-    margin-top: -52vh;
+    margin-left: 1.5vw;
+    margin-top: 2.5vh;
     background-color: #BEA2C2;
     border-radius: 5vh;
 }
