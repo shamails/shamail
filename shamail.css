@@ -558,10 +558,10 @@ and (max-device-width: 812px) {
     }
     
     .box{
-        width: 40vh;
-        height: 80vw;
+        width: 45vh;
+        height: 85vw;
         display: none;
-        margin-left: 10vw;
+        margin-left: 8vw;
         margin-top: -72vh;
         background-color: #330036;
         border-radius: 5vh;
