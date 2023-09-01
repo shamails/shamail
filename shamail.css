@@ -289,8 +289,8 @@ and (min-device-width: 375px)
 and (max-device-width: 812px) {
     body{
         background-color: #cef8e9;
-        /* overflow-y: hidden;
-        overflow-x: hidden; */
+        overflow-y: hidden;
+        overflow-x: hidden;
     }
     
     /* pervious colors used:
@@ -445,7 +445,7 @@ and (max-device-width: 812px) {
     
     /* I AM REDOING!!!! LOOK AT SKETCH IN NOTEBOOK!!! */
      .sections{
-        width: 30vh;
+        width: 50vh;
         height: 40vw;
         font-size: 5vw;
         font-family: 'K2D', sans-serif;
@@ -453,7 +453,7 @@ and (max-device-width: 812px) {
         display: none;
         color:  #BEA2C2;
         margin-left: 4vw;
-        margin-top: 85vh;
+        margin-top: 70vh;
         background-color: #330036;
         text-align: center;
         border-radius: 5vh;
@@ -562,7 +562,7 @@ and (max-device-width: 812px) {
         height: 60vw;
         display: none;
         margin-left: 13vw;
-        margin-top: -52vh;
+        margin-top: -72vh;
         background-color: #330036;
         border-radius: 5vh;
     }
@@ -572,7 +572,7 @@ and (max-device-width: 812px) {
         height: 45vw;
         display: none; 
         margin-left: 18vw;
-        margin-top: -29vh;
+        margin-top: -49vh;
         background-color: #BEA2C2;
         border-radius: 5vh;
     }
