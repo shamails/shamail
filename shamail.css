@@ -285,8 +285,8 @@ light purple:BEA2C2*/
     border-radius: 5vh;
 }
 @media only screen 
-and (min-width: 375px) 
-and (max-width: 812px) {
+and (min-device-width: 375px) 
+and (max-device-width: 812px) {
     body{
         background-color: #cef8e9;
         /* overflow-y: hidden;
