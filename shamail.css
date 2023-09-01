@@ -452,7 +452,7 @@ and (max-device-width: 812px) {
         font-weight: 500;
         display: none;
         color:  #BEA2C2;
-        margin-left: 7vw;
+        margin-left: 6vw;
         margin-top: 70vh;
         background-color: #330036;
         text-align: center;
@@ -562,7 +562,7 @@ and (max-device-width: 812px) {
         height: 80vw;
         display: none;
         margin-left: 9vw;
-        margin-top: -62vh;
+        margin-top: -72vh;
         background-color: #330036;
         border-radius: 5vh;
     }
@@ -573,7 +573,7 @@ and (max-device-width: 812px) {
         height: 70vw;
         display: none; 
         margin-left: 7vw;
-        margin-top: 2vh;
+        margin-top: 5vh;
         /* padding-top: 13vh;
         padding-bottom: 13vh; */
         background-color: #BEA2C2;
