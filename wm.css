@@ -350,11 +350,12 @@ and (max-device-width: 812px) {
     }
     
     .back{
-        width: 50px;
-        height: 50px;
+        width: 60px;
+        height: 60px;
         position: -webkit-sticky;
         position: sticky;
         top: 5.5vh;
+        left: 2vw;
     }
     
     #back{
@@ -387,9 +388,9 @@ and (max-device-width: 812px) {
         color:  #BEA2C2;
         font-family: 'K2D', sans-serif;
         font-weight: 300;
-        font-size: 2vw;
-        height:900px;
-        width: 80vw;
+        font-size: 2.5vw;
+        height:1200px;
+        width: 78vw;
         border-radius: 3vh;
         padding: 2.5vw;
         padding-left: 3vw;
@@ -416,9 +417,9 @@ and (max-device-width: 812px) {
         color:  #BEA2C2;
         font-family: 'K2D', sans-serif;
         font-weight: 300;
-        font-size: 2vw;
-        height:900px;
-        width: 80vw;
+        font-size: 2.5vw;
+        height:1200px;
+        width: 78vw;
         border-radius: 3vh;
         padding: 2.5vw;
         padding-left: 3vw;
@@ -445,9 +446,9 @@ and (max-device-width: 812px) {
         color:  #BEA2C2;
         font-family: 'K2D', sans-serif;
         font-weight: 300;
-        font-size: 2vw;
-        height:900px;
-        width: 80vw;
+        font-size: 2.5vw;
+        height:1200px;
+        width: 78vw;
         border-radius: 3vh;
         padding: 2.5vw;
         padding-left: 3vw;
@@ -473,9 +474,9 @@ and (max-device-width: 812px) {
         color:  #BEA2C2;
         font-family: 'K2D', sans-serif;
         font-weight: 300;
-        font-size: 2vw;
-        height:900px;
-        width: 80vw;
+        font-size: 2.5vw;
+        height:1200px;
+        width: 78vw;
         border-radius: 3vh;
         padding: 2.5vw;
         padding-left: 3vw;
@@ -502,9 +503,9 @@ and (max-device-width: 812px) {
         color:  #BEA2C2;
         font-family: 'K2D', sans-serif;
         font-weight: 300;
-        font-size: 2vw;
-        height:900px;
-        width: 80vw;
+        font-size: 2.5vw;
+        height:1200px;
+        width: 78vw;
         border-radius: 3vh;
         padding: 2.5vw;
         padding-left: 3vw;
