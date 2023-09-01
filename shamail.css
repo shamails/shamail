@@ -452,7 +452,7 @@ and (max-device-width: 812px) {
         font-weight: 500;
         display: none;
         color:  #BEA2C2;
-        margin-left: 5vw;
+        margin-left: 7vw;
         margin-top: 70vh;
         background-color: #330036;
         text-align: center;
@@ -572,7 +572,7 @@ and (max-device-width: 812px) {
         width: 33vh;
         height: 70vw;
         display: none; 
-        margin-left: 8vw;
+        margin-left: 7vw;
         margin-top: 2vh;
         /* padding-top: 13vh;
         padding-bottom: 13vh; */
