@@ -27,6 +27,17 @@ $(document).ready(function(){
         $(".photo").fadeIn(1000);
     });
     console.log('hewwo 2');
+    function transformScroll(event) {
+        if (!event.deltaY) {
+          return;
+        }
+      
+        event.currentTarget.scrollLeft += event.deltaY + event.deltaX;
+        event.preventDefault();
+      }
+      
+      var element = document.scrollingElement || document.documentElement;
+      element.addEventListener('wheel', transformScroll);
 
     // $(".interactive").click(function(){
     //     $(".interactive").hide();
