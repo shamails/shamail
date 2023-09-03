@@ -25,7 +25,7 @@ body{
 
 .project-1{
     /* width:90%; */
-    margin-left: 3vw;
+    margin-left: 4.5vw;
     margin-top: -4.1vh;
 }
 
@@ -34,6 +34,7 @@ body{
     font-family: 'K2D', sans-serif;
     font-weight: 500;
     font-size: 3.5vw;
+    margin-left: 27vw;
 }
 
 .project-1-content{
