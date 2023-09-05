@@ -270,7 +270,7 @@ light purple:BEA2C2*/
     height: 27vw;
     display: none;
     margin-left: 55vw;
-    margin-top: -52vh;
+    margin-top: -49vh;
     background-color: #330036;
     border-radius: 5vh;
 }
@@ -278,13 +278,25 @@ light purple:BEA2C2*/
 .photo{
     position: absolute;
     width: 50vh;
-    height: 23vw;
+    height: 26vw;
     display: none; 
     margin-left: 1.5vw;
-    margin-top: 2.5vh;
-    background-color: #BEA2C2;
+    margin-top: 0.7vh;
+    /* background-color: #BEA2C2; */
     border-radius: 5vh;
 }
+
+#photo{
+    width: 100%;
+    height: 100%;
+    /* border-radius: 5vh; */
+    object-fit: contain;
+}
+
+.box:hover{
+    background-color: #BEA2C2;
+}
+
 @media only screen 
 and (min-device-width: 375px) 
 and (max-device-width: 812px) {
