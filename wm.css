@@ -167,10 +167,29 @@ body{
     overflow: auto;
 }
 
+.p1-images{
+    display: flex;
+}
+
+.p2-images{
+    display: flex;
+}
+
+.p3-images{
+    display: flex;
+}
+
+.p4-images{
+    display: flex;
+}
+
+.p5-images{
+    display: flex;
+}
+
 .sprout-1{
     width: 250px;
     height: 250px;
-    display: flex;
     top: 4vh;
 }
 
@@ -183,7 +202,6 @@ body{
 .sprout-2{
     width: 250px;
     height: 250px;
-    display: flex;
     top: 4vh;
 }
 
@@ -196,7 +214,6 @@ body{
 .wtw-1{
     width: 250px;
     height: 250px;
-    display: flex;
     top: 4vh;
 }
 
@@ -209,7 +226,6 @@ body{
 .wtw-2{
     width: 250px;
     height: 250px;
-    display: flex;
     top: 4vh;
 }
 
@@ -222,7 +238,6 @@ body{
 .munit-1{
     width: 250px;
     height: 250px;
-    display: flex;
     top: 4vh;
 }
 
@@ -235,7 +250,6 @@ body{
 .munit-2{
     width: 250px;
     height: 250px;
-    display: flex;
     top: 4vh;
 }
 
@@ -248,7 +262,6 @@ body{
 .munit-3{
     width: 250px;
     height: 250px;
-    display: flex;
     top: 4vh;
 }
 
@@ -261,7 +274,6 @@ body{
 .gg-1{
     width: 250px;
     height: 250px;
-    display: flex;
     top: 4vh;
 }
 
@@ -274,7 +286,6 @@ body{
 .gg-2{
     width: 250px;
     height: 250px;
-    display: flex;
     top: 4vh;
 }
 
@@ -287,7 +298,6 @@ body{
 .gg-3{
     width: 250px;
     height: 250px;
-    display: flex;
     top: 4vh;
 }
 
@@ -300,7 +310,6 @@ body{
 .gg-4{
     width: 250px;
     height: 250px;
-    display: flex;
     top: 4vh;
 }
 
@@ -313,7 +322,6 @@ body{
 .gd-1{
     width: 250px;
     height: 250px;
-    display: flex;
     top: 4vh;
 }
 
@@ -326,7 +334,6 @@ body{
 .nwt-1{
     width: 250px;
     height: 250px;
-    display: flex;
     top: 4vh;
 }
 
@@ -339,7 +346,6 @@ body{
 .gd-nwt-1{
     width: 250px;
     height: 250px;
-    display: flex;
     top: 4vh;
 }
 
@@ -352,7 +358,6 @@ body{
 .rd-1{
     width: 250px;
     height: 250px;
-    display: flex;
     top: 4vh;
 }
 
