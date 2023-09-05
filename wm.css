@@ -160,7 +160,7 @@ body{
     height:700px;
     width: 80vw;
     border-radius: 3vh;
-    padding: 2.5;
+    padding: 2.5vw;
     padding-left: 3vw;
     padding-right: 3vw;
     text-align: justify;
@@ -168,29 +168,29 @@ body{
 }
 
 .p1-images{
-    display: flex;
+    /* display: inline-flex; */
 }
 
 .p2-images{
-    display: flex;
+    /* display: inline-flex; */
 }
 
 .p3-images{
-    display: flex;
+    /* display: inline-flex; */
 }
 
 .p4-images{
-    display: flex;
+    /* display: inline-flex; */
 }
 
 .p5-images{
-    display: flex;
+    /* display: inline-flex; */
 }
 
 .sprout-1{
     width: 700px;
     height: 700px;
-    top: 4vh;
+    /* top: 4vh; */
 }
 
 #sprout-1{
@@ -202,8 +202,8 @@ body{
 .sprout-2{
     width: 700px;
     height: 700px;
-    top: 4vh;
-    left: 20vw;
+    /* top: 4vh;
+    left: 20vw; */
 }
 
 #sprout-2{
@@ -215,8 +215,8 @@ body{
 .wtw-1{
     width: 700px;
     height: 700px;
-    top: 4vh;
-    left: 20vw;
+    /* top: 4vh;
+    left: 20vw; */
 }
 
 #wtw-1{
@@ -228,8 +228,8 @@ body{
 .wtw-2{
     width: 700px;
     height: 700px;
-    top: 4vh;
-    left: 20vw;
+    /* top: 4vh;
+    left: 20vw; */
 }
 
 #wtw-2{
@@ -239,10 +239,10 @@ body{
 }
 
 .munit-1{
-    width: 700px;
-    height: 700px;
-    top: 4vh;
-    left: 20vw;
+    width: 800px;
+    height: 500px;
+    /* top: 4vh;
+    left: 20vw; */
 }
 
 #munit-1{
@@ -252,10 +252,10 @@ body{
 }
 
 .munit-2{
-    width: 700px;
-    height: 700px;
-    top: 4vh;
-    left: 20vw;
+    width: 800px;
+    height: 500px;
+    /* top: 4vh;
+    left: 20vw; */
 }
 
 #munit-2{
@@ -265,10 +265,10 @@ body{
 }
 
 .munit-3{
-    width: 700px;
-    height: 700px;
-    top: 4vh;
-    left: 20vw;
+    width: 500px;
+    height: 900px;
+    /* top: 4vh;
+    left: 20vw; */
 }
 
 #munit-3{
@@ -280,8 +280,8 @@ body{
 .gg-1{
     width: 700px;
     height: 700px;
-    top: 4vh;
-    left: 20vw;
+    /* top: 4vh;
+    left: 20vw; */
 }
 
 #gg-1{
@@ -293,8 +293,8 @@ body{
 .gg-2{
     width: 700px;
     height: 700px;
-    top: 4vh;
-    left: 20vw;
+    /* top: 4vh;
+    left: 20vw; */
 }
 
 #gg-2{
@@ -306,8 +306,8 @@ body{
 .gg-3{
     width: 700px;
     height: 700px;
-    top: 4vh;
-    left: 20vw;
+    /* top: 4vh;
+    left: 20vw; */
 }
 
 #gg-3{
@@ -319,8 +319,8 @@ body{
 .gg-4{
     width: 700px;
     height: 700px;
-    top: 4vh;
-    left: 20vw;
+    /* top: 4vh;
+    left: 20vw; */
 }
 
 #gg-4{
@@ -332,8 +332,8 @@ body{
 .gd-1{
     width: 700px;
     height: 700px;
-    top: 4vh;
-    left: 20vw;
+    /* top: 4vh;
+    left: 20vw; */
 }
 
 #gd-1{
@@ -345,8 +345,8 @@ body{
 .nwt-1{
     width: 700px;
     height: 700px;
-    top: 4vh;
-    left: 20vw;
+    /* top: 4vh;
+    left: 20vw; */
 }
 
 #nwt-1{
@@ -358,8 +358,8 @@ body{
 .gd-nwt-1{
     width: 700px;
     height: 700px;
-    top: 4vh;
-    left: 20vw;
+    /* top: 4vh;
+    left: 20vw; */
 }
 
 #gd-nwt-1{
@@ -371,8 +371,8 @@ body{
 .rd-1{
     width: 700px;
     height: 700px;
-    top: 4vh;
-    left: 20vw;
+    /* top: 4vh;
+    left: 20vw; */
 }
 
 #rd-1{
