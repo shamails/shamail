@@ -718,6 +718,187 @@ and (max-device-width: 812px) {
         text-align: justify;
         overflow: auto;
     }
+    .wmf-1{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #wmf-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .wmf-2{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #wmf-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .wmf-3{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #wmf-3{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .gg-1{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #gg-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .gg-2{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #gg-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .gg-3{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #gg-3{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .gg-4{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #gg-4{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .jo-1{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #jo-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .jo-2{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #jo-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .jo-3{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #jo-3{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .type-1{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #type-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .type-2{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #type-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .type-3{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #type-3{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .poster-1{
+        width: 600px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #poster-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
 		}
 
 

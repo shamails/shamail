@@ -555,6 +555,201 @@ and (max-device-width: 1024px)
         text-align: justify;
         overflow: auto;
     }
+
+    .sprout-1{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #sprout-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .sprout-2{
+        width: 1200px;
+        height: 750px;
+        margin-top: 5vh;
+        margin-left: 4vw;
+    }
+    
+    #sprout-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .wtw-1{
+        width: 1200px;
+        height: 800px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #wtw-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .wtw-2{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #wtw-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .munit-1{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #munit-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .munit-2{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #munit-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .munit-3{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #munit-3{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .gg-1{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #gg-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .gg-2{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #gg-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .gg-3{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #gg-3{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .gg-4{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #gg-4{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .gd-1{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #gd-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .nwt-1{
+        width: 900px;
+        height: 900px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #nwt-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .gd-nwt-1{
+        width: 900px;
+        height: 900px;
+        /* top: 4vh;
+        left: 20vw; */
+    }
+    
+    #gd-nwt-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .rd-1{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #rd-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
 	}
 
 @media only screen 
@@ -729,7 +924,202 @@ and (max-device-width: 812px) {
         text-align: justify;
         overflow: auto;
     }
-		}
+
+     .sprout-1{
+       width: 600px;
+       height: 375px;
+       margin-top: 2vh;
+       margin-left: 4vw;
+    }
+        
+    #sprout-1{
+       width: 100%;
+       height: 100%;
+      object-fit: fill;
+    }
+        
+    .sprout-2{
+        width: 600px;
+       height: 375px;
+       margin-top: 5vh;
+       margin-left: 4vw;
+        }
+        
+    #sprout-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .wtw-1{
+        width: 600px;
+        height: 375px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #wtw-1{
+       width: 100%;
+       height: 100%;
+       object-fit: fill;
+    }
+        
+    .wtw-2{
+       width: 600px;
+       height: 375px;
+       margin-top: 2vh;
+       margin-left: 4vw;
+    }
+        
+    #wtw-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .munit-1{
+        width: 600px;
+        height: 375px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #munit-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .munit-2{
+        width: 600px;
+        height: 375px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #munit-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .munit-3{
+        width: 600px;
+        height: 375px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #munit-3{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .gg-1{
+        width: 600px;
+        height: 375px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #gg-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .gg-2{
+        width: 600px;
+        height: 375px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #gg-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .gg-3{
+        width: 600px;
+        height: 375px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #gg-3{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .gg-4{
+        width: 600px;
+        height: 375px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #gg-4{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .gd-1{
+        width: 600px;
+        height: 375px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #gd-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .nwt-1{
+        width: 900px;
+        height: 900px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #nwt-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .gd-nwt-1{
+        width: 900px;
+        height: 900px;
+        /* top: 4vh;
+        left: 20vw; */
+    }
+        
+    #gd-nwt-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .rd-1{
+        width: 600px;
+        height: 375px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #rd-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+}
 
 
 
