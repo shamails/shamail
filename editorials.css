@@ -166,6 +166,210 @@ body{
     text-align: justify;
     overflow: auto;
 }
+
+.p1-images{
+    display: flex;
+}
+
+.p2-images{
+    display: flex;
+}
+
+.p3-images{
+    display: flex;
+}
+
+.p4-images{
+    display: flex;
+}
+
+.p5-images{
+    display: flex;
+}
+
+.wmf-1{
+    width: 250px;
+    height: 250px;
+    top: 4vh;
+}
+
+#wmf-1{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.wmf-2{
+    width: 250px;
+    height: 250px;
+    top: 4vh;
+    left: 20vw;
+}
+
+#wmf-2{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.wmf-3{
+    width: 250px;
+    height: 250px;
+    top: 4vh;
+    left: 20vw;
+}
+
+#wmf-3{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.gg-1{
+    width: 250px;
+    height: 250px;
+    top: 4vh;
+    left: 20vw;
+}
+
+#gg-1{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.gg-2{
+    width: 250px;
+    height: 250px;
+    top: 4vh;
+    left: 20vw;
+}
+
+#gg-2{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.gg-3{
+    width: 250px;
+    height: 250px;
+    top: 4vh;
+    left: 20vw;
+}
+
+#gg-3{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.gg-4{
+    width: 250px;
+    height: 250px;
+    top: 4vh;
+    left: 20vw;
+}
+
+#gg-4{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.jo-1{
+    width: 250px;
+    height: 250px;
+    top: 4vh;
+    left: 20vw;
+}
+
+#jo-1{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.jo-2{
+    width: 250px;
+    height: 250px;
+    top: 4vh;
+    left: 20vw;
+}
+
+#jo-2{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.jo-3{
+    width: 250px;
+    height: 250px;
+    top: 4vh;
+    left: 20vw;
+}
+
+#jo-3{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.type-1{
+    width: 250px;
+    height: 250px;
+    top: 4vh;
+    left: 20vw;
+}
+
+#type-1{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.type-2{
+    width: 250px;
+    height: 250px;
+    top: 4vh;
+    left: 20vw;
+}
+
+#type-3{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.type-3{
+    width: 250px;
+    height: 250px;
+    top: 4vh;
+    left: 20vw;
+}
+
+#gd-1{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.poster-1{
+    width: 250px;
+    height: 250px;
+    top: 4vh;
+    left: 20vw;
+}
+
+#poster-1{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+
+
 @media only screen 
 and (min-device-width: 768px) 
 and (max-device-width: 1024px) 
