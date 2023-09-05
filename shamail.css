@@ -266,8 +266,8 @@ light purple:BEA2C2*/
 }
 
 .box{
-    width: 60vh;
-    height: 30vw;
+    width: 55vh;
+    height: 27vw;
     display: none;
     margin-left: 55vw;
     margin-top: -52vh;
@@ -277,8 +277,8 @@ light purple:BEA2C2*/
 
 .photo{
     position: absolute;
-    width: 55vh;
-    height: 27vw;
+    width: 50vh;
+    height: 23vw;
     display: none; 
     margin-left: 1.5vw;
     margin-top: 2.5vh;
