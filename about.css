@@ -3,7 +3,7 @@ body{
     overflow-y: hidden;
 }
 
-a , a:link , a:active , a:hover , a:visited {
+a , a:link , a:active , a:visited {
     color: #BEA2C2;
     text-decoration: dashed;
 }
