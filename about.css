@@ -3,10 +3,6 @@ body{
     overflow-y: hidden;
 }
 
-a , a:link , a:active , a:visited {
-    color: #BEA2C2;
-    text-decoration: dashed;
-}
 
 .back{
     width: 50px;
@@ -57,6 +53,22 @@ a , a:link , a:active , a:visited {
     text-align: justify;
     overflow: auto;
 }  
+
+.email , .email:link , .email:active , .email:visited {
+    color: #BEA2C2;
+    text-decoration: dashed;
+}
+
+.linkedin , .linkedin:link , .linkedin:active , .linkedin:visited {
+    color: #BEA2C2;
+    text-decoration: dashed;
+}
+
+.resume , .resume:link , .resume:active , .resume:visited {
+    color: #BEA2C2;
+    text-decoration: dashed;
+}
+
 .email:hover{
     color: #330036;
     background-color: #BEA2C2;
