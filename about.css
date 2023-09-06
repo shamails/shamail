@@ -371,7 +371,37 @@ and (max-device-width: 1024px)
         text-align: justify;
         overflow: auto;
     } */
-	}
+    .r , .r:link , .r:visited , .r:active {
+        color: #BEA2C2;
+        text-decoration: dashed;
+    }
+    
+    .l , .l:link , .l:visited ,.l:active{
+        color: #BEA2C2;
+        text-decoration: dashed;
+    }
+    
+    .e , .e:link , .e:visited , .e:active{
+        color: #BEA2C2;
+        text-decoration: dashed;
+    }
+    
+    .e:hover{
+        color: #330036;
+        background-color: #BEA2C2;
+    }  
+    
+    .l:hover{
+        color: #330036;
+        background-color: #BEA2C2;
+    } 
+    
+    .r:hover{
+        color: #330036;
+        background-color: #BEA2C2;
+    } 	
+
+}
 
 @media only screen 
 and (min-device-width: 375px) 
@@ -430,7 +460,37 @@ and (max-device-width: 812px) {
         padding-right: 3vw;
         text-align: justify;
         overflow: auto;
-    }                  
+    }  
+    
+    .r , .r:link , .r:visited , .r:active {
+        color: #BEA2C2;
+        text-decoration: dashed;
+    }
+    
+    .l , .l:link , .l:visited ,.l:active{
+        color: #BEA2C2;
+        text-decoration: dashed;
+    }
+    
+    .e , .e:link , .e:visited , .e:active{
+        color: #BEA2C2;
+        text-decoration: dashed;
+    }
+    
+    .e:hover{
+        color: #330036;
+        background-color: #BEA2C2;
+    }  
+    
+    .l:hover{
+        color: #330036;
+        background-color: #BEA2C2;
+    } 
+    
+    .r:hover{
+        color: #330036;
+        background-color: #BEA2C2;
+    } 
     
     /* .project-2{
         width:90%;
@@ -607,7 +667,37 @@ and (max-device-width: 812px) {
         padding-right: 3vw;
         text-align: justify;
         overflow: auto;
-    }                  
+    }   
+    
+    .r , .r:link , .r:visited , .r:active {
+        color: #BEA2C2;
+        text-decoration: dashed;
+    }
+    
+    .l , .l:link , .l:visited ,.l:active{
+        color: #BEA2C2;
+        text-decoration: dashed;
+    }
+    
+    .e , .e:link , .e:visited , .e:active{
+        color: #BEA2C2;
+        text-decoration: dashed;
+    }
+    
+    .e:hover{
+        color: #330036;
+        background-color: #BEA2C2;
+    }  
+    
+    .l:hover{
+        color: #330036;
+        background-color: #BEA2C2;
+    } 
+    
+    .r:hover{
+        color: #330036;
+        background-color: #BEA2C2;
+    } 
     
 }
 
