@@ -160,11 +160,13 @@ body{
     height:700px;
     width: 80vw;
     border-radius: 3vh;
+    margin-right: 5vw;
     padding: 2.5vw;
     padding-left: 3vw;
     padding-right: 3vw;
     text-align: justify;
     overflow: auto;
+    left: 5vw;
 }
 /* 
 .p1-images{
@@ -1116,6 +1118,7 @@ and (max-device-width: 812px) {
         height:1000px;
         width: 80vw;
         border-radius: 3vh;
+        margin-right: 10vw;
         padding: 2.5vw;
         padding-left: 3vw;
         padding-right: 3vw;
