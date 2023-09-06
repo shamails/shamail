@@ -356,6 +356,19 @@ body{
     object-fit: fill;
 }
 
+.type-4{
+    width: 1200px;
+    height: 750px;
+    margin-top: 2vh;
+    margin-left: 4vw;
+}
+
+#type-4{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
 .poster-1{
     width: 1200px;
     height: 750px;
@@ -364,6 +377,19 @@ body{
 }
 
 #poster-1{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.poster-2{
+    width: 1200px;
+    height: 750px;
+    margin-top: 2vh;
+    margin-left: 4vw;
+}
+
+#poster-2{
     width: 100%;
     height: 100%;
     object-fit: fill;
@@ -886,6 +912,19 @@ and (max-device-width: 812px) {
         height: 100%;
         object-fit: fill;
     }
+
+    .type-4{
+        width: 700px;
+        height: 475px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #type-4{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
     
     .poster-1{
         width: 700px;
@@ -895,6 +934,19 @@ and (max-device-width: 812px) {
     }
     
     #poster-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+
+    .poster-2{
+        width: 700px;
+        height: 475px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #poster-2{
         width: 100%;
         height: 100%;
         object-fit: fill;
