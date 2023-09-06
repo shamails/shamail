@@ -453,7 +453,7 @@ and (max-device-width: 812px) {
         font-weight: 300;
         font-size: 2.7vw;
         height:1300px;
-        width: 82vw;
+        width: 84vw;
         border-radius: 3vh;
         padding: 2.5vw;
         padding-left: 3vw;
@@ -465,30 +465,36 @@ and (max-device-width: 812px) {
     .r , .r:link , .r:visited , .r:active {
         color: #BEA2C2;
         text-decoration: dashed;
+        font-size: 3vw;
     }
     
     .l , .l:link , .l:visited ,.l:active{
         color: #BEA2C2;
+        font-size: 3vw;
         text-decoration: dashed;
     }
     
     .e , .e:link , .e:visited , .e:active{
         color: #BEA2C2;
+        font-size: 3vw;
         text-decoration: dashed;
     }
     
     .e:hover{
         color: #330036;
+        font-size: 3vw;
         background-color: #BEA2C2;
     }  
     
     .l:hover{
         color: #330036;
+        font-size: 3vw;
         background-color: #BEA2C2;
     } 
     
     .r:hover{
         color: #330036;
+        font-size: 3vw;
         background-color: #BEA2C2;
     } 
     
