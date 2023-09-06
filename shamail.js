@@ -27,6 +27,31 @@ $(document).ready(function(){
         $(".photo").fadeIn(1000);
     });
     console.log('hewwo 2');
+
+    $('.box').on({
+        'click': function(){
+            $('#photo-1').attr('src','photo-2.png');
+        }
+    });
+    
+   $('.box').on({
+        'click': function(){
+            $('.photo-2').attr('src','photo-3.png');
+        }
+    });
+    
+   $('.box').on({
+        'click': function(){
+            $('.photo-3').attr('src','photo-4');
+        }
+    });
+    
+   $('.box').on({
+        'click': function(){
+            $('.photo-4').attr('src','photo-5.png');
+        }
+    });
+
     // function transformScroll(event) {
     //     if (!event.deltaY) {
     //       return;
@@ -39,12 +64,12 @@ $(document).ready(function(){
     //   var element = document.scrollingElement || document.documentElement;
     //   element.addEventListener('wheel', transformScroll);
 
-    // $(".interactive").click(function(){
-    //     $(".interactive").hide();
-    //     $(".toys").hide();
-    //     $(".editorial").hide();
-    //     $(".about").hide();
-    //     // $(".wm").css("visibility" , "visible")
+    // $(".photo").click(function(){
+    //     $(".photo").hide();
+    //     $(".photo-3").hide();
+    //     $(".photo-4").hide();
+    //     $(".photo-2").hide();
+    //     $(".photo-5").css("visibility" , "visible")
     // });
 
     // $(".toys").click(function(){
