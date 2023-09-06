@@ -226,7 +226,7 @@ and (max-device-width: 1024px)
         overflow: auto;
     }                  
     
-    a , a:link , a:active {
+    a , a:link , a:active , a:hover {
         color: #BEA2C2;
         text-decoration: dotted;
     }
