@@ -951,8 +951,407 @@ and (max-device-width: 812px) {
         height: 100%;
         object-fit: fill;
     }
-		}
+	}
 
+@media only screen and (min-width: 1690px) {
+    body{
+        background-color: #cef8e9;
+        overflow-y: hidden;
+    }
+    
+    .back{
+        width: 50px;
+        height: 50px;
+        position: -webkit-sticky;
+        position: sticky;
+        top: 4vh;
+    }
+    
+    #back{
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+    
+    .projects{
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        display: flex;
+    }
+    
+    .project-1{
+        /* width:90%; */
+        margin-left: 3vw;
+        margin-top: -4.1vh;
+    }
+    
+    #project-1-title{
+        color: #330036;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 3.5vw;
+    }
+    
+    .project-1-content{
+        background-color: #330036;
+        color:  #BEA2C2;
+        font-family: 'K2D', sans-serif;
+        font-weight: 300;
+        font-size: 1.5vw;
+        height:1000px;
+        width: 80vw;
+        border-radius: 3vh;
+        padding: 2.5vw;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        text-align: justify;
+        overflow: auto;
+    }                  
+    
+    .project-2{
+        width:90%;
+        margin-left: 2vw;
+        margin-top: -4.1vh;
+    }
+    
+    #project-2-title{
+        color: #330036;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 3.5vw;
+    }
+    
+    .project-2-content{
+        background-color: #330036;
+        color:  #BEA2C2;
+        font-family: 'K2D', sans-serif;
+        font-weight: 300;
+        font-size: 1.5vw;
+        height:1000px;
+        width: 80vw;
+        border-radius: 3vh;
+        padding: 2.5vw;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        text-align: justify;
+        overflow: auto;
+    }
+    
+    .project-3{
+        width:90%;
+        margin-left: 2vw;
+        margin-top: -4.1vh;
+    }
+    
+    #project-3-title{
+        color: #330036;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 3.5vw;
+    }
+    
+    .project-3-content{
+        background-color: #330036;
+        color:  #BEA2C2;
+        font-family: 'K2D', sans-serif;
+        font-weight: 300;
+        font-size: 1.5vw;
+        height:1000px;
+        width: 80vw;
+        border-radius: 3vh;
+        padding: 2.5vw;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        text-align: justify;
+        overflow: auto;
+    }
+    .project-4{
+        width:90%;
+        margin-left: 2vw;
+        margin-top: -4.1vh;
+    }
+    
+    #project-4-title{
+        color: #330036;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 3.5vw;
+    }
+    
+    .project-4-content{
+        background-color: #330036;
+        color:  #BEA2C2;
+        font-family: 'K2D', sans-serif;
+        font-weight: 300;
+        font-size: 1.5vw;
+        height:1000px;
+        width: 80vw;
+        border-radius: 3vh;
+        padding: 2.5vw;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        text-align: justify;
+        overflow: auto;
+    }
+    
+    .project-5{
+        width:90%;
+        margin-left: 2vw;
+        margin-top: -4.1vh;
+    }
+    
+    #project-5-title{
+        color: #330036;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 3.5vw;
+    }
+    
+    .project-5-content{
+        background-color: #330036;
+        color:  #BEA2C2;
+        font-family: 'K2D', sans-serif;
+        font-weight: 300;
+        font-size: 1.5vw;
+        height:1000px;
+        width: 80vw;
+        border-radius: 3vh;
+        padding: 2.5vw;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        text-align: justify;
+        overflow: auto;
+    }
+    /* 
+    .p1-images{
+        display: flex;
+    }
+    
+    .p2-images{
+        display: flex;
+    }
+    
+    .p3-images{
+        display: flex;
+    }
+    
+    .p4-images{
+        display: flex;
+    }
+    
+    .p5-images{
+        display: flex;
+    } */
+    
+    .wmf-1{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #wmf-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .wmf-2{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #wmf-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .wmf-3{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #wmf-3{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .gg-1{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #gg-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .gg-2{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #gg-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .gg-3{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #gg-3{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .gg-4{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #gg-4{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .jo-1{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #jo-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .jo-2{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #jo-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .jo-3{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #jo-3{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .type-1{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #type-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .type-2{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #type-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .type-3{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #type-3{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .type-4{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #type-4{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .poster-1{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #poster-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .poster-2{
+        width: 1200px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #poster-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    }
 
 
 /* media queries!!!!! */
