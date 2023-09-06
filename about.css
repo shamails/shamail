@@ -54,17 +54,7 @@ body{
     overflow: auto;
 }  
 
-.email , .email:link , .email:active , .email:visited {
-    color: #BEA2C2;
-    text-decoration: dashed;
-}
-
-.linkedin , .linkedin:link , .linkedin:active , .linkedin:visited {
-    color: #BEA2C2;
-    text-decoration: dashed;
-}
-
-.resume , .resume:link , .resume:active , .resume:visited {
+a , a:link , a:active , a:visited {
     color: #BEA2C2;
     text-decoration: dashed;
 }
