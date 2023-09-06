@@ -583,14 +583,25 @@ and (max-device-width: 812px) {
     .photo{
         position: absolute;
         width: 38vh;
-        height: 70vw;
+        height: 82vw;
         display: none; 
         margin-left: 7.2vw;
         margin-top: 2.5vh;
         /* padding-top: 13vh;
         padding-bottom: 13vh; */
-        background-color: #BEA2C2;
+        /* background-color: #BEA2C2; */
         border-radius: 5vh;
+    }
+
+    #photo{
+        width: 100%;
+        height: 100%;
+        /* border-radius: 5vh; */
+        object-fit: contain;
+    }
+    
+    .box:hover{
+        background-color: #BEA2C2;
     }
     /* you have to do media queries now T-T only for mobile and maybe tablet! should be okay for any desktop!! */
 		}
