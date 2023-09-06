@@ -203,7 +203,7 @@ body{
 .sprout-2{
     width: 1200px;
     height: 750px;
-    margin-top: 5vh;
+    margin-top: 2vh;
     margin-left: 4vw;
 }
 
@@ -1353,7 +1353,7 @@ and (max-device-width: 812px) {
     .sprout-2{
         width: 1500px;
         height: 950px;
-        margin-top: 5vh;
+        margin-top: 2vh;
         margin-left: 8vw;
     }
     
