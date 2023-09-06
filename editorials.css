@@ -626,8 +626,8 @@ and (max-device-width: 812px) {
         width: 78vw;
         border-radius: 3vh;
         padding: 2.5vw;
-        padding-left: 3vw;
-        padding-right: 3vw;
+        padding-left: 5vw;
+        padding-right: 5vw;
         text-align: justify;
         overflow: auto;
     }                  
@@ -655,8 +655,8 @@ and (max-device-width: 812px) {
         width: 78vw;
         border-radius: 3vh;
         padding: 2.5vw;
-        padding-left: 3vw;
-        padding-right: 3vw;
+        padding-left: 5vw;
+        padding-right: 5vw;
         text-align: justify;
         overflow: auto;
     }
@@ -684,8 +684,8 @@ and (max-device-width: 812px) {
         width: 78vw;
         border-radius: 3vh;
         padding: 2.5vw;
-        padding-left: 3vw;
-        padding-right: 3vw;
+        padding-left: 5vw;
+        padding-right: 5vw;
         text-align: justify;
         overflow: auto;
     }
@@ -712,8 +712,8 @@ and (max-device-width: 812px) {
         width: 78vw;
         border-radius: 3vh;
         padding: 2.5vw;
-        padding-left: 3vw;
-        padding-right: 3vw;
+        padding-left: 5vw;
+        padding-right: 5vw;
         text-align: justify;
         overflow: auto;
     }
@@ -742,8 +742,8 @@ and (max-device-width: 812px) {
         border-radius: 3vh;
         margin-right: 7vw;
         padding: 2.5vw;
-        padding-left: 3vw;
-        padding-right: 3vw;
+        padding-left: 5vw;
+        padding-right: 5vw;
         text-align: justify;
         overflow: auto;
     }
