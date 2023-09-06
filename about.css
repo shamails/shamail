@@ -5,7 +5,7 @@ body{
 
 a , a:link , a:active , a:hover , a:visited {
     color: #BEA2C2;
-    text-decoration: dotted;
+    text-decoration: dashed;
 }
 
 .back{
