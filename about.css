@@ -54,22 +54,32 @@ body{
     overflow: auto;
 }  
 
-a , a:link , a:active , a:visited {
+.r , .r:link , .r:visited , .r:active {
     color: #BEA2C2;
     text-decoration: dashed;
 }
 
-.email:hover{
+.l , .l:link , .l:visited ,.l:active{
+    color: #BEA2C2;
+    text-decoration: dashed;
+}
+
+.e , .e:link , .e:visited , .e:active{
+    color: #BEA2C2;
+    text-decoration: dashed;
+}
+
+.e:hover{
     color: #330036;
     background-color: #BEA2C2;
 }  
 
-.linkedin:hover{
+.l:hover{
     color: #330036;
     background-color: #BEA2C2;
 } 
 
-.resume:hover{
+.r:hover{
     color: #330036;
     background-color: #BEA2C2;
 } 
