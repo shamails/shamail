@@ -387,6 +387,7 @@ and (max-device-width: 812px) {
         font-family: 'K2D', sans-serif;
         font-weight: 500;
         font-size: 8vw;
+        margin-left: 3vw;
     }
     
     .project-1-content{
