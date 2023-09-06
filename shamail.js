@@ -28,29 +28,84 @@ $(document).ready(function(){
     });
     console.log('hewwo 2');
 
+    
+
+    // var images = [
+    //     'photo-2.png' ,
+    //     'photo-3.png' ,
+    //     'photo-4.png' ,
+    //     'photo-5.png' ,
+    //     'shamail.png'
+    // ]
+
+    // for ( img in images ) {
+    //     // show the first image, hide the rest
+    //     if ( img == 0 ) {
+    //         'click' : function(){
+    //         $('#photo-1').attr('src','photo-2.png') ;
+    //     } }
+    //     if ( img == 1) {
+    //         'click' : function(){
+    //         $('#photo-1').attr('src','photo-3.png') ;
+    //     }}
+    //      if ( img == 2) {
+    //         'click' : function(){
+    //         $('#photo-1').attr('src','photo-4.png') ;
+    //     }}
+    //     if (img == 3) {
+    //         'click' : function(){
+    //         $('#photo-1').attr('src','photo-5.png') ;
+    //     }}
+    // }
+        var photo2 = 'photo-2.png'
+        var photo3 = 'photo-3.png'
+        var photo4 = 'photo-4.png'
+        var photo5 = 'photo-5.png'
     $('.box').on({
         'click': function(){
-            $('#photo-1').attr('src','photo-2.png');
-        }
+            $('#photo-1').attr('src','photo-4.png');
+            // $('#photo-1').attr('id','photo-2');
+            // $('.photo').replaceWith($(".photo2"));
+        } ,
+        'mouseover': function(){
+            $('#photo-1').attr('src','photo-3.png');
+            // $('#photo-1').attr('id','photo-2');
+            // $('.photo').replaceWith($(".photo2"));
+        } ,
+        'mouseleave': function(){
+            $('#photo-1').attr('src','shamail.png');
+            // $('#photo-1').attr('id','photo-2');
+            // $('.photo').replaceWith($(".photo2"));
+        } 
+        // 'click': function(){
+        //     $('#photo-1').attr('src','photo-4.png');
+        //     // $('#photo-1').attr('id','photo-2');
+        //     // $('.photo').replaceWith($(".photo2"));
+        // } 
+        // 'click': function(){
+        //     $('#photo-1').attr('src','photo-5.png');
+        //     // $('#photo-1').attr('id','photo-2');
+        //     // $('.photo').replaceWith($(".photo2"));
+        // }
     });
     
-   $('.box').on({
-        'click': function(){
-            $('.photo-2').attr('src','photo-3.png');
-        }
-    });
+   
     
-   $('.box').on({
-        'click': function(){
-            $('.photo-3').attr('src','photo-4');
-        }
-    });
+//    $('.box').on({
+//         'click': function(){
+//             $('#photo-3').attr('src','photo-4.png');
+//             $('#photo-3').attr('id','photo-4');
+//             // $('.photo3').replaceWith($(".photo4"));
+//         }
+//     });
     
-   $('.box').on({
-        'click': function(){
-            $('.photo-4').attr('src','photo-5.png');
-        }
-    });
+//    $('.box').on({
+//         'click': function(){
+//             $('#photo-4').attr('src','photo-5.png');
+//             $('#photo-4').attr('id','photo-5');
+//             // $('.photo4').replaceWith($(".photo5"));
+//         }
+//     });
 
     // function transformScroll(event) {
     //     if (!event.deltaY) {
