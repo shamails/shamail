@@ -521,6 +521,67 @@ and (max-device-width: 812px) {
     } */
 		}
 
-
+@media only screen and (min-width: 1690px) {
+    body{
+        background-color: #cef8e9;
+        overflow-y: hidden;
+    }
+    
+    a , a:link , a:active , a:hover , a:visited {
+        color: #BEA2C2;
+        text-decoration: dashed;
+    }
+    
+    .back{
+        width: 50px;
+        height: 50px;
+        position: -webkit-sticky;
+        position: sticky;
+        top: 4vh;
+    }
+    
+    #back{
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+    
+    .projects{
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        display: flex;
+    }
+    
+    .project-1{
+        /* width:90%; */
+        margin-left: 4.5vw;
+        margin-top: -4.1vh;
+    }
+    
+    #project-1-title{
+        color: #330036;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 3.5vw;
+        margin-left: 27vw;
+    }
+    
+    .project-1-content{
+        background-color: #330036;
+        color:  #BEA2C2;
+        font-family: 'K2D', sans-serif;
+        font-weight: 300;
+        font-size: 1.5vw;
+        height:1000px;
+        width: 80vw;
+        border-radius: 3vh;
+        padding: 2.5vw;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        text-align: justify;
+        overflow: auto;
+    }                  
+    
+}
 
 /* media queries!!!!! */
