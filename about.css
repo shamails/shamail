@@ -52,7 +52,21 @@ body{
     padding-right: 3vw;
     text-align: justify;
     overflow: auto;
-}  
+} 
+
+.hire-me{
+    width: 700px;
+    height: 450px;
+    margin-top: 2vh;
+    margin-left: 4vw;
+}
+
+#hire-me{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
 
 .r , .r:link , .r:visited , .r:active {
     color: #BEA2C2;
