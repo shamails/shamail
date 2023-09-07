@@ -214,6 +214,34 @@ body{
     object-fit: fill;
 }
 
+.sprout-3{
+    width: 1200px;
+    height: 750px;
+    margin-top: 2vh;
+    margin-left: 4vw;
+    display: flex;
+}
+
+#sprout-3{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.sprout-4{
+    width: 1200px;
+    height: 750px;
+    margin-top: 2vh;
+    margin-left: 4vw;
+}
+
+#sprout-4{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: flex;
+}
+
 .wtw-1{
     width: 1200px;
     height: 800px;
@@ -238,6 +266,34 @@ body{
     width: 100%;
     height: 100%;
     object-fit: fill;
+}
+
+.wtw-3{
+    width: 1200px;
+    height: 800px;
+    margin-top: 2vh;
+    margin-left: 4vw;
+    display: flex;
+}
+
+#wtw-3{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.wtw-4{
+    width: 1200px;
+    height: 750px;
+    margin-top: 2vh;
+    margin-left: 4vw;
+    display: flex;
+}
+
+#wtw-4{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
 }
 
 .munit-1{
