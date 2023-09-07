@@ -385,32 +385,32 @@ and (max-device-width: 1024px)
         text-align: justify;
         overflow: auto;
     } */
-    .r , .r:link , .r:visited , .r:active {
+    .resume , .resume:link , .resume:visited , .resume:active {
         color: #BEA2C2;
         text-decoration: dashed;
     }
     
-    .l , .l:link , .l:visited ,.l:active{
+    .linkedin , .linkedin:link , .linkedin:visited , .linkedin:active{
         color: #BEA2C2;
         text-decoration: dashed;
     }
     
-    .e , .e:link , .e:visited , .e:active{
+    .email , .email:link , .email:visited , .email:active{
         color: #BEA2C2;
         text-decoration: dashed;
     }
     
-    .e:hover{
+    .email:hover{
         color: #330036;
         background-color: #BEA2C2;
     }  
     
-    .l:hover{
+    .linkedin:hover{
         color: #330036;
         background-color: #BEA2C2;
     } 
     
-    .r:hover{
+    .resume:hover{
         color: #330036;
         background-color: #BEA2C2;
     } 	
