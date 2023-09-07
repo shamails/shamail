@@ -514,8 +514,8 @@ and (max-device-width: 812px) {
     } 
 
     .hire-me{
-        width: 300px;
-        height: 150px;
+        width: 500px;
+        height: 350px;
         margin-top: 2vh;
         margin-left: 1vw;
     }
