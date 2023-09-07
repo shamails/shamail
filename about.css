@@ -464,12 +464,12 @@ and (max-device-width: 812px) {
         background-color: #330036;
         color:  #BEA2C2;
         font-family: 'K2D', sans-serif;
-        font-weight: 300;
-        font-size: 2.7vw;
+        font-weight: 500;
+        font-size: 3.5vw;
         height:1300px;
         width: 84vw;
         border-radius: 3vh;
-        padding: 2.5vw;
+        padding: 3vw;
         padding-left: 3vw;
         padding-right: 3vw;
         text-align: justify;
