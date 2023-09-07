@@ -63,7 +63,7 @@ $(document).ready(function(){
         var photo5 = 'photo-5.png'
     $('.box').on({
         'click': function(){
-            $('#photo-1').attr('src','photo-4.png');
+            $('#photo-1').attr('src','photo-5.png');
             // $('#photo-1').attr('id','photo-2');
             // $('.photo').replaceWith($(".photo2"));
         } ,
@@ -73,7 +73,7 @@ $(document).ready(function(){
             // $('.photo').replaceWith($(".photo2"));
         } ,
         'mouseleave': function(){
-            $('#photo-1').attr('src','shamail.png');
+            $('#photo-1').attr('src','sham.png');
             // $('#photo-1').attr('id','photo-2');
             // $('.photo').replaceWith($(".photo2"));
         } 
