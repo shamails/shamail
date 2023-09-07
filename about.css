@@ -388,16 +388,19 @@ and (max-device-width: 1024px)
     .resume , .resume:link , .resume:visited , .resume:active {
         color: #BEA2C2;
         text-decoration: dashed;
+        text-align: center;
     }
     
     .linkedin , .linkedin:link , .linkedin:visited , .linkedin:active{
         color: #BEA2C2;
         text-decoration: dashed;
+        text-align: center;
     }
     
     .email , .email:link , .email:visited , .email:active{
         color: #BEA2C2;
         text-decoration: dashed;
+        text-align: center;
     }
     
     .email:hover{
