@@ -1037,7 +1037,7 @@ and (max-device-width: 812px) {
      #sprout-3{
         width: 100%;
         height: 100%;
-       object-fit: fill;
+       object-fit: contain;
      }
          
      .sprout-4{
@@ -1050,7 +1050,7 @@ and (max-device-width: 812px) {
      #sprout-4{
          width: 100%;
          height: 100%;
-         object-fit: fill;
+         object-fit: contain;
      }
         
     .wtw-1{
@@ -1089,7 +1089,7 @@ and (max-device-width: 812px) {
     #wtw-3{
        width: 100%;
        height: 100%;
-       object-fit: fill;
+       object-fit: contain;
     }
         
     .wtw-4{
@@ -1102,7 +1102,7 @@ and (max-device-width: 812px) {
     #wtw-4{
         width: 100%;
         height: 100%;
-        object-fit: fill;
+        object-fit: contain;
     }
         
     .munit-1{
