@@ -50,6 +50,7 @@ body{
     padding-right: 3vw;
     text-align: justify;
     overflow: auto;
+    filter: drop-shadow(2px 3px 6px rgb(146, 144, 144));
 }                  
 
 .project-2{
@@ -79,6 +80,7 @@ body{
     padding-right: 3vw;
     text-align: justify;
     overflow: auto;
+    filter: drop-shadow(2px 3px 6px rgb(146, 144, 144));
 }
 
 .project-3{
@@ -108,6 +110,7 @@ body{
     padding-right: 3vw;
     text-align: justify;
     overflow: auto;
+    filter: drop-shadow(2px 3px 6px rgb(146, 144, 144));
 }
 .project-4{
     width:90%;
@@ -136,6 +139,7 @@ body{
     padding-right: 3vw;
     text-align: justify;
     overflow: auto;
+    filter: drop-shadow(2px 3px 6px rgb(146, 144, 144));
 }
 
 .project-5{
@@ -166,6 +170,7 @@ body{
     padding-right: 3vw;
     text-align: justify;
     overflow: auto;
+    filter: drop-shadow(2px 3px 6px rgb(146, 144, 144));
 }
 /* 
 .p1-images{
