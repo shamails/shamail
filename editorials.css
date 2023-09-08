@@ -630,6 +630,7 @@ and (max-device-width: 812px) {
         padding-right: 5vw;
         text-align: justify;
         overflow: auto;
+        filter: drop-shadow(2px 3px 6px rgb(146, 144, 144));
     }                  
     
     .project-2{
@@ -659,6 +660,7 @@ and (max-device-width: 812px) {
         padding-right: 5vw;
         text-align: justify;
         overflow: auto;
+        filter: drop-shadow(2px 3px 6px rgb(146, 144, 144));
     }
     
     .project-3{
@@ -688,6 +690,7 @@ and (max-device-width: 812px) {
         padding-right: 5vw;
         text-align: justify;
         overflow: auto;
+        filter: drop-shadow(2px 3px 6px rgb(146, 144, 144));
     }
     .project-4{
         width:90%;
@@ -716,6 +719,7 @@ and (max-device-width: 812px) {
         padding-right: 5vw;
         text-align: justify;
         overflow: auto;
+        filter: drop-shadow(2px 3px 6px rgb(146, 144, 144));
     }
     
     .project-5{
@@ -746,6 +750,7 @@ and (max-device-width: 812px) {
         padding-right: 5vw;
         text-align: justify;
         overflow: auto;
+        filter: drop-shadow(2px 3px 6px rgb(146, 144, 144));
     }
     .wmf-1{
         width: 700px;
