@@ -1278,6 +1278,457 @@ and (max-device-width: 812px) {
     }
 }
 
+@media only screen 
+and (min-device-width: 360px) 
+and (min-device-height: 640px) {
+	body{
+        background-color: #cef8e9;
+        overflow-y: hidden;
+    }
+    
+    .back{
+        width: 60px;
+        height: 60px;
+        position: -webkit-sticky;
+        position: sticky;
+        top: 5.5vh;
+        left: 2vw;
+    }
+    
+    #back{
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+    
+    .projects{
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        display: flex;
+    }
+    
+    .project-1{
+        /* width:90%; */
+        margin-left: 8.7vw;
+        margin-top: 1vh;
+    }
+    
+    #project-1-title{
+        color: #330036;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 8vw;
+    }
+    
+    .project-1-content{
+        background-color: #330036;
+        color:  #BEA2C2;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 3.5vw;
+        height:1500px;
+        width: 80vw;
+        border-radius: 3vh;
+        padding: 3vw;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        text-align: justify;
+        overflow: auto;
+    }                  
+    
+    .project-2{
+        width:90%;
+        margin-left: 2vw;
+        margin-top: 1vh;
+    }
+    
+    #project-2-title{
+        color: #330036;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 8vw;
+    }
+    
+    .project-2-content{
+        background-color: #330036;
+        color:  #BEA2C2;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 3.5vw;
+        height:1500px;
+        width: 80vw;
+        border-radius: 3vh;
+        padding: 3vw;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        text-align: justify;
+        overflow: auto;
+    }
+    
+    .project-3{
+        width:90%;
+        margin-left: 2vw;
+        margin-top: 1vh;
+    }
+    
+    #project-3-title{
+        color: #330036;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 8vw;
+    }
+    
+    .project-3-content{
+        background-color: #330036;
+        color:  #BEA2C2;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 3.5vw;
+        height:1500px;
+        width: 80vw;
+        border-radius: 3vh;
+        padding: 3vw;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        text-align: justify;
+        overflow: auto;
+    }
+    .project-4{
+        width:90%;
+        margin-left: 2vw;
+        margin-top: 1vh;
+    }
+    
+    #project-4-title{
+        color: #330036;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 8vw;
+    }
+    
+    .project-4-content{
+        background-color: #330036;
+        color:  #BEA2C2;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 3.5vw;
+        height:1500px;
+        width: 80vw;
+        border-radius: 3vh;
+        padding: 3vw;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        text-align: justify;
+        overflow: auto;
+    }
+    
+    .project-5{
+        width:90%;
+        margin-left: 2vw;
+        margin-top: 1vh;
+    }
+    
+    #project-5-title{
+        color: #330036;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 8vw;
+    }
+    
+    .project-5-content{
+        background-color: #330036;
+        color:  #BEA2C2;
+        font-family: 'K2D', sans-serif;
+        font-weight: 500;
+        font-size: 3.5vw;
+        height:1500px;
+        width: 80vw;
+        border-radius: 3vh;
+        margin-right: 20vw;
+        padding: 3vw;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        text-align: justify;
+        overflow: auto;
+    }
+
+     .sprout-1{
+       width: 700px;
+       height: 475px;
+       margin-top: 2vh;
+       margin-left: 4vw;
+    }
+        
+    #sprout-1{
+       width: 100%;
+       height: 100%;
+      object-fit: fill;
+    }
+        
+    .sprout-2{
+        width: 700px;
+       height: 475px;
+       margin-top: 2vh;
+       margin-left: 4vw;
+        }
+        
+    #sprout-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+
+    .sprout-3{
+        width: 600px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+        /* display: flex; */
+    }
+    
+    #sprout-3{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+    .sprout-4{
+        width: 600px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 3vw;
+    }
+    
+    #sprout-4{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+        /* display: flex; */
+    }
+        
+    .wtw-1{
+        width: 700px;
+        height: 475px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #wtw-1{
+       width: 100%;
+       height: 100%;
+       object-fit: fill;
+    }
+        
+    .wtw-2{
+       width: 700px;
+       height: 475px;
+       margin-top: 2vh;
+       margin-left: 4vw;
+    }
+        
+    #wtw-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+
+    .wtw-3{
+        width: 700px;
+        height: 475px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #wtw-3{
+       width: 100%;
+       height: 100%;
+       object-fit: contain;
+    }
+        
+    .wtw-4{
+        width: 500px;
+        height: 750px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #wtw-4{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    
+        
+    .munit-1{
+        width: 700px;
+        height: 475px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #munit-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .munit-2{
+        width: 700px;
+        height: 475px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #munit-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .munit-3{
+        width: 700px;
+        height: 475px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #munit-3{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .gg-1{
+        width: 700px;
+        height: 475px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #gg-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .gg-2{
+        width: 700px;
+        height: 475px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #gg-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .gg-3{
+        width: 700px;
+        height: 475px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #gg-3{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .gg-4{
+        width: 700px;
+        height: 475px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #gg-4{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .gd-1{
+        width: 700px;
+        height: 475px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #gd-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+
+    .gd-2{
+        width: 700px;
+        height: 475px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #gd-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .nwt-1{
+        width: 900px;
+        height: 900px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #nwt-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .gd-nwt-1{
+        width: 900px;
+        height: 900px;
+        /* top: 4vh;
+        left: 20vw; */
+    }
+        
+    #gd-nwt-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+        
+    .rd-1{
+        width: 700px;
+        height: 475px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #rd-1{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+
+    .nwt-2{
+        width: 700px;
+        height: 475px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+    
+    #nwt-2{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+} 
+
 @media only screen and (min-width: 1690px) {
     body{
         background-color: #cef8e9;
