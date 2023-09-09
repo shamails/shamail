@@ -43,11 +43,11 @@ body{
     font-weight: 300;
     font-size: 1.5vw;
     height:700px;
-    width: 80vw;
+    width: 77vw;
     border-radius: 3vh;
     padding: 2.5vw;
-    padding-left: 3vw;
-    padding-right: 3vw;
+    padding-left: 3.8vw;
+    padding-right: 3.8vw;
     text-align: justify;
     overflow: auto;
     filter: drop-shadow(2px 2px 6px rgb(146, 144, 144));
@@ -73,11 +73,11 @@ body{
     font-weight: 300;
     font-size: 1.5vw;
     height:700px;
-    width: 80vw;
+    width: 77vw;
     border-radius: 3vh;
     padding: 2.5vw;
-    padding-left: 3vw;
-    padding-right: 3vw;
+    padding-left: 3.8vw;
+    padding-right: 3.8vw;
     text-align: justify;
     overflow: auto;
     filter: drop-shadow(2px 2px 6px rgb(146, 144, 144));
@@ -103,11 +103,11 @@ body{
     font-weight: 300;
     font-size: 1.5vw;
     height:700px;
-    width: 80vw;
+    width: 77vw;
     border-radius: 3vh;
     padding: 2.5vw;
-    padding-left: 3vw;
-    padding-right: 3vw;
+    padding-left: 3.8vw;
+    padding-right: 3.8vw;
     text-align: justify;
     overflow: auto;
     filter: drop-shadow(2px 2px 6px rgb(146, 144, 144));
@@ -132,11 +132,11 @@ body{
     font-weight: 300;
     font-size: 1.5vw;
     height:700px;
-    width: 80vw;
+    width: 77vw;
     border-radius: 3vh;
     padding: 2.5vw;
-    padding-left: 3vw;
-    padding-right: 3vw;
+    padding-left: 3.8vw;
+    padding-right: 3.8vw;
     text-align: justify;
     overflow: auto;
     filter: drop-shadow(2px 2px 6px rgb(146, 144, 144));
@@ -162,7 +162,7 @@ body{
     font-weight: 300;
     font-size: 1.5vw;
     height:700px;
-    width: 80vw;
+    width: 77vw;
     border-radius: 3vh;
     margin-right: 5vw;
     padding: 2.5vw;
@@ -194,10 +194,10 @@ body{
 } */
 
 .sprout-1{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 8vw;
 }
 
 #sprout-1{
@@ -207,10 +207,10 @@ body{
 }
 
 .sprout-2{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 8vw;
 }
 
 #sprout-2{
@@ -221,9 +221,9 @@ body{
 
 .sprout-3{
     width: 430px;
-    height: 750px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 8vw;
     display: flex;
 }
 
@@ -235,7 +235,7 @@ body{
 
 .sprout-4{
     width: 430px;
-    height: 750px;
+    height: 550px;
     margin-top: 2vh;
     margin-left: 3vw;
 }
@@ -248,10 +248,10 @@ body{
 }
 
 .wtw-1{
-    width: 1200px;
+    width: 1000px;
     height: 800px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 8vw;
 }
 
 #wtw-1{
@@ -261,10 +261,10 @@ body{
 }
 
 .wtw-2{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 8vw;
 }
 
 #wtw-2{
@@ -284,7 +284,7 @@ body{
     width: 430px;
     height: 800px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 8vw;
 }
 
 #wtw-3{
@@ -295,9 +295,9 @@ body{
 
 .wtw-4{
     width: 430px;
-    height: 750px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 8vw;
 }
 
 #wtw-4{
@@ -307,10 +307,10 @@ body{
 }
 
 .munit-1{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 8vw;
 }
 
 #munit-1{
@@ -320,10 +320,10 @@ body{
 }
 
 .munit-2{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 8vw;
 }
 
 #munit-2{
@@ -333,10 +333,10 @@ body{
 }
 
 .munit-3{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 8vw;
 }
 
 #munit-3{
@@ -346,10 +346,10 @@ body{
 }
 
 .gg-1{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 8vw;
 }
 
 #gg-1{
@@ -359,10 +359,10 @@ body{
 }
 
 .gg-2{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 8vw;
 }
 
 #gg-2{
@@ -372,10 +372,10 @@ body{
 }
 
 .gg-3{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 8vw;
 }
 
 #gg-3{
@@ -385,10 +385,10 @@ body{
 }
 
 .gg-4{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 8vw;
 }
 
 #gg-4{
@@ -398,10 +398,10 @@ body{
 }
 
 .gd-1{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 8vw;
 }
 
 #gd-1{
@@ -414,7 +414,7 @@ body{
     width: 900px;
     height: 900px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 8vw;
 }
 
 #nwt-1{
@@ -437,10 +437,10 @@ body{
 }
 
 .rd-1{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 8vw;
 }
 
 #rd-1{
@@ -450,10 +450,10 @@ body{
 }
 
 .nwt-2{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 8vw;
 }
 
 #nwt-2{
@@ -1332,8 +1332,8 @@ and (max-device-width: 812px) {
         width: 80vw;
         border-radius: 3vh;
         padding: 2.5vw;
-        padding-left: 3vw;
-        padding-right: 3vw;
+        padding-left: 3.8vw;
+        padding-right: 3.8vw;
         text-align: justify;
         overflow: auto;
     }                  
@@ -1361,8 +1361,8 @@ and (max-device-width: 812px) {
         width: 80vw;
         border-radius: 3vh;
         padding: 2.5vw;
-        padding-left: 3vw;
-        padding-right: 3vw;
+        padding-left: 3.8vw;
+        padding-right: 3.8vw;
         text-align: justify;
         overflow: auto;
     }
@@ -1390,8 +1390,8 @@ and (max-device-width: 812px) {
         width: 80vw;
         border-radius: 3vh;
         padding: 2.5vw;
-        padding-left: 3vw;
-        padding-right: 3vw;
+        padding-left: 3.8vw;
+        padding-right: 3.8vw;
         text-align: justify;
         overflow: auto;
     }
@@ -1418,8 +1418,8 @@ and (max-device-width: 812px) {
         width: 80vw;
         border-radius: 3vh;
         padding: 2.5vw;
-        padding-left: 3vw;
-        padding-right: 3vw;
+        padding-left: 3.8vw;
+        padding-right: 3.8vw;
         text-align: justify;
         overflow: auto;
     }
@@ -1448,8 +1448,8 @@ and (max-device-width: 812px) {
         border-radius: 3vh;
         margin-right: 10vw;
         padding: 2.5vw;
-        padding-left: 3vw;
-        padding-right: 3vw;
+        padding-left: 3.8vw;
+        padding-right: 3.8vw;
         text-align: justify;
         overflow: auto;
     }
@@ -1478,7 +1478,7 @@ and (max-device-width: 812px) {
         width: 1500px;
         height: 950px;
         margin-top: 2vh;
-        margin-left: 8vw;
+        margin-left: 11vw;
     }
     
     #sprout-1{
@@ -1491,7 +1491,7 @@ and (max-device-width: 812px) {
         width: 1500px;
         height: 950px;
         margin-top: 2vh;
-        margin-left: 8vw;
+        margin-left: 11vw;
     }
     
     #sprout-2{
@@ -1504,7 +1504,7 @@ and (max-device-width: 812px) {
         width: 500px;
         height: 950px;
         margin-top: 2vh;
-        margin-left: 8vw;
+        margin-left: 11vw;
         display: flex;
     }
     
@@ -1533,7 +1533,7 @@ and (max-device-width: 812px) {
         width: 1500px;
         height: 900px;
         margin-top: 2vh;
-        margin-left: 8vw;
+        margin-left: 11vw;
     }
     
     #wtw-1{
@@ -1546,7 +1546,7 @@ and (max-device-width: 812px) {
         width: 1500px;
         height: 950px;
         margin-top: 2vh;
-        margin-left: 8vw;
+        margin-left: 11vw;
     }
     
     #wtw-2{
@@ -1559,7 +1559,7 @@ and (max-device-width: 812px) {
         width: 500px;
         height: 950px;
         margin-top: 2vh;
-        margin-left: 8vw;
+        margin-left: 11vw;
     }
     
     #wtw-4{
@@ -1572,7 +1572,7 @@ and (max-device-width: 812px) {
         width: 1500px;
         height: 950px;
         margin-top: 2vh;
-        margin-left: 8vw;
+        margin-left: 11vw;
     }
     
     #munit-1{
@@ -1585,7 +1585,7 @@ and (max-device-width: 812px) {
         width: 1500px;
         height: 950px;
         margin-top: 2vh;
-        margin-left: 8vw;
+        margin-left: 11vw;
     }
     
     #munit-2{
@@ -1598,7 +1598,7 @@ and (max-device-width: 812px) {
         width: 1500px;
         height: 950px;
         margin-top: 2vh;
-        margin-left: 8vw;
+        margin-left: 11vw;
     }
     
     #munit-3{
@@ -1611,7 +1611,7 @@ and (max-device-width: 812px) {
         width: 1500px;
         height: 950px;
         margin-top: 2vh;
-        margin-left: 8vw;
+        margin-left: 11vw;
     }
     
     #gg-1{
@@ -1624,7 +1624,7 @@ and (max-device-width: 812px) {
         width: 1500px;
         height: 950px;
         margin-top: 2vh;
-        margin-left: 8vw;
+        margin-left: 11vw;
     }
     
     #gg-2{
@@ -1637,7 +1637,7 @@ and (max-device-width: 812px) {
         width: 1500px;
         height: 950px;
         margin-top: 2vh;
-        margin-left: 8vw;
+        margin-left: 11vw;
     }
     
     #gg-3{
@@ -1650,7 +1650,7 @@ and (max-device-width: 812px) {
         width: 1500px;
         height: 950px;
         margin-top: 2vh;
-        margin-left: 8vw;
+        margin-left: 11vw;
     }
     
     #gg-4{
@@ -1663,7 +1663,7 @@ and (max-device-width: 812px) {
         width: 1500px;
         height: 950px;
         margin-top: 2vh;
-        margin-left: 8vw;
+        margin-left: 11vw;
     }
     
     #gd-1{
@@ -1702,7 +1702,7 @@ and (max-device-width: 812px) {
         width: 1500px;
         height: 950px;
         margin-top: 2vh;
-        margin-left: 8vw;
+        margin-left: 11vw;
     }
     
     #rd-1{
@@ -1715,7 +1715,7 @@ and (max-device-width: 812px) {
         width: 1500px;
         height: 950px;
         margin-top: 2vh;
-        margin-left: 8vw;
+        margin-left: 11vw;
     }
     
     #nwt-2{
