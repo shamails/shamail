@@ -303,7 +303,7 @@ light purple:BEA2C2*/
 and (min-device-width: 375px) 
 and (max-device-width: 812px) {
     body{
-        background-color: #cef8e9;
+        background-color: #FFF3DA;
         overflow-y: hidden;
         overflow-x: hidden;
     }
