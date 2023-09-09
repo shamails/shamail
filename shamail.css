@@ -169,6 +169,7 @@ light purple:BEA2C2*/
     background-color: #270029;
     text-align: center;
     border-radius: 5vh;
+    filter: drop-shadow(2px 2px 6px rgb(146, 144, 144));
     
 }
 
@@ -274,6 +275,7 @@ light purple:BEA2C2*/
     margin-top: -36vh;
     background-color: #270029;
     border-radius: 5vh;
+    /* filter: drop-shadow(2px 2px 6px rgb(146, 144, 144)); */
 }
 
 .photo{
