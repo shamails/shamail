@@ -46,8 +46,8 @@ body{
     width: 80vw;
     border-radius: 3vh;
     padding: 2.5vw;
-    padding-left: 3vw;
-    padding-right: 3vw;
+    padding-left: 3.8vw;
+    padding-right: 3.8vw;
     text-align: justify;
     overflow: auto;
     filter: drop-shadow(2px 2px 6px rgb(146, 144, 144));
@@ -76,8 +76,8 @@ body{
     width: 80vw;
     border-radius: 3vh;
     padding: 2.5vw;
-    padding-left: 3vw;
-    padding-right: 3vw;
+    padding-left: 3.8vw;
+    padding-right: 3.8vw;
     text-align: justify;
     overflow: auto;
     filter: drop-shadow(2px 2px 6px rgb(146, 144, 144));
@@ -106,8 +106,8 @@ body{
     width: 80vw;
     border-radius: 3vh;
     padding: 2.5vw;
-    padding-left: 3vw;
-    padding-right: 3vw;
+    padding-left: 3.8vw;
+    padding-right: 3.8vw;
     text-align: justify;
     overflow: auto;
     filter: drop-shadow(2px 2px 6px rgb(146, 144, 144));
@@ -135,8 +135,8 @@ body{
     width: 80vw;
     border-radius: 3vh;
     padding: 2.5vw;
-    padding-left: 3vw;
-    padding-right: 3vw;
+    padding-left: 3.8vw;
+    padding-right: 3.8vw;
     text-align: justify;
     overflow: auto;
     filter: drop-shadow(2px 2px 6px rgb(146, 144, 144));
@@ -166,8 +166,8 @@ body{
     border-radius: 3vh;
     margin-right: 5vw;
     padding: 2.5vw;
-    padding-left: 3vw;
-    padding-right: 3vw;
+    padding-left: 3.8vw;
+    padding-right: 3.8vw;
     text-align: justify;
     overflow: auto;
     left: 5vw;
@@ -457,8 +457,8 @@ and (max-device-width: 1024px)
         width: 80vw;
         border-radius: 3vh;
         padding: 2.5vw;
-        padding-left: 3vw;
-        padding-right: 3vw;
+        padding-left: 3.8vw;
+        padding-right: 3.8vw;
         text-align: justify;
         overflow: auto;
     }                  
@@ -486,8 +486,8 @@ and (max-device-width: 1024px)
         width: 80vw;
         border-radius: 3vh;
         padding: 2.5vw;
-        padding-left: 3vw;
-        padding-right: 3vw;
+        padding-left: 3.8vw;
+        padding-right: 3.8vw;
         text-align: justify;
         overflow: auto;
     }
@@ -515,8 +515,8 @@ and (max-device-width: 1024px)
         width: 80vw;
         border-radius: 3vh;
         padding: 2.5vw;
-        padding-left: 3vw;
-        padding-right: 3vw;
+        padding-left: 3.8vw;
+        padding-right: 3.8vw;
         text-align: justify;
         overflow: auto;
     }
@@ -543,8 +543,8 @@ and (max-device-width: 1024px)
         width: 80vw;
         border-radius: 3vh;
         padding: 2.5vw;
-        padding-left: 3vw;
-        padding-right: 3vw;
+        padding-left: 3.8vw;
+        padding-right: 3.8vw;
         text-align: justify;
         overflow: auto;
     }
@@ -572,8 +572,8 @@ and (max-device-width: 1024px)
         width: 80vw;
         border-radius: 3vh;
         padding: 2.5vw;
-        padding-left: 3vw;
-        padding-right: 3vw;
+        padding-left: 3.8vw;
+        padding-right: 3.8vw;
         text-align: justify;
         overflow: auto;
     }
@@ -630,7 +630,7 @@ and (max-device-width: 812px) {
         height:1300px;
         width: 78vw;
         border-radius: 3vh;
-        padding: 3vw;
+        padding: 2.5vw;
         padding-left: 5vw;
         padding-right: 5vw;
         text-align: justify;
@@ -659,7 +659,7 @@ and (max-device-width: 812px) {
         height:1300px;
         width: 78vw;
         border-radius: 3vh;
-        padding: 3vw;
+        padding: 2.5vw;
         padding-left: 5vw;
         padding-right: 5vw;
         text-align: justify;
@@ -688,7 +688,7 @@ and (max-device-width: 812px) {
         height:1300px;
         width: 78vw;
         border-radius: 3vh;
-        padding: 3vw;
+        padding: 2.5vw;
         padding-left: 5vw;
         padding-right: 5vw;
         text-align: justify;
@@ -716,7 +716,7 @@ and (max-device-width: 812px) {
         height:1300px;
         width: 78vw;
         border-radius: 3vh;
-        padding: 3vw;
+        padding: 2.5vw;
         padding-left: 5vw;
         padding-right: 5vw;
         text-align: justify;
@@ -1010,8 +1010,8 @@ and (max-device-width: 812px) {
         width: 80vw;
         border-radius: 3vh;
         padding: 2.5vw;
-        padding-left: 3vw;
-        padding-right: 3vw;
+        padding-left: 3.8vw;
+        padding-right: 3.8vw;
         text-align: justify;
         overflow: auto;
     }                  
@@ -1039,8 +1039,8 @@ and (max-device-width: 812px) {
         width: 80vw;
         border-radius: 3vh;
         padding: 2.5vw;
-        padding-left: 3vw;
-        padding-right: 3vw;
+        padding-left: 3.8vw;
+        padding-right: 3.8vw;
         text-align: justify;
         overflow: auto;
     }
@@ -1068,8 +1068,8 @@ and (max-device-width: 812px) {
         width: 80vw;
         border-radius: 3vh;
         padding: 2.5vw;
-        padding-left: 3vw;
-        padding-right: 3vw;
+        padding-left: 3.8vw;
+        padding-right: 3.8vw;
         text-align: justify;
         overflow: auto;
     }
@@ -1096,8 +1096,8 @@ and (max-device-width: 812px) {
         width: 80vw;
         border-radius: 3vh;
         padding: 2.5vw;
-        padding-left: 3vw;
-        padding-right: 3vw;
+        padding-left: 3.8vw;
+        padding-right: 3.8vw;
         text-align: justify;
         overflow: auto;
     }
@@ -1126,8 +1126,8 @@ and (max-device-width: 812px) {
         border-radius: 3vh;
         margin-right: 10vw;
         padding: 2.5vw;
-        padding-left: 3vw;
-        padding-right: 3vw;
+        padding-left: 3.8vw;
+        padding-right: 3.8vw;
         text-align: justify;
         overflow: auto;
     }
