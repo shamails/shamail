@@ -40,10 +40,10 @@ body{
     background-color: #270029;
     color:  #BEA2C2;
     font-family: 'K2D', sans-serif;
-    font-weight: 300;
+    font-weight: 500;
     font-size: 1.5vw;
     height:700px;
-    width: 80vw;
+    width: 77vw;
     border-radius: 3vh;
     padding: 2.5vw;
     padding-left: 3.8vw;
@@ -70,10 +70,10 @@ body{
     background-color: #270029;
     color:  #BEA2C2;
     font-family: 'K2D', sans-serif;
-    font-weight: 300;
+    font-weight: 500;
     font-size: 1.5vw;
     height:700px;
-    width: 80vw;
+    width: 77vw;
     border-radius: 3vh;
     padding: 2.5vw;
     padding-left: 3.8vw;
@@ -100,10 +100,10 @@ body{
     background-color: #270029;
     color:  #BEA2C2;
     font-family: 'K2D', sans-serif;
-    font-weight: 300;
+    font-weight: 500;
     font-size: 1.5vw;
     height:700px;
-    width: 80vw;
+    width: 77vw;
     border-radius: 3vh;
     padding: 2.5vw;
     padding-left: 3.8vw;
@@ -129,10 +129,10 @@ body{
     background-color: #270029;
     color:  #BEA2C2;
     font-family: 'K2D', sans-serif;
-    font-weight: 300;
+    font-weight: 500;
     font-size: 1.5vw;
     height:700px;
-    width: 80vw;
+    width: 77vw;
     border-radius: 3vh;
     padding: 2.5vw;
     padding-left: 3.8vw;
@@ -159,10 +159,10 @@ body{
     background-color: #270029;
     color:  #BEA2C2;
     font-family: 'K2D', sans-serif;
-    font-weight: 300;
+    font-weight: 500;
     font-size: 1.5vw;
     height:700px;
-    width: 80vw;
+    width: 77vw;
     border-radius: 3vh;
     margin-right: 5vw;
     padding: 2.5vw;
@@ -195,10 +195,10 @@ body{
 } */
 
 .wmf-1{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 5vw;
 }
 
 #wmf-1{
@@ -208,10 +208,10 @@ body{
 }
 
 .wmf-2{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 5vw;
 }
 
 #wmf-2{
@@ -221,10 +221,10 @@ body{
 }
 
 .wmf-3{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 5vw;
 }
 
 #wmf-3{
@@ -234,10 +234,10 @@ body{
 }
 
 .gg-1{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 5vw;
 }
 
 #gg-1{
@@ -247,10 +247,10 @@ body{
 }
 
 .gg-2{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 5vw;
 }
 
 #gg-2{
@@ -260,10 +260,10 @@ body{
 }
 
 .gg-3{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 5vw;
 }
 
 #gg-3{
@@ -273,10 +273,10 @@ body{
 }
 
 .gg-4{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 5vw;
 }
 
 #gg-4{
@@ -286,10 +286,10 @@ body{
 }
 
 .jo-1{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 5vw;
 }
 
 #jo-1{
@@ -299,10 +299,10 @@ body{
 }
 
 .jo-2{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 5vw;
 }
 
 #jo-2{
@@ -312,10 +312,10 @@ body{
 }
 
 .jo-3{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 5vw;
 }
 
 #jo-3{
@@ -325,10 +325,10 @@ body{
 }
 
 .type-1{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 5vw;
 }
 
 #type-1{
@@ -338,10 +338,10 @@ body{
 }
 
 .type-2{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 5vw;
 }
 
 #type-2{
@@ -351,10 +351,10 @@ body{
 }
 
 .type-3{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 5vw;
 }
 
 #type-3{
@@ -364,10 +364,10 @@ body{
 }
 
 .type-4{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 5vw;
 }
 
 #type-4{
@@ -377,10 +377,10 @@ body{
 }
 
 .poster-1{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 5vw;
 }
 
 #poster-1{
@@ -390,10 +390,10 @@ body{
 }
 
 .poster-2{
-    width: 1200px;
-    height: 750px;
+    width: 1000px;
+    height: 550px;
     margin-top: 2vh;
-    margin-left: 4vw;
+    margin-left: 5vw;
 }
 
 #poster-2{
@@ -1007,7 +1007,7 @@ and (max-device-width: 812px) {
         font-weight: 300;
         font-size: 1.5vw;
         height:1000px;
-        width: 80vw;
+        width: 77vw;
         border-radius: 3vh;
         padding: 2.5vw;
         padding-left: 3.8vw;
@@ -1036,7 +1036,7 @@ and (max-device-width: 812px) {
         font-weight: 300;
         font-size: 1.5vw;
         height:1000px;
-        width: 80vw;
+        width: 77vw;
         border-radius: 3vh;
         padding: 2.5vw;
         padding-left: 3.8vw;
@@ -1065,7 +1065,7 @@ and (max-device-width: 812px) {
         font-weight: 300;
         font-size: 1.5vw;
         height:1000px;
-        width: 80vw;
+        width: 77vw;
         border-radius: 3vh;
         padding: 2.5vw;
         padding-left: 3.8vw;
@@ -1093,7 +1093,7 @@ and (max-device-width: 812px) {
         font-weight: 300;
         font-size: 1.5vw;
         height:1000px;
-        width: 80vw;
+        width: 77vw;
         border-radius: 3vh;
         padding: 2.5vw;
         padding-left: 3.8vw;
@@ -1122,7 +1122,7 @@ and (max-device-width: 812px) {
         font-weight: 300;
         font-size: 1.5vw;
         height:1000px;
-        width: 80vw;
+        width: 77vw;
         border-radius: 3vh;
         margin-right: 10vw;
         padding: 2.5vw;
