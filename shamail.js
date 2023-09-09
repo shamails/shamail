@@ -57,23 +57,23 @@ $(document).ready(function(){
     //         $('#photo-1').attr('src','photo-5.png') ;
     //     }}
     // }
-        var photo2 = 'photo-2.png'
-        var photo3 = 'photo-3.png'
-        var photo4 = 'photo-4.png'
-        var photo5 = 'photo-5.png'
+        var photo2 = 'photo-2.webp'
+        var photo3 = 'photo-3.webp'
+        var photo4 = 'photo-4.webp'
+        var photo5 = 'photo-5.webp'
     $('.box').on({
         'click': function(){
-            $('#photo-1').attr('src','photo-5.png');
+            $('#photo-1').attr('src','photo-5.webp');
             // $('#photo-1').attr('id','photo-2');
             // $('.photo').replaceWith($(".photo2"));
         } ,
         'mouseover': function(){
-            $('#photo-1').attr('src','photo-3.png');
+            $('#photo-1').attr('src','photo-3.webp');
             // $('#photo-1').attr('id','photo-2');
             // $('.photo').replaceWith($(".photo2"));
         } ,
         'mouseleave': function(){
-            $('#photo-1').attr('src','sham.png');
+            $('#photo-1').attr('src','sham.webp');
             // $('#photo-1').attr('id','photo-2');
             // $('.photo').replaceWith($(".photo2"));
         } 
