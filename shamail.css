@@ -10,7 +10,7 @@ light blue:B9F0E9
 light purple:BEA2C2*/
 .intro{
     font-family: 'Hammersmith One', sans-serif;
-    color: #330036;
+    color: #270029;
 }
 
 .welcome{
@@ -60,14 +60,14 @@ light purple:BEA2C2*/
 #to{
     font-size: 2vw;
     margin-left: 50vw;
-    color: #330036;
+    color: #270029;
 
 }
 
 #sham{
     font-size: 6.5vw;
     margin-left: 18vw;
-    color: #330036;
+    color: #270029;
 }
 
 #w{
@@ -166,7 +166,7 @@ light purple:BEA2C2*/
     color:  #BEA2C2;
     margin-left: 20vw;
     margin-top: 24vh;
-    background-color: #330036;
+    background-color: #270029;
     text-align: center;
     border-radius: 5vh;
     
@@ -247,22 +247,22 @@ light purple:BEA2C2*/
 
 
 .interactive:hover{
-    color: #330036;
+    color: #270029;
     background-color: #BEA2C2;
 }
 
 .toys:hover{
-    color: #330036;
+    color: #270029;
     background-color: #BEA2C2;
 }
 
 .editorial:hover {
-    color: #330036;
+    color: #270029;
     background-color: #BEA2C2;
 }
 
 .about:hover {
-    color: #330036;
+    color: #270029;
     background-color: #BEA2C2;
 }
 
@@ -272,7 +272,7 @@ light purple:BEA2C2*/
     display: none;
     margin-left: 36vw;
     margin-top: -36vh;
-    background-color: #330036;
+    background-color: #270029;
     border-radius: 5vh;
 }
 
@@ -314,7 +314,7 @@ and (max-device-width: 812px) {
     light purple:BEA2C2*/
     .intro{
         font-family: 'Hammersmith One', sans-serif;
-        color: #330036;
+        color: #270029;
     }
     
     .welcome{
@@ -364,14 +364,14 @@ and (max-device-width: 812px) {
     #to{
         font-size: 2vw;
         margin-left: 50vw;
-        color: #330036;
+        color: #270029;
     
     }
     
     #sham{
         font-size: 6.5vw;
         margin-left: 18vw;
-        color: #330036;
+        color: #270029;
     }
     
     #w{
@@ -469,7 +469,7 @@ and (max-device-width: 812px) {
         color:  #BEA2C2;
         margin-left: 6vw;
         margin-top: 65vh;
-        background-color: #330036;
+        background-color: #270029;
         text-align: center;
         border-radius: 5vh;
         
@@ -553,22 +553,22 @@ and (max-device-width: 812px) {
     
     
     .interactive:hover{
-        color: #330036;
+        color: #270029;
         background-color: #BEA2C2;
     }
     
     .toys:hover{
-        color: #330036;
+        color: #270029;
         background-color: #BEA2C2;
     }
     
     .editorial:hover {
-        color: #330036;
+        color: #270029;
         background-color: #BEA2C2;
     }
     
     .about:hover {
-        color: #330036;
+        color: #270029;
         background-color: #BEA2C2;
     }
     
@@ -578,7 +578,7 @@ and (max-device-width: 812px) {
         display: none;
         margin-left: 1.5vw;
         margin-top: -72vh;
-        background-color: #330036;
+        background-color: #270029;
         border-radius: 5vh;
     }
     
@@ -693,7 +693,7 @@ and (max-device-width: 812px) {
     light purple:BEA2C2*/
     .intro{
         font-family: 'Hammersmith One', sans-serif;
-        color: #330036;
+        color: #270029;
     }
     
     .welcome{
@@ -743,14 +743,14 @@ and (max-device-width: 812px) {
     #to{
         font-size: 2vw;
         margin-left: 50vw;
-        color: #330036;
+        color: #270029;
     
     }
     
     #sham{
         font-size: 6.5vw;
         margin-left: 18vw;
-        color: #330036;
+        color: #270029;
     }
     
     #w{
@@ -848,7 +848,7 @@ and (max-device-width: 812px) {
         color:  #BEA2C2;
         margin-left: 20vw;
         margin-top: 24vh;
-        background-color: #330036;
+        background-color: #270029;
         text-align: center;
         border-radius: 5vh;
         
@@ -929,22 +929,22 @@ and (max-device-width: 812px) {
     
     
     .interactive:hover{
-        color: #330036;
+        color: #270029;
         background-color: #BEA2C2;
     }
     
     .toys:hover{
-        color: #330036;
+        color: #270029;
         background-color: #BEA2C2;
     }
     
     .editorial:hover {
-        color: #330036;
+        color: #270029;
         background-color: #BEA2C2;
     }
     
     .about:hover {
-        color: #330036;
+        color: #270029;
         background-color: #BEA2C2;
     }
     
@@ -954,7 +954,7 @@ and (max-device-width: 812px) {
         display: none;
         margin-left: 34vw;
         margin-top: -38vh;
-        background-color: #330036;
+        background-color: #270029;
         border-radius: 5vh;
     }
     
