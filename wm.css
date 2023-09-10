@@ -4,10 +4,11 @@ body{
 }
 
 .back{
-    width: 50px;
-    height: 50px;
+    width: 55px;
+    height: 55px;
     position: -webkit-sticky;
     position: sticky;
+    margin-left: .5vw;
     top: 4vh;
 }
 
@@ -33,6 +34,7 @@ body{
     color: #270029;
     font-family: 'K2D', sans-serif;
     font-weight: 500;
+    margin-left: 1vw;
     font-size: 3.5vw;
 }
 
@@ -64,6 +66,7 @@ body{
 #project-2-title{
     color: #270029;
     font-family: 'K2D', sans-serif;
+    margin-left: 1vw;
     font-weight: 500;
     font-size: 3.5vw;
 }
@@ -97,6 +100,7 @@ body{
     color: #270029;
     font-family: 'K2D', sans-serif;
     font-weight: 500;
+    margin-left: 1vw;
     font-size: 3.5vw;
 }
 
@@ -128,6 +132,7 @@ body{
     color: #270029;
     font-family: 'K2D', sans-serif;
     font-weight: 500;
+    margin-left: 1vw;
     font-size: 3.5vw;
 }
 
@@ -160,6 +165,7 @@ body{
     color: #270029;
     font-family: 'K2D', sans-serif;
     font-weight: 500;
+    margin-left: 1vw;
     font-size: 3.5vw;
 }
 
@@ -1300,10 +1306,11 @@ and (max-device-width: 812px) {
     }
     
     .back{
-        width: 50px;
-        height: 50px;
+        width: 60px;
+        height: 60px;
         position: -webkit-sticky;
         position: sticky;
+        margin-left: 1.4vw;
         top: 4vh;
     }
     
@@ -1329,6 +1336,7 @@ and (max-device-width: 812px) {
         color: #270029;
         font-family: 'K2D', sans-serif;
         font-weight: 500;
+        margin-left: 1vw;
         font-size: 3.5vw;
     }
     
@@ -1358,6 +1366,7 @@ and (max-device-width: 812px) {
         color: #270029;
         font-family: 'K2D', sans-serif;
         font-weight: 500;
+        margin-left: 1vw;
         font-size: 3.5vw;
     }
     
@@ -1387,6 +1396,7 @@ and (max-device-width: 812px) {
         color: #270029;
         font-family: 'K2D', sans-serif;
         font-weight: 500;
+        margin-left: 1vw;
         font-size: 3.5vw;
     }
     
@@ -1415,6 +1425,7 @@ and (max-device-width: 812px) {
         color: #270029;
         font-family: 'K2D', sans-serif;
         font-weight: 500;
+        margin-left: 1vw;
         font-size: 3.5vw;
     }
     
@@ -1444,6 +1455,7 @@ and (max-device-width: 812px) {
         color: #270029;
         font-family: 'K2D', sans-serif;
         font-weight: 500;
+        margin-left: 1vw;
         font-size: 3.5vw;
     }
     
