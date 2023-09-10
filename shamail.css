@@ -578,7 +578,7 @@ and (max-device-width: 812px) {
         width: 45vh;
         height: 85vw;
         display: none;
-        margin-left: 1.5vw;
+        margin-left: 1vw;
         margin-top: -72vh;
         background-color: #270029;
         border-radius: 5vh;
