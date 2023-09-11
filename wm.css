@@ -235,32 +235,30 @@ body{
     object-fit: fill;
 }
 
-.sprout-3{
-    width: 430px;
+.sprout-5{
+    width: 1000px;
     height: 550px;
     margin-top: 2vh;
     margin-left: 8vw;
-    display: flex;
 }
 
-#sprout-3{
+#sprout-5{
     width: 100%;
     height: 100%;
     object-fit: fill;
 }
 
-.sprout-4{
-    width: 430px;
+.sprout-6{
+    width: 1000px;
     height: 550px;
     margin-top: 2vh;
-    margin-left: 3vw;
+    margin-left: 8vw;
 }
 
-#sprout-4{
+#sprout-6{
     width: 100%;
     height: 100%;
     object-fit: fill;
-    display: flex;
 }
 
 .wtw-1{
@@ -1048,33 +1046,31 @@ and (max-device-width: 812px) {
         object-fit: fill;
     }
 
-    .sprout-3{
-        width: 600px;
-        height: 750px;
+    .sprout-5{
+        width: 700px;
+        height: 475px;
         margin-top: 2vh;
         margin-left: 4vw;
-        /* display: flex; */
-    }
-    
-    #sprout-3{
+     }
+         
+     #sprout-5{
         width: 100%;
         height: 100%;
-        object-fit: fill;
-    }
-    
-    .sprout-4{
-        width: 600px;
-        height: 750px;
+       object-fit: fill;
+     }
+         
+     .sprout-6{
+         width: 700px;
+        height: 475px;
         margin-top: 2vh;
-        margin-left: 3vw;
-    }
-    
-    #sprout-4{
-        width: 100%;
-        height: 100%;
-        object-fit: fill;
-        /* display: flex; */
-    }
+        margin-left: 4vw;
+         }
+         
+     #sprout-6{
+         width: 100%;
+         height: 100%;
+         object-fit: fill;
+     }
         
     .wtw-1{
         width: 700px;
@@ -1522,32 +1518,30 @@ and (max-device-width: 812px) {
         object-fit: fill;
     }
     
-    .sprout-3{
-        width: 500px;
+    .sprout-5{
+        width: 1500px;
         height: 950px;
         margin-top: 2vh;
         margin-left: 11vw;
-        display: flex;
     }
     
-    #sprout-3{
+    #sprout-5{
         width: 100%;
         height: 100%;
         object-fit: fill;
     }
     
-    .sprout-4{
-        width: 500px;
+    .sprout-6{
+        width: 1500px;
         height: 950px;
         margin-top: 2vh;
-        margin-left: 3vw;
+        margin-left: 11vw;
     }
     
-    #sprout-4{
+    #sprout-6{
         width: 100%;
         height: 100%;
         object-fit: fill;
-        display: flex;
     }
     
 
