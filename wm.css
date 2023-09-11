@@ -209,6 +209,11 @@ body{
     display: inline-flex;
 } */
 
+.sub-title{
+    text-decoration: solid;
+    margin-left: 8vw;
+}
+
 .sprout-1{
     width: 1000px;
     height: 550px;
@@ -256,6 +261,19 @@ body{
 }
 
 #sprout-6{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.sprout-9{
+    width: 1000px;
+    height: 550px;
+    margin-top: 2vh;
+    margin-left: 8vw;
+}
+
+#sprout-9{
     width: 100%;
     height: 100%;
     object-fit: fill;
@@ -392,6 +410,58 @@ body{
 }
 
 #munit-4{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.munit-9{
+    width: 1000px;
+    height: 550px;
+    margin-top: 2vh;
+    margin-left: 8vw;
+}
+
+#munit-9{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.munit-10{
+    width: 1000px;
+    height: 550px;
+    margin-top: 2vh;
+    margin-left: 8vw;
+}
+
+#munit-10{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.munit-11{
+    width: 1000px;
+    height: 550px;
+    margin-top: 2vh;
+    margin-left: 8vw;
+}
+
+#munit-11{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.munit-12{
+    width: 1000px;
+    height: 550px;
+    margin-top: 2vh;
+    margin-left: 8vw;
+}
+
+#munit-12{
     width: 100%;
     height: 100%;
     object-fit: fill;
@@ -1135,6 +1205,19 @@ and (max-device-width: 812px) {
          height: 100%;
          object-fit: fill;
      }
+
+     .sprout-9{
+        width: 700px;
+       height: 475px;
+       margin-top: 2vh;
+       margin-left: 4vw;
+        }
+        
+    #sprout-9{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
         
     .wtw-1{
         width: 700px;
@@ -1260,6 +1343,58 @@ and (max-device-width: 812px) {
     }
         
     #munit-4{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+
+    .munit-9{
+        width: 700px;
+        height: 475px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #munit-9{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+
+    .munit-10{
+        width: 700px;
+        height: 475px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #munit-10{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+
+    .munit-11{
+        width: 700px;
+        height: 475px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #munit-11{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+
+    .munit-12{
+        width: 700px;
+        height: 475px;
+        margin-top: 2vh;
+        margin-left: 4vw;
+    }
+        
+    #munit-12{
         width: 100%;
         height: 100%;
         object-fit: fill;
@@ -1645,6 +1780,18 @@ and (max-device-width: 812px) {
         object-fit: fill;
     }
     
+    .sprout-9{
+        width: 1500px;
+        height: 900px;
+        margin-top: 2vh;
+        margin-left: 11vw;
+    }
+    
+    #sprout-9{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
 
     .wtw-1{
         width: 1500px;
@@ -1758,6 +1905,58 @@ and (max-device-width: 812px) {
     }
     
     #munit-4{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+
+    .munit-9{
+        width: 1500px;
+        height: 950px;
+        margin-top: 2vh;
+        margin-left: 11vw;
+    }
+    
+    #munit-9{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+
+    .munit-10{
+        width: 1500px;
+        height: 950px;
+        margin-top: 2vh;
+        margin-left: 11vw;
+    }
+    
+    #munit-10{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+
+    .munit-11{
+        width: 1500px;
+        height: 950px;
+        margin-top: 2vh;
+        margin-left: 11vw;
+    }
+    
+    #munit-11{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+
+    .munit-12{
+        width: 1500px;
+        height: 950px;
+        margin-top: 2vh;
+        margin-left: 11vw;
+    }
+    
+    #munit-12{
         width: 100%;
         height: 100%;
         object-fit: fill;
