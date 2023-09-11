@@ -209,6 +209,9 @@ body{
 .p5-images{
     display: flex;
 } */
+.sub-title{
+    text-decoration: wavy;
+}
 
 .wmf-1{
     width: 1000px;
