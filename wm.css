@@ -289,7 +289,7 @@ body{
 
 .wtw-5{
     width: 1000px;
-    height: 550px;
+    height: 500px;
     margin-top: 2vh;
     margin-left: 8vw;
 }
@@ -1649,7 +1649,7 @@ and (max-device-width: 812px) {
 
     .wtw-5{
         width: 1500px;
-        height: 950px;
+        height: 900px;
         margin-top: 2vh;
         margin-left: 11vw;
     }
