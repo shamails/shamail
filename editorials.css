@@ -210,7 +210,8 @@ body{
     display: flex;
 } */
 .sub-title{
-    text-decoration: wavy;
+    text-decoration: solid;
+    margin-left: 8vw;
 }
 
 .wmf-1{
