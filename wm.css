@@ -294,6 +294,71 @@ body{
     object-fit: fill;
 }
 
+.sprout-17{
+    width: 1000px;
+    height: 550px;
+    margin-top: 2vh;
+    margin-left: 8vw;
+}
+
+#sprout-17{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.sprout-18{
+    width: 1000px;
+    height: 550px;
+    margin-top: 2vh;
+    margin-left: 8vw;
+}
+
+#sprout-18{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.sprout-19{
+    width: 1000px;
+    height: 550px;
+    margin-top: 2vh;
+    margin-left: 8vw;
+}
+
+#sprout-19{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.sprout-20{
+    width: 1000px;
+    height: 550px;
+    margin-top: 2vh;
+    margin-left: 8vw;
+}
+
+#sprout-20{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.sprout-21{
+    width: 1000px;
+    height: 550px;
+    margin-top: 2vh;
+    margin-left: 8vw;
+}
+
+#sprout-21{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
 .wtw-1{
     width: 1000px;
     height: 800px;
@@ -1259,6 +1324,66 @@ and (max-device-width: 812px) {
         height: 100%;
         object-fit: fill;
     }
+    .sprout-17{
+        width: 700px;
+       height: 475px;
+       margin-top: 2vh;
+       margin-left: 4vw;
+        }
+        
+    #sprout-17{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    .sprout-18{
+        width: 700px;
+       height: 475px;
+       margin-top: 2vh;
+       margin-left: 4vw;
+        }
+        
+    #sprout-18{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    .sprout-19{
+        width: 700px;
+       height: 475px;
+       margin-top: 2vh;
+       margin-left: 4vw;
+        }
+        
+    #sprout-19{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    .sprout-20{
+        width: 700px;
+       height: 475px;
+       margin-top: 2vh;
+       margin-left: 4vw;
+        }
+        
+    #sprout-20{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    .sprout-21{
+        width: 700px;
+       height: 475px;
+       margin-top: 2vh;
+       margin-left: 4vw;
+        }
+        
+    #sprout-21{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
         
     .wtw-1{
         width: 700px;
@@ -1855,6 +1980,66 @@ and (max-device-width: 812px) {
     }
     
     #sprout-14{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    } 
+    .sprout-17{
+        width: 1500px;
+        height: 900px;
+        margin-top: 2vh;
+        margin-left: 11vw;
+    }
+    
+    #sprout-17{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    .sprout-18{
+        width: 1500px;
+        height: 900px;
+        margin-top: 2vh;
+        margin-left: 11vw;
+    }
+    
+    #sprout-18{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    .sprout-19{
+        width: 1500px;
+        height: 900px;
+        margin-top: 2vh;
+        margin-left: 11vw;
+    }
+    
+    #sprout-19{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    .sprout-20{
+        width: 1500px;
+        height: 900px;
+        margin-top: 2vh;
+        margin-left: 11vw;
+    }
+    
+    #sprout-20{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+    }
+    .sprout-21{
+        width: 1500px;
+        height: 900px;
+        margin-top: 2vh;
+        margin-left: 11vw;
+    }
+    
+    #sprout-21{
         width: 100%;
         height: 100%;
         object-fit: fill;
