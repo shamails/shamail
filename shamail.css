@@ -194,6 +194,7 @@ light purple:BEA2C2*/
     font-weight: 500;
     display: none;
     color:  #BEA2C2;
+    padding-top: 2vh;
 }
 
 #me{
@@ -827,7 +828,7 @@ and (max-device-width: 812px) {
         padding-top: 10vh;
         color:  #BEA2C2; */
         height:43%;
-        width:105%;
+        width:101%;
         display: none;
         /* position: fixed; */
         top: 0;
