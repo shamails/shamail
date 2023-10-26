@@ -23,6 +23,7 @@ console.log('hewwo')
 $(document).ready(function(){
     $(".intro").fadeOut(3750 , function(){
         $(".sections").fadeIn(1000);
+        $(".title").fadeIn(1000);
         $(".box").fadeIn(1000);
         $(".photo").fadeIn(1000);
     });
