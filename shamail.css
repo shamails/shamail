@@ -825,7 +825,7 @@ and (max-device-width: 812px) {
         padding-top: 10vh;
         color:  #BEA2C2; */
         height:43%;
-        width:100%;
+        width:105%;
         display: none;
         /* position: fixed; */
         top: 0;
@@ -977,7 +977,7 @@ and (max-device-width: 812px) {
         background-position-y: center;
         width:auto;
         height:20vh;
-        margin-top: 75%;
+        margin-top: 79%;
     }
     
     .sprout-2{
