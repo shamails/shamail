@@ -804,7 +804,9 @@ and (max-device-width: 812px) {
         50% {transform: rotate(38deg);}
         100% {transform: rotate(-38deg);}
     }
-   
+   .container{
+       overflow-y: scroll;
+   }
     .photo{
         /* width: 55vh;
         height: 27vw;
@@ -939,7 +941,7 @@ and (max-device-width: 812px) {
         font-weight: 500;
         display: none;
         color:  #1f0e20;
-        overflow-y: scroll;
+        /* overflow-y: scroll; */
         z-index: 0;
     }
     
