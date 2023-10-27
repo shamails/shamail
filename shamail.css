@@ -193,7 +193,7 @@ light purple:BEA2C2*/
     font-family: 'K2D', sans-serif;
     font-weight: 500;
     display: none;
-    color:  #BEA2C2;
+    color:  #FFF3DA;
     padding-top: 2vh;
 }
 
@@ -216,14 +216,14 @@ light purple:BEA2C2*/
 }
 
 .a:visited{
-    color: #BEA2C2;
+    color: #FFF3DA;
     text-decoration: dashed;
     font-size: 1.25vw;
     margin-left: 2vw;
 }
 
 .email , .email:link , .email:visited , .email:active{
-    color: #BEA2C2;
+    color: #FFF3DA;
     text-decoration: dashed;
     font-size: 1.25vw;
     margin-left: 2vw;
@@ -231,20 +231,20 @@ light purple:BEA2C2*/
 
 .e:hover{
     color: #1f0e20;
-    background-color: #BEA2C2;
+    background-color: #FFF3DA;
     font-size: 1.25vw;
     margin-left: 2vw;
     margin-right: 2vw;
 }
 .email:hover{
     color: #1f0e20;
-    background-color: #BEA2C2;
+    background-color: #FFF3DA;
     font-size: 1.25vw;
     margin-left: 2vw;
     margin-right: 2vw;
 }
 .linkedin , .linkedin:link , .linkedin:visited , .linkedin:active{
-    color: #BEA2C2;
+    color: #FFF3DA;
     text-decoration: dashed;
     font-size: 1.25vw;
     margin-left: 2vw;
@@ -253,14 +253,14 @@ light purple:BEA2C2*/
 
 .l:hover{
     color: #1f0e20;
-    background-color: #BEA2C2;
+    background-color: #FFF3DA;
     font-size: 1.25vw;
     margin-left: 2vw;
     margin-right: 2vw;
 }
 .linkedin:hover{
     color: #1f0e20;
-    background-color: #BEA2C2;
+    background-color: #FFF3DA;
     font-size: 1.25vw;
     margin-left: 2vw;
 }
