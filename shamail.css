@@ -330,7 +330,7 @@ light purple:BEA2C2*/
     background-position-y: center;
     width:auto;
     height:60vh;
-    
+    opacity: .5;
 }
 
 .sprout-2{
@@ -342,6 +342,10 @@ light purple:BEA2C2*/
     width:auto;
     height:60vh;
     margin-top: 1.5vh;
+}
+
+.sprout:hover{
+    opacity: 1;
 }
 
 .sprout-3{
@@ -396,6 +400,10 @@ light purple:BEA2C2*/
     width:auto;
     height:60vh;
     margin-top: 1.5vh;
+    opacity: .5;
+}
+.wtw:hover{
+    opacity: 1;
 }
 
 .wtw-2{
@@ -451,6 +459,11 @@ light purple:BEA2C2*/
     width:auto;
     height:75vh;
     margin-top: 1.5vh;
+    opacity: .5;
+}
+
+.diary:hover{
+    opacity: 1;
 }
 
 .diary-2{
@@ -483,6 +496,11 @@ light purple:BEA2C2*/
     width:auto;
     height:60vh;
     margin-top: 1.5vh;
+    opacity: .5;
+}
+
+.gg:hover{
+    opacity: 1;
 }
 
 .gg-2{
@@ -527,6 +545,11 @@ light purple:BEA2C2*/
     width:auto;
     height:77vh;
     margin-top: 1.5vh;
+    opacity: .5;
+}
+
+.wmf:hover{
+    opacity: 1;
 }
 
 .wmf-2{
@@ -559,6 +582,11 @@ light purple:BEA2C2*/
     width:auto;
     height: 75vh;
     margin-top: 1.5vh;
+    opacity: .5;
+}
+
+.jo:hover{
+    opacity: 1;
 }
 
 .jo-2{
@@ -613,6 +641,11 @@ light purple:BEA2C2*/
     width:auto;
     height:72vh;
     margin-top: 1.5vh;
+    opacity: .5;
+}
+
+.type-3:hover{
+    opacity: 1;
 }
 
 .type-4{
@@ -634,6 +667,11 @@ light purple:BEA2C2*/
     width:auto;
     height:70vh;
     margin-top: 1.5vh;
+    opacity: .5;
+}
+
+.mean:hover{
+    opacity: 1;
 }
 
 .mean-2{
