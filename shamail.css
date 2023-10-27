@@ -180,7 +180,7 @@ light purple:BEA2C2*/
     padding-top: 10vh;
     color:  #BEA2C2; */
     height:100%;
-    width:30%;
+    width:20%;
     display: none;
     position: fixed;
     left: 0;
@@ -201,8 +201,8 @@ light purple:BEA2C2*/
     background-image: url("sham.png");
     background-size: cover;
     background-repeat: no-repeat;
-    height: 47vh;
-    width: 25vw;
+    height: 35vh;
+    width: 17vw;
     margin-left: 2vw;
     margin-right: 2vw;
     border-radius: 1vh;
@@ -212,7 +212,7 @@ light purple:BEA2C2*/
     margin-left: 2vw;
     margin-right: 2vw;
     margin-top: 1vh;
-    font-size: 1.25vw;
+    font-size: 1vw;
 }
 
 .a:visited{
@@ -277,7 +277,7 @@ light purple:BEA2C2*/
     border-radius: 5vh; */
     /* filter: drop-shadow(2px 2px 6px rgb(146, 144, 144)); */
     height:100%;
-    width:70%;
+    width:80%;
     display: none;
     position: fixed;
     flex: 1;
