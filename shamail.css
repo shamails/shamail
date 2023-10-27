@@ -313,14 +313,14 @@ light purple:BEA2C2*/
     margin-top: 1vh;
     font-size: 1.5vw;
 }
-.line{
+/* .line{
     border-bottom: .5vh solid;
     border-color:  #270029;
     margin-left: 3vw;
     margin-right: 3vw;
     margin-top: 2.5vh;
     margin-bottom: 2.5vh;
-}
+} */
 
 .sprout{
     background-image: url("sprout-main.png");
