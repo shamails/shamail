@@ -1,0 +1,353 @@
+body{
+    background-color: #FFF3DA;
+    font-family: 'K2D', sans-serif;
+    font-weight: 500;
+    
+}
+.copy{
+    color:  #270029;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    margin-top: 1vh;
+    font-size: 1vw;
+}
+.subtitle{
+    color:  #270029;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    margin-top: 1vh;
+    font-size: 1.5vw;
+}
+.line{
+    border-bottom: .5vh solid;
+    border-color:  #270029;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;
+}
+
+.sprout{
+    background-image: url("sprout-main.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:80vh;
+    
+}
+
+.sprout-2{
+    background-image: url("sprout-1.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:100vh;
+    margin-top: 1.5vh;
+}
+
+.sprout-3{
+    background-image: url("sprout-2.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:100vh;
+    margin-top: 1.5vh;
+}
+
+.sprout-4{
+    background-image: url("sprout-30-3.gif");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:100vh;
+    margin-top: 1.5vh;
+}
+
+.sprout-5{
+    background-image: url("sprout-17.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:100vh;
+    margin-top: 1.5vh;
+}
+
+.sprout-6{
+    background-image: url("sprout-6.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:110vh;
+    margin-top: 1.5vh;
+}
+.wtw{
+    background-image: url("wtw-1.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:100vh;
+    margin-top: 1.5vh;
+}
+
+.wtw-2{
+    background-image: url("wtw-2.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:100vh;
+    margin-top: 1.5vh;
+}
+
+.wtw-3{
+    background-image: url("wtw-19.gif");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:100vh;
+    margin-top: 1.5vh;
+}
+
+.wtw-4{
+    background-image: url("wtw-5.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:100vh;
+    margin-top: 1.5vh;
+}
+
+.wtw-5{
+    background-image: url("wtw-6.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:110vh;
+    margin-top: 1.5vh;
+}
+
+.diary{
+    background-image: url("8.gif");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:115vh;
+    margin-top: 1.5vh;
+}
+
+.diary-2{
+    background-image: url("7.gif");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:115vh;
+    margin-top: 1.5vh;
+}
+
+.diary-3{
+    background-image: url("9.gif");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:115vh;
+    margin-top: 1.5vh;
+}
+.gg{
+    background-image: url("gg-1.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:60vh;
+    margin-top: 1.5vh;
+}
+
+.gg-2{
+    background-image: url("gg-4.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:60vh;
+    margin-top: 1.5vh;
+}
+
+.gg-3{
+    background-image: url("gg-2.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:60vh;
+    margin-top: 1.5vh;
+}
+
+.gg-4{
+    background-image: url("gg-3.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:70vh;
+    margin-top: 1.5vh;
+}
+
+.wmf{
+    background-image: url("wmf-4.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:115vh;
+    margin-top: 1.5vh;
+}
+
+.wmf-2{
+    background-image: url("wmf-1.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:100vh;
+    margin-top: 1.5vh;
+}
+
+.wmf-3{
+    background-image: url("wmf-5.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height: 105vh;
+    margin-top: 1.5vh;
+}
+.jo{
+    background-image: url("jo-2.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height: 75vh;
+    margin-top: 1.5vh;
+}
+
+.jo-2{
+    background-image: url("jo-6.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height: 60vh;
+    margin-top: 1.5vh;
+}
+
+.jo-3{
+    background-image: url("jo-1.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height: 79vh;
+    margin-top: 1.5vh;
+}
+.type{
+    background-image: url("type1.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:67vh;
+    margin-top: 1.5vh;
+}
+
+.type-2{
+    background-image: url("type-4.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:60vh;
+    margin-top: 1.5vh;
+}
+
+.type-3{
+    background-image: url("type-2.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:72vh;
+    margin-top: 1.5vh;
+}
+
+.type-4{
+    background-image: url("type-3.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:72vh;
+    margin-top: 1.5vh;
+}
+.mean{
+    background-image: url("poster-1.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:70vh;
+    margin-top: 1.5vh;
+}
+
+.mean-2{
+    background-image: url("posters-2.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:70vh;
+    margin-top: 1.5vh;
+}
