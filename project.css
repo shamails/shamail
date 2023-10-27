@@ -57,9 +57,11 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:auto;
+    width:90%;
     height:100vh;
+    margin-left: 5vw;
     margin-top: 1.5vh;
+    border-radius: 1vh;
 }
 
 .sprout-3{
@@ -68,19 +70,23 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:auto;
+    width:90%;
     height:100vh;
+    margin-left: 5vw;
     margin-top: 1.5vh;
+    border-radius: 1vh;
 }
 
 .sprout-4{
     background-image: url("sprout-30-3.gif");
     background-repeat: no-repeat;
-    background-size: 100% , 100%;
+    background-size: cover;
+    /* background-size: 100% , 100%; */
     background-position-x: center;
     background-position-y: center;
-    width:auto;
+    width:35%;
     height:100vh;
+    margin-left: 35vw;
     margin-top: 1.5vh;
 }
 
@@ -90,9 +96,11 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:auto;
-    height:100vh;
+    width:80%;
+    height:70vh;
     margin-top: 1.5vh;
+    margin-left: 10vw;
+    border-radius: 1vh;
 }
 
 .sprout-6{
@@ -101,9 +109,11 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:auto;
-    height:110vh;
+    width:80%;
+    height:70vh;
     margin-top: 1.5vh;
+    margin-left: 10vw;
+    border-radius: 1vh;
 }
 .wtw{
     background-image: url("wtw-1.png");
@@ -275,7 +285,7 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:auto;
-    height: 75vh;
+    height: 110vh;
     margin-top: 1.5vh;
 }
 
@@ -285,9 +295,11 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:auto;
-    height: 60vh;
+    width:60%;
+    height: 80vh;
+    margin-left: 20vw;
     margin-top: 1.5vh;
+    border-radius: 2vh;
 }
 
 .jo-3{
@@ -350,7 +362,7 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:auto;
-    height:70vh;
+    height:100vh;
     margin-top: 1.5vh;
 }
 
@@ -361,6 +373,6 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:auto;
-    height:70vh;
+    height:100vh;
     margin-top: 1.5vh;
 }
