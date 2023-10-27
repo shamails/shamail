@@ -4,6 +4,19 @@ body{
     font-weight: 500;
     
 }
+.back{
+    background-image: url("arrow back.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width: 2vw;
+    height: 2vw;
+    position: fixed;
+    top: 2vh;
+    left: 1vw;
+}
+
 .copy{
     color:  #270029;
     margin-left: 3vw;
