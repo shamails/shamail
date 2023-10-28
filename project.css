@@ -132,20 +132,26 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:auto;
+    background-size: cover;
+    width:90;
     height:100vh;
+    margin-left: 1vw;
     margin-top: 1.5vh;
+    border-radius: 1vh;
 }
 
 .wtw-3{
     background-image: url("wtw-19.gif");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
+    background-size: cover;
     background-position-x: center;
     background-position-y: center;
-    width:auto;
-    height:100vh;
+    width:30%;
+    height:90vh;
     margin-top: 1.5vh;
+    margin-left: 35vw;
+    border-radius: 1vh;
 }
 
 .wtw-4{
@@ -154,9 +160,11 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:auto;
-    height:100vh;
+    width:80%;
+    height: 70vh;
     margin-top: 1.5vh;
+    margin-left: 10vw;
+    border-radius: 1vh;
 }
 
 .wtw-5{
@@ -165,9 +173,12 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:auto;
-    height:110vh;
+    width:80%;
+    height:80vh;
     margin-top: 1.5vh;
+    margin-left: 10vw;
+    border-radius: 1vh;
+}
 }
 
 .diary{
