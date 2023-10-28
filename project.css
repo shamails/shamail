@@ -329,6 +329,9 @@ body{
     margin-left: 2.5vw;
     border-radius: 1vh;
 }
+.flex{
+    display: flex;
+}
 .type{
     background-image: url("type1.png");
     background-repeat: no-repeat;
@@ -360,9 +363,12 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:auto;
-    height:72vh;
+    width:50%;
+    height:60vh;
+    margin-left: 4vw;
     margin-top: 1.5vh;
+    border-radius: 1vh;
+    margin-bottom: 1.5vh;
 }
 
 .type-4{
@@ -371,9 +377,12 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:auto;
-    height:72vh;
+    width:50%;
+    height:60vh;
+    margin-left: 2.5vw;
     margin-top: 1.5vh;
+    border-radius: 1vh;
+    margin-bottom: 1.5vh;
 }
 .mean{
     background-image: url("poster-1.png");
@@ -384,15 +393,19 @@ body{
     width:auto;
     height:100vh;
     margin-top: 1.5vh;
+    
 }
 
 .mean-2{
     background-image: url("posters-2.png");
     background-repeat: no-repeat;
-    background-size: 100% , 100%;
+    background-size: 150% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:auto;
+    background-size: cover;
+    width:80%;
     height:100vh;
     margin-top: 1.5vh;
+    margin-left: 8vw;
+    border-radius: 1vh;
 }
