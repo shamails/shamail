@@ -179,7 +179,6 @@ body{
     margin-left: 10vw;
     border-radius: 1vh;
 }
-}
 
 .diary{
     background-image: url("8.gif");
@@ -336,15 +335,18 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:auto;
-    height:67vh;
+    width:80%;
+    height:80vh;
+    margin-left: 10vw;
     margin-top: 1.5vh;
+    border-radius: 1vh;
 }
 
 .type-2{
     background-image: url("type-4.png");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
+    background-size: cover;
     background-position-x: center;
     background-position-y: center;
     width:auto;
