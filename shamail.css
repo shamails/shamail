@@ -323,13 +323,14 @@ light purple:BEA2C2*/
 } */
 
 .sprout{
-    background-image: url("sprout-main.png");
+    background-image: url("Comp\ 1_1.gif");
     background-repeat: no-repeat;
-    background-size: 100% , 100%;
+    background-size: cover;
+    background-size: 170% , 120%;
     background-position-x: center;
     background-position-y: center;
     width:auto;
-    height:60vh;
+    height:70vh;
     opacity: .5;
 }
 
