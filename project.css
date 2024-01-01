@@ -2,7 +2,7 @@ body{
     background-color: #FFF3DA;
     font-family: 'K2D', sans-serif;
     font-weight: 500;
-    
+    overflow-x: hidden;
 }
 .back{
     background-image: url("arrow back.png");
@@ -392,10 +392,10 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:auto;
+    width:105%;
     height:100vh;
     margin-top: 1.5vh;
-    
+    margin-left: -.25 vw;
 }
 
 .mean-2{
@@ -409,5 +409,18 @@ body{
     height:100vh;
     margin-top: 1.5vh;
     margin-left: 8vw;
+    border-radius: 1vh;
+}
+.mean-3{
+    background-image: url("posters.gif");
+    background-repeat: no-repeat;
+    background-size: 50% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+    width:110%;
+    height:100vh;
+    margin-top: 1.5vh;
+    margin-left: -.25 vw;
     border-radius: 1vh;
 }
