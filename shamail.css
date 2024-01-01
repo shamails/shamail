@@ -623,7 +623,7 @@ light purple:BEA2C2*/
 }
 
 .type-2{
-    background-image: url("shamail-type.gif");
+    background-image: url("type-4.png");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -634,7 +634,7 @@ light purple:BEA2C2*/
 }
 
 .type-3{
-    background-image: url("type-2.png");
+    background-image: url("shamail-type.gif");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
