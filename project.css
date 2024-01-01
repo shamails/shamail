@@ -22,14 +22,14 @@ body{
     margin-left: 3vw;
     margin-right: 3vw;
     margin-top: 1vh;
-    font-size: 1vw;
+    font-size: 1.5vw;
 }
 .subtitle{
     color:  #270029;
     margin-left: 3vw;
     margin-right: 3vw;
     margin-top: 1vh;
-    font-size: 1.5vw;
+    font-size: 2.5vw;
 }
 .line{
     border-bottom: .5vh solid;
@@ -57,9 +57,9 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:90%;
+    width:100%;
     height:100vh;
-    margin-left: 5vw;
+    margin-left: 0vw;
     margin-top: 1.5vh;
     border-radius: 1vh;
 }
@@ -67,18 +67,18 @@ body{
 .sprout-3{
     background-image: url("sprout-2.png");
     background-repeat: no-repeat;
-    background-size: 100% , 100%;
+    background-size: 180% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:90%;
+    width:60%;
     height:100vh;
-    margin-left: 5vw;
+    margin-left: 4.5vw;
     margin-top: 1.5vh;
     border-radius: 1vh;
 }
 
 .sprout-4{
-    background-image: url("sprout-30-3.gif");
+    background-image: url("s2.gif");
     background-repeat: no-repeat;
     background-size: cover;
     /* background-size: 100% , 100%; */
@@ -86,7 +86,7 @@ body{
     background-position-y: center;
     width:35%;
     height:100vh;
-    margin-left: 35vw;
+    margin-left: 4.5vw;
     margin-top: 1.5vh;
 }
 
@@ -97,7 +97,7 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:80%;
-    height:70vh;
+    height:80vh;
     margin-top: 1.5vh;
     margin-left: 10vw;
     border-radius: 1vh;
@@ -110,7 +110,7 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:80%;
-    height:70vh;
+    height:80vh;
     margin-top: 1.5vh;
     margin-left: 10vw;
     border-radius: 1vh;
@@ -219,7 +219,7 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:auto;
-    height:60vh;
+    height:90vh;
     margin-top: 1.5vh;
 }
 
@@ -229,19 +229,21 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:auto;
-    height:60vh;
+    width:70%;
+    height:70vh;
+    margin-left: 13vw;
     margin-top: 1.5vh;
 }
 
 .gg-3{
     background-image: url("gg-2.png");
     background-repeat: no-repeat;
-    background-size: 100% , 100%;
+    background-size: 180% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:auto;
-    height:60vh;
+    width:50%;
+    height:80vh;
+    margin-left: 25vw;
     margin-top: 1.5vh;
 }
 
@@ -252,7 +254,7 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:auto;
-    height:70vh;
+    height:120vh;
     margin-top: 1.5vh;
 }
 
