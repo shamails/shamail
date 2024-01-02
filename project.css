@@ -418,9 +418,9 @@ body{
     background-position-x: center;
     background-position-y: center;
     background-size: cover;
-    width:105%;
-    height:115.7vh;
+    width:70%;
+    height:80vh;
     margin-top: 1.5vh;
-    margin-left: -1vw;
+    margin-left: 15vw;
     border-radius: 1vh;
 }
