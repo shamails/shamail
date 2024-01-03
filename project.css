@@ -15,6 +15,8 @@ body{
     position: fixed;
     top: 2vh;
     left: 1vw;
+    cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
+
 }
 
 .email , .email:link , .email:visited , .email:active{
