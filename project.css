@@ -230,6 +230,20 @@ body{
     margin-left: 10vw;
     border-radius: 1vh;
 }
+
+.sprout-7{
+    background-image: url("sprou-23.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:80%;
+    height:80vh;
+    margin-top: 1.5vh;
+    margin-left: 10vw;
+    border-radius: 1vh;
+}
+
 .wtw{
     background-image: url("wtw-1.png");
     background-repeat: no-repeat;
