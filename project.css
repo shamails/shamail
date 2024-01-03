@@ -557,7 +557,7 @@ body{
     width:90%;
     height: 75vh;
     margin-top: 1.5vh;
-    margin-left: 5vw;
+    margin-left: 3vw;
     border-radius: 1vh;
 }
 
@@ -569,7 +569,7 @@ body{
     background-position-y: center;
     width:35%;
     height: 60vh;
-    margin-top: 5vh;
+    margin-top: 3vh;
     margin-left: 1vw;
     border-radius: 1vh;
 }
@@ -582,7 +582,7 @@ body{
     background-position-y: center;
     width:60%;
     height: 60vh;
-    margin-top: 5vh;
+    margin-top: 3vh;
     margin-left: 1vw;
     border-radius: 1vh;
 }
@@ -595,12 +595,25 @@ body{
     background-position-y: center;
     width:50%;
     height: 50vh;
-    margin-top: 5vh;
+    margin-top: 3vh;
     margin-left: 1vw;
     border-radius: 1vh;
 }
 
 .wmf-7{
+    background-image: url("wmf-v6.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:50%;
+    height: 50vh;
+    margin-top: 3vh;
+    margin-left: 1vw;
+    border-radius: 1vh;
+}
+
+.wmf-8{
     background-image: url("wmf-v4.png");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
@@ -613,56 +626,25 @@ body{
     border-radius: 1vh;
 }
 
-.wmf-8{
-    background-image: url("wmf-v6.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height: 50vh;
-    margin-top: 5vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-}
-
-.wmf-9{
-    background-image: url("wmf-v6.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height: 50vh;
-    margin-top: 5vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-}
 
 #v1{
-    margin-top: 5vh;
+    margin-top: 3vh;
 }
 #v2{
-    margin-top: 5vh;
+    margin-top: 3vh;
+    margin-left: 45vh;
 }
 #v3{
-    margin-top: 5vh;
+    margin-top: 3vh;
 }
 #v4{
-    margin-top: 5vh;
+    margin-top: 3vh;
+    margin-left: 70vh;
 }
 #v5{
-    margin-top: 5vh;
+    margin-top: 3vh;
 }
-#v6{
-    margin-top: 5vh;
-}
-#v7{
-    margin-top: 5vh;
-}
-#v8{
-    margin-top: 5vh;
-}
+
 .jo{
     background-image: url("jo-2.png");
     background-repeat: no-repeat;
