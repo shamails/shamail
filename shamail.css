@@ -264,6 +264,27 @@ light purple:BEA2C2*/
     font-size: 1.25vw;
     margin-left: 2vw;
 }
+.about , .about:link , .about:visited , .about:active{
+    color: #FFF3DA;
+    text-decoration: dashed;
+    font-size: 1.25vw;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+
+.a:hover{
+    color: #1f0e20;
+    background-color: #FFF3DA;
+    font-size: 1.25vw;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+.about:hover{
+    color: #1f0e20;
+    background-color: #FFF3DA;
+    font-size: 1.25vw;
+    margin-left: 2vw;
+}
 
 
 
