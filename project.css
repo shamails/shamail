@@ -195,9 +195,9 @@ body{
     background-size: 180% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:60%;
+    width:45%;
     height:100vh;
-    margin-left: 4.5vw;
+    margin-left: .5vw;
     margin-top: 1.5vh;
     border-radius: 1vh;
 }
@@ -221,10 +221,10 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:80%;
-    height:80vh;
-    margin-top: 1.5vh;
-    margin-left: 10vw;
+    width:50%;
+    height:50vh;
+    margin-top: 3vh;
+    margin-left: 1vw;
     border-radius: 1vh;
 }
 
@@ -325,10 +325,10 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:80%;
-    height:80vh;
-    margin-top: 1.5vh;
-    margin-left: 10vw;
+    width:50%;
+    height:50vh;
+    margin-top: 3vh;
+    margin-left: 1vw;
     border-radius: 1vh;
 }
 
@@ -339,9 +339,9 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:50%;
-    height:80vh;
-    margin-top: 1.5vh;
-    margin-left: 20vw;
+    height:50vh;
+    margin-top: 3vh;
+    margin-left: 1vw;
     border-radius: 1vh;
 }
 
@@ -352,12 +352,27 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:70%;
-    height:70vh;
-    margin-top: 1.5vh;
-    margin-left: 13vw;
+    height:50vh;
+    margin-top: 3vh;
+    margin-left: 1vw;
     border-radius: 1vh;
 }
+#asset{
+    margin-left:37vw;
+    margin-top: 5vh;
+}
 
+#goals{
+    margin-left:30vw;
+    margin-top: 5vh;
+}
+#moodboard{
+    margin-top: 5vh;
+}
+
+#style{
+    margin-top: 5vh;
+}
 .wtw{
     background-image: url("wtw-1.png");
     background-repeat: no-repeat;
