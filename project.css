@@ -524,6 +524,71 @@ body{
     margin-top: 1.5vh;
 }
 
+/* .gg-5{
+    background-image: url("gg-all.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:120vh;
+    margin-top: 1.5vh;
+} */
+
+.gg-6{
+    background-image: url("gg-all.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:120vh;
+    margin-top: 1.5vh;
+}
+
+.gg-7{
+    background-image: url("gg-v1.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:120vh;
+    margin-top: 1.5vh;
+}
+
+.gg-8{
+    background-image: url("gg-v2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:120vh;
+    margin-top: 1.5vh;
+}
+
+.gg-9{
+    background-image: url("gg-desktop.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:120vh;
+    margin-top: 1.5vh;
+}
+
+.gg-10{
+    background-image: url("gg-desktop2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:auto;
+    height:120vh;
+    margin-top: 1.5vh;
+}
 .wmf{
     background-image: url("wmf-4.png");
     background-repeat: no-repeat;
