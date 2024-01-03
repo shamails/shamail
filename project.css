@@ -323,7 +323,7 @@ body{
     width:50%;
     height:40vh;
     margin-top: 1.5vh;
-    margin-left: 25vw;
+    margin-left: 1vw;
     border-radius: 1vh;
 }
 
@@ -466,7 +466,7 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:60%;
-    height:50vh;
+    height:40vh;
     margin-top: 1.5vh;
     margin-left: 1vw;
     border-radius: 1vh;
@@ -475,18 +475,18 @@ body{
 .wtw-8{
     background-image: url("wtw-v2.png");
     background-repeat: no-repeat;
-    background-size: 120% , 100%;
+    background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
     width:40%;
-    height:50vh;
+    height:40vh;
     margin-top: 1.5vh;
     margin-left: 1vw;
     border-radius: 1vh;
 }
 
 .wtw-9{
-    background-image: url("wtw-v3.png");
+    background-image: url("wtw-3.png");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -497,8 +497,8 @@ body{
     margin-left: 1vw;
     border-radius: 1vh;
 }
-.wtw-9{
-    background-image: url("wtw-v4.png");
+.wtw-10{
+    background-image: url("wtw-4.png");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
