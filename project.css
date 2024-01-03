@@ -446,6 +446,70 @@ body{
     border-radius: 1vh;
 }
 
+.wtw-6{
+    /* background-image: url("wtw-v1.png"); */
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:50%;
+    height:80vh;
+    margin-top: 1.5vh;
+    margin-left: 1vw;
+    border-radius: 1vh;
+}
+
+.wtw-7{
+    background-image: url("wtw-v1.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:60%;
+    height:50vh;
+    margin-top: 1.5vh;
+    margin-left: 1vw;
+    border-radius: 1vh;
+}
+
+.wtw-8{
+    background-image: url("wtw-v2.png");
+    background-repeat: no-repeat;
+    background-size: 120% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:40%;
+    height:50vh;
+    margin-top: 1.5vh;
+    margin-left: 1vw;
+    border-radius: 1vh;
+}
+
+.wtw-9{
+    background-image: url("wtw-v3.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:50%;
+    height:50vh;
+    margin-top: 1.5vh;
+    margin-left: 1vw;
+    border-radius: 1vh;
+}
+.wtw-9{
+    background-image: url("wtw-v4.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:50%;
+    height:50vh;
+    margin-top: 1.5vh;
+    margin-left: 1vw;
+    border-radius: 1vh;
+}
+
 .diary{
     background-image: url("8.gif");
     background-repeat: no-repeat;
