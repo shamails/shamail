@@ -466,8 +466,8 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:60%;
-    height:40vh;
-    margin-top: 1.5vh;
+    height:50vh;
+    margin-top: 5vh;
     margin-left: 1vw;
     border-radius: 1vh;
 }
@@ -479,8 +479,8 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:40%;
-    height:40vh;
-    margin-top: 1.5vh;
+    height:50vh;
+    margin-top: 5vh;
     margin-left: 1vw;
     border-radius: 1vh;
 }
@@ -493,7 +493,7 @@ body{
     background-position-y: center;
     width:50%;
     height:50vh;
-    margin-top: 1.5vh;
+    margin-top: 5vh;
     margin-left: 1vw;
     border-radius: 1vh;
 }
@@ -505,7 +505,7 @@ body{
     background-position-y: center;
     width:50%;
     height:50vh;
-    margin-top: 1.5vh;
+    margin-top: 5vh;
     margin-left: 1vw;
     border-radius: 1vh;
 }
