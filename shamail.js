@@ -26,10 +26,14 @@ $(document).ready(function(){
         $(".title").fadeIn(1000);
         $(".box").fadeIn(1000);
         $(".photo").fadeIn(1000);
+        $(".shamail").fadeIn(1000);
     });
     console.log('hewwo 2');
 
-    
+    $(".shamail").on("scroll", function(){
+        $(".shamail").fadeOut(1000);
+        console.log('hewwo 3');
+    })
 
     // var images = [
     //     'photo-2.png' ,

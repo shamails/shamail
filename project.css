@@ -4,6 +4,11 @@ body{
     font-weight: 500;
     overflow-x: hidden;
 }
+/* .button{
+    background-color: #FFF3DA;
+    width: 4vw;
+    height: 4vw;
+} */
 .back{
     background-image: url("arrow back.png");
     background-repeat: no-repeat;
@@ -149,8 +154,8 @@ body{
 
 .copy{
     color:  #270029;
-    margin-left: 3vw;
-    margin-right: 3vw;
+    margin-left: 15vw;
+    margin-right: 15vw;
     margin-top: 1vh;
     font-size: 1.5vw;
 }
@@ -174,13 +179,14 @@ body{
 }
 
 .sprout{
-    background-image: url("Comp\ 1_2.gif");
+    background-image: url("sprout-brand.png");
     background-repeat: no-repeat;
-    background-size: 100% , 100%;
+    background-size: 105% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:auto;
-    height:80vh;
+    width:100%;
+    height:68vh;
+    /* margin-top: ; */
     
 }
 
@@ -193,7 +199,7 @@ body{
     width:100%;
     height:100vh;
     margin-left: 0vw;
-    margin-top: 1.5vh;
+    margin-top: 3vh;
     border-radius: 1vh;
 }
 
@@ -206,7 +212,7 @@ body{
     width:35%;
     height: 70vh;
     margin-left: 6vw;
-    margin-top: 1.5vh;
+    margin-top: 3vh;
     border-radius: 1vh;
 }
 
@@ -217,10 +223,10 @@ body{
     /* background-size: 100% , 100%; */
     background-position-x: center;
     background-position-y: center;
-    width:35%;
-    height:100vh;
-    margin-left: 4.5vw;
-    margin-top: 1.5vh;
+    width:25%;
+    height: 90vh;
+    margin-left: 20vw;
+    margin-top: 3vh;
 }
 
 .sprout-5{
@@ -232,6 +238,7 @@ body{
     width:50%;
     height:50vh;
     margin-top: 3vh;
+    margin-bottom: 3vh;
     margin-left: 1vw;
     border-radius: 1vh;
 }
@@ -243,9 +250,9 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:50%;
-    height:60vh;
-    margin-top: 1.5vh;
-    margin-left: 1vw;
+    height:50vh;
+    margin-top: 1vh;
+    margin-left: 2vw;
     border-radius: 1vh;
 }
 
@@ -256,8 +263,8 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:50%;
-    height:60vh;
-    margin-top: 1.5vh;
+    height:50vh;
+    margin-top: 1vh;
     margin-left: 1vw;
     border-radius: 1vh;
 }
@@ -270,7 +277,7 @@ body{
     background-position-y: center;
     width:30%;
     height:25vh;
-    margin-top: 1.5vh;
+    margin-top: 3vh;
     margin-left: 5vw;
     border-radius: 1vh;
 }
@@ -283,7 +290,7 @@ body{
     background-position-y: center;
     width:30%;
     height:25vh;
-    margin-top: 1.5vh;
+    margin-top: 3vh;
     margin-left: 1vw;
     border-radius: 1vh;
 }
@@ -296,7 +303,7 @@ body{
     background-position-y: center;
     width:30%;
     height:25vh;
-    margin-top: 1.5vh;
+    margin-top: 3vh;
     margin-left: 1vw;
     border-radius: 1vh;
 }
@@ -309,7 +316,7 @@ body{
     background-position-y: center;
     width:30%;
     height:25vh;
-    margin-top: 1.5vh;
+    margin-top: 1vh;
     margin-left: 5vw;
     border-radius: 1vh;
 }
@@ -322,12 +329,12 @@ body{
     background-position-y: center;
     width:30%;
     height:25vh;
-    margin-top: 1.5vh;
+    margin-top: 1vh;
     margin-left: 1vw;
     border-radius: 1vh;
 }
 
-.sprout-13{
+/* .sprout-13{
     background-image: url("sprout-brand.png");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
@@ -335,10 +342,10 @@ body{
     background-position-y: center;
     width:100%;
     height:70vh;
-    margin-top: 1.5vh;
+    margin-top: 2vh;
     margin-left: 1vw;
     border-radius: 1vh;
-}
+} */
 
 .sprout-14{
     background-image: url("sprout-assets.png");
@@ -385,10 +392,19 @@ body{
 
 #goals{
     margin-left:30vw;
-    margin-top: 5vh;
+    margin-top: 3vh;
+}
+#interview{
+    margin-left:40vw;
+    margin-top: 3vh;
+}
+
+#sitemap{
+    margin-left:15vw;
+    margin-top: 3vh;
 }
 #moodboard{
-    margin-top: 5vh;
+    margin-top: 3vh;
 }
 
 #style{
@@ -408,13 +424,13 @@ body{
 .wtw-2{
     background-image: url("wtw-2.png");
     background-repeat: no-repeat;
-    background-size: 100% , 100%;
+    background-size: 110% , 100%;
     background-position-x: center;
     background-position-y: center;
     background-size: cover;
-    width:90;
-    height:100vh;
-    margin-left: 1vw;
+    width:60%;
+    height:80vh;
+    margin-left: 20vw;
     margin-top: 1.5vh;
     border-radius: 1vh;
 }
@@ -422,14 +438,14 @@ body{
 .wtw-3{
     background-image: url("wtw-19.gif");
     background-repeat: no-repeat;
-    background-size: 100% , 100%;
+    background-size: 170% , 100%;
     background-size: cover;
     background-position-x: center;
     background-position-y: center;
-    width:30%;
-    height:90vh;
+    width:25%;
+    height:85vh;
     margin-top: 1.5vh;
-    margin-left: 35vw;
+    margin-left: 15vw;
     border-radius: 1vh;
 }
 
@@ -478,48 +494,48 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:60%;
-    height:50vh;
-    margin-top: 5vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
+    width:40%;
+    height:30vh;
+    margin-top: 2vh;
+    margin-left: 15vw;
+    /* border-radius: 1vh; */
 }
 
 .wtw-8{
     background-image: url("wtw-v2.png");
     background-repeat: no-repeat;
-    background-size: 100% , 100%;
+    background-size: 81% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:40%;
-    height:50vh;
-    margin-top: 5vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
+    width:30%;
+    height: 30vh;
+    margin-top: 2vh;
+    margin-left: -2vw;
+    /* border-radius: 1vh; */
 }
 
 .wtw-9{
     background-image: url("wtw-3.png");
     background-repeat: no-repeat;
-    background-size: 100% , 100%;
+    background-size: 75% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:50%;
-    height:50vh;
-    margin-top: 5vh;
-    margin-left: 1vw;
+    width:40%;
+    height:40vh;
+    margin-top: 2vh;
+    margin-left: 12vw;
     border-radius: 1vh;
 }
 .wtw-10{
     background-image: url("wtw-4.png");
     background-repeat: no-repeat;
-    background-size: 100% , 100%;
+    background-size: 72% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:50%;
-    height:50vh;
-    margin-top: 5vh;
-    margin-left: 1vw;
+    width:40%;
+    height:40vh;
+    margin-top: 2vh;
+    margin-left: -9vw;
     border-radius: 1vh;
 }
 
@@ -791,6 +807,7 @@ body{
     margin-top: 3vh;
     margin-left: 1vw;
     border-radius: 1vh;
+    
 }
 
 .wmf-5{
@@ -804,6 +821,7 @@ body{
     margin-top: 3vh;
     margin-left: 1vw;
     border-radius: 1vh;
+    
 }
 
 .wmf-6{
