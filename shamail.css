@@ -290,8 +290,11 @@ light purple:BEA2C2*/
     font-size: 1.25vw;
     /* margin-left: 2vw; */
     margin-right: 2vw;
+    -webkit-text-stroke: .07vw #BEA2C2;
+    text-shadow: 0px .07vw .1vw #b974c2;
     animation: wavly 1s infinite;
     animation-delay: calc(.1s * var(--i));
+    
 }
 .email:hover{
     /* color: #1f0e20;
@@ -299,6 +302,8 @@ light purple:BEA2C2*/
     font-size: 1.25vw;
     /* margin-left: 2vw; */
     margin-right: 2vw;
+    -webkit-text-stroke: .07vw #BEA2C2;
+    text-shadow: 0px .07vw .1vw #b974c2;
     animation: wavly 1s infinite;
     animation-delay: calc(.1s * var(--i));
     cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
@@ -326,6 +331,8 @@ light purple:BEA2C2*/
     background-color: #FFF3DA; */
     font-size: 1.25vw;
     margin-left: 2vw;
+    -webkit-text-stroke: .07vw #BEA2C2;
+    text-shadow: 0px .07vw .1vw #b974c2;
     animation: wavly 1s infinite;
   animation-delay: calc(.1s * var(--i));
     cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
@@ -344,6 +351,8 @@ light purple:BEA2C2*/
     font-size: 1.25vw;
     /* margin-left: 2vw; */
     margin-right: 2vw;
+    -webkit-text-stroke: .07vw #BEA2C2;
+    text-shadow: 0px .07vw .1vw #b974c2;
     animation: wavly 1s infinite;
   animation-delay: calc(.1s * var(--i));
 }
@@ -352,6 +361,8 @@ light purple:BEA2C2*/
     background-color: #FFF3DA; */
     font-size: 1.25vw;
     margin-left: 2vw;
+    -webkit-text-stroke: .07vw #BEA2C2;
+    text-shadow: 0px .07vw .1vw #b974c2;
     animation: wavly 1s infinite;
   animation-delay: calc(.1s * var(--i));
     cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
@@ -440,6 +451,7 @@ light purple:BEA2C2*/
 
 .sprout:hover{
     opacity: 1;
+    box-shadow: .2vw .2vw .2vw #b974c2;
     cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
 
 }
@@ -501,6 +513,7 @@ light purple:BEA2C2*/
 .wtw:hover{
     opacity: 1;
     cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
+    box-shadow: .2vw .2vw .2vw #b974c2;
 
 }
 
@@ -563,6 +576,7 @@ light purple:BEA2C2*/
 .diary:hover{
     opacity: 1;
     cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
+    box-shadow: .2vw .2vw .2vw #b974c2;
 
 }
 
@@ -602,6 +616,7 @@ light purple:BEA2C2*/
 .gg:hover{
     opacity: 1;
     cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
+    box-shadow: .2vw .2vw .2vw #b974c2;
 
 }
 
@@ -653,6 +668,7 @@ light purple:BEA2C2*/
 .wmf:hover{
     opacity: 1;
     cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
+    box-shadow: .2vw .2vw .2vw #b974c2;
 
 }
 
@@ -692,6 +708,7 @@ light purple:BEA2C2*/
 .jo:hover{
     opacity: 1;
     cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
+    box-shadow: .2vw .2vw .2vw #b974c2;
 
 }
 
@@ -753,6 +770,7 @@ light purple:BEA2C2*/
 .type-3:hover{
     opacity: 1;
     cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
+    box-shadow: .2vw .2vw .2vw #b974c2;
 
 }
 
@@ -781,6 +799,7 @@ light purple:BEA2C2*/
 .mean-2:hover{
     opacity: 1;
     cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
+    box-shadow: .2vw .2vw .2vw #b974c2;
 
 }
 
