@@ -187,17 +187,27 @@ light purple:BEA2C2*/
     background-position-y: center; */
 }
 
+
 .bio{
     font-family: 'Hammersmith One', sans-serif;
     font-size: 1.90vw;
     margin-top: 3vh;
     padding-top: 6vh;
     padding-bottom: 10vh;
-    margin-left: 9vw;
-    margin-right: 9vw;
+    margin-left: 12vw;
+    margin-right: 15vw;
     color: #FFF3DA;
     text-align: center;
+    
 }
+@keyframes wavly {
+    0%,40%,100% {
+      transform: translateY(0)
+    }
+    20% {
+      transform: translateY(-20px)
+    }
+  }
 /* I AM REDOING!!!! LOOK AT SKETCH IN NOTEBOOK!!! */
  .photo{
     /* width: 55vh;
@@ -260,76 +270,88 @@ light purple:BEA2C2*/
 
 .a:visited{
     color: #FFF3DA;
-    text-decoration: dashed;
+    text-decoration: solid;
     font-size: 1.25vw;
     margin-left: 2vw;
 }
 
 .email , .email:link , .email:visited , .email:active{
     color: #FFF3DA;
-    text-decoration: dashed;
+    text-decoration: solid;
     font-size: 1.25vw;
     margin-left: 2vw;
 }
 
 .e:hover{
-    color: #1f0e20;
-    background-color: #FFF3DA;
+    /* color: #1f0e20;
+    background-color: #FFF3DA; */
     font-size: 1.25vw;
-    margin-left: 2vw;
+    /* margin-left: 2vw; */
     margin-right: 2vw;
+    animation: wavly 1s infinite;
+    animation-delay: calc(.1s * var(--i));
 }
 .email:hover{
-    color: #1f0e20;
-    background-color: #FFF3DA;
+    /* color: #1f0e20;
+    background-color: #FFF3DA; */
     font-size: 1.25vw;
-    margin-left: 2vw;
+    /* margin-left: 2vw; */
     margin-right: 2vw;
+    animation: wavly 1s infinite;
+    animation-delay: calc(.1s * var(--i));
     cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
 }
 
 .linkedin , .linkedin:link , .linkedin:visited , .linkedin:active{
     color: #FFF3DA;
-    text-decoration: dashed;
+    text-decoration: solid;
     font-size: 1.25vw;
     margin-left: 2vw;
     margin-right: 2vw;
 }
 
 .l:hover{
-    color: #1f0e20;
-    background-color: #FFF3DA;
+    /* color: #1f0e20;
+    background-color: #FFF3DA; */
     font-size: 1.25vw;
-    margin-left: 2vw;
+    /* margin-left: 2vw; */
     margin-right: 2vw;
+    animation: wavly 1s infinite;
+  animation-delay: calc(.1s * var(--i));
 }
 .linkedin:hover{
-    color: #1f0e20;
-    background-color: #FFF3DA;
+    /* color: #1f0e20;
+    background-color: #FFF3DA; */
     font-size: 1.25vw;
     margin-left: 2vw;
+    animation: wavly 1s infinite;
+  animation-delay: calc(.1s * var(--i));
     cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
 }
 .about , .about:link , .about:visited , .about:active{
     color: #FFF3DA;
-    text-decoration: dashed;
+    text-decoration: solid;
     font-size: 1.25vw;
     margin-left: 2vw;
     margin-right: 2vw;
 }
 
 .a:hover{
-    color: #1f0e20;
-    background-color: #FFF3DA;
+    /* color: #1f0e20;
+    background-color: #FFF3DA; */
     font-size: 1.25vw;
-    margin-left: 2vw;
+    /* margin-left: 2vw; */
     margin-right: 2vw;
+    animation: wavly 1s infinite;
+  animation-delay: calc(.1s * var(--i));
 }
 .about:hover{
-    color: #1f0e20;
-    background-color: #FFF3DA;
+    /* color: #1f0e20;
+    background-color: #FFF3DA; */
     font-size: 1.25vw;
     margin-left: 2vw;
+    animation: wavly 1s infinite;
+  animation-delay: calc(.1s * var(--i));
     cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
 }
 
