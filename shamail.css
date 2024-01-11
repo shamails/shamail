@@ -180,6 +180,7 @@ light purple:BEA2C2*/
     background-color: #270029;
     margin-top: 5vw;
     border-radius: 2vh;
+    box-shadow: .2vw .2vw .2vw #b974c2;
     /* background-image: url("mememe.jpg");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
@@ -198,7 +199,8 @@ light purple:BEA2C2*/
     margin-right: 15vw;
     color: #FFF3DA;
     text-align: center;
-    
+    -webkit-text-stroke: .07vw #BEA2C2;
+    text-shadow: 0px .07vw .1vw #b974c2;
 }
 @keyframes wavly {
     0%,40%,100% {
