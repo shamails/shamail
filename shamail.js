@@ -22,11 +22,11 @@ console.log('hewwo')
 
 $(document).ready(function(){
     $(".intro").fadeOut(3750 , function(){
-        $(".sections").fadeIn(1000);
-        $(".title").fadeIn(1000);
-        $(".box").fadeIn(1000);
-        $(".photo").fadeIn(1000);
-        $(".shamail").fadeIn(1000);
+        $(".sections").fadeIn(500);
+        $(".title").fadeIn(500);
+        $(".box").fadeIn(500);
+        $(".photo").fadeIn(500);
+        $(".shamail").fadeIn(500);
     });
     console.log('hewwo 2');
 
@@ -34,6 +34,14 @@ $(document).ready(function(){
         $(".shamail").fadeOut(1000);
         console.log('hewwo 3');
     })
+    $(window).scroll(function () {
+
+    if ($(window).scrollTop() >= 800) {
+        $('body').css('background-color','#FFF3DA');
+        } else {
+        $('body').css('background-color','#270029');
+        }
+    });
 
 //    
 
