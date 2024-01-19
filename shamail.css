@@ -510,7 +510,7 @@ light purple:BEA2C2*/
     width:auto;
     height:70vh;
     margin-top: 1.5vh;
-    opacity: .5;
+    opacity: 1;
 }
 .title-w , .title-w:visited , .title-w:active , .title-w:link{
     opacity: 0;
@@ -557,7 +557,7 @@ light purple:BEA2C2*/
     width:auto;
     height:70vh;
     margin-top: 1.5vh;
-    opacity: .5;
+    opacity: 1;
 }
 .title-d , .title-d:visited , .title-d:active , .title-d:link{
     opacity: 0;
@@ -605,7 +605,7 @@ light purple:BEA2C2*/
     width:auto;
     height:70vh;
     margin-top: 1.5vh;
-    opacity: .5;
+    opacity: 1;
 }
 
 .title-g , .title-g:visited , .title-g:active , .title-g:link{
@@ -654,7 +654,7 @@ light purple:BEA2C2*/
     width:auto;
     height:70vh;
     margin-top: 1.5vh;
-    opacity: .5;
+    opacity: 1;
 }
 
 .title-f , .title-f:visited , .title-f:active , .title-f:link{
@@ -702,7 +702,7 @@ light purple:BEA2C2*/
     width:auto;
     height: 70vh;
     margin-top: 1.5vh;
-    opacity: .5;
+    opacity: 1;
 }
 
 .title-j , .title-j:visited , .title-j:active , .title-j:link{
@@ -751,7 +751,7 @@ light purple:BEA2C2*/
     width:auto;
     height:72vh;
     margin-top: 1.5vh;
-    opacity: .5;
+    opacity: 1;
 }
 
 .title-t , .title-t:visited , .title-t:active , .title-t:link{
@@ -837,7 +837,7 @@ light purple:BEA2C2*/
     width:auto;
     height:70vh;
     margin-top: 1.5vh;
-    opacity: .5;
+    opacity: 1;
 }
 .shift{
     margin-top: 25vh;
