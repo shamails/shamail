@@ -273,6 +273,36 @@ body{
     margin-top: 3vh;
 }
 
+.sprout-17{
+    background-image: url("sprout-stationary.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-size: 100% , 100%; */
+    background-position-x: center;
+    background-position-y: center;
+    width:65%;
+    height: 80vh;
+    margin-left: 1vw;
+    margin-top: 4vh;
+    margin-bottom: 4vh;
+    border-radius: 1vh;
+}
+
+.sprout-18{
+    background-image: url("sprout-box.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-size: 100% , 100%; */
+    background-position-x: center;
+    background-position-y: center;
+    width:35%;
+    height: 80vh;
+    margin-left: 2vw;
+    margin-top: 4vh;
+    margin-bottom: 4vh;
+    border-radius: 1vh;
+}
+
 .sprout-5{
     background-image: url("sprout-17.png");
     background-repeat: no-repeat;
