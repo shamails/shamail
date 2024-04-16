@@ -36,7 +36,7 @@ $(document).ready(function(){
     })
     $(window).scroll(function () {
 
-    if ($(window).scrollTop() >= 850) {
+    if ($(window).scrollTop() >= 700) {
         $('body').css('background-color','#FFF3DA');
         } else {
         $('body').css('background-color','#270029');
