@@ -197,14 +197,14 @@ body{
 }
 
 .copy{
-    color:  #270029;
+    color:  #371c08;
     margin-left: 15vw;
     margin-right: 15vw;
     margin-top: 1vh;
     font-size: 1.5vw;
 }
 .subtitle{
-    color:  #270029;
+    color:  #371c08;
     margin-left: 3vw;
     margin-right: 3vw;
     margin-top: 1vh;
@@ -220,6 +220,50 @@ body{
     width:100%;
     height: 5vh;
     background-color: #270029;
+}
+.line2{
+    border-bottom: .5vh solid;
+    border-color:  #371c08;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;
+}
+#text1 , #text1:visited , #text1:active , #text1:link{
+    margin-left: 3vw;
+    margin-right: 30vw;
+    margin-top: 2.5vh;
+    color:#371c08;
+    width: 55%;
+    height:auto;
+    font-size: 1.5vw;
+}
+#text2{
+    margin-left: 3vw;
+    margin-right: 10vw;
+    margin-top: 2.5vh;
+    color:#371c08;
+    width: 10%;
+    height:auto;
+    font-size: 1.5vw;
+}
+#text4{
+    margin-left: 3vw;
+    margin-right: 15vw;
+    margin-top: 2.5vh;
+    color:#371c08;
+    width: 10%;
+    height:auto;
+    font-size: 1.5vw;
+}
+#text3{
+    margin-left: 3vw;
+    margin-right: 13vw;
+    margin-top: 2.5vh;
+    color:#371c08;
+    width: 10%;
+    height:auto;
+    font-size: 1.5vw;
 }
 
 .sprout{
@@ -250,18 +294,18 @@ body{
 .sprout-3{
     background-image: url("sprout-2.png");
     background-repeat: no-repeat;
-    background-size: 180% , 100%;
+    background-size: 200% , 100%;
     background-position-x: center;
     background-position-y: center;
     width:35%;
-    height: 70vh;
-    margin-left: 6vw;
-    margin-top: 3vh;
+    height: 80vh;
+    margin-left: 3vw;
+    margin-top: 1vh;
     border-radius: 1vh;
 }
 
 .sprout-4{
-    background-image: url("s2.gif");
+    background-image: url("sp.png");
     background-repeat: no-repeat;
     background-size: cover;
     /* background-size: 100% , 100%; */
@@ -277,13 +321,13 @@ body{
     background-image: url("sprout-stationary.png");
     background-repeat: no-repeat;
     background-size: cover;
-    /* background-size: 100% , 100%; */
+    background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
     width:65%;
     height: 80vh;
     margin-left: 1vw;
-    margin-top: 4vh;
+    margin-top: 1vh;
     margin-bottom: 4vh;
     border-radius: 1vh;
 }
@@ -323,8 +367,8 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:50%;
-    height:50vh;
+    width:70%;
+    height:70vh;
     margin-top: 1vh;
     margin-left: 2vw;
     border-radius: 1vh;
@@ -336,8 +380,8 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:50%;
-    height:50vh;
+    width:70%;
+    height:70vh;
     margin-top: 1vh;
     margin-left: 1vw;
     border-radius: 1vh;
@@ -407,7 +451,19 @@ body{
     margin-left: 1vw;
     border-radius: 1vh;
 }
-
+.sprout-ca{
+    background-image: url("sprout-9.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:75%;
+    height:60vh;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    margin-left: 1vw;
+    border-radius: 1vh;
+}
 /* .sprout-13{
     background-image: url("sprout-brand.png");
     background-repeat: no-repeat;
@@ -441,7 +497,7 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:50%;
-    height:50vh;
+    height:70vh;
     margin-top: 3vh;
     margin-left: 1vw;
     border-radius: 1vh;
@@ -454,7 +510,7 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:70%;
-    height:50vh;
+    height:70vh;
     margin-top: 3vh;
     margin-left: 1vw;
     border-radius: 1vh;
