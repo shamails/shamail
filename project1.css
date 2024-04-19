@@ -353,7 +353,7 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:50%;
+    width:70%;
     height:50vh;
     margin-top: 3vh;
     margin-bottom: 3vh;
@@ -483,8 +483,8 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:50%;
-    height:50vh;
+    width:70%;
+    height:75vh;
     margin-top: 3vh;
     margin-left: 1vw;
     border-radius: 1vh;
@@ -497,7 +497,7 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:50%;
-    height:70vh;
+    height:75vh;
     margin-top: 3vh;
     margin-left: 1vw;
     border-radius: 1vh;
@@ -510,7 +510,7 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:70%;
-    height:70vh;
+    height:60vh;
     margin-top: 3vh;
     margin-left: 1vw;
     border-radius: 1vh;
