@@ -593,7 +593,7 @@ light purple:BEA2C2*/
 .diary:hover{
     /* opacity: 1; */
     cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
-    box-shadow: .2vw .2vw .2vw #b974c2;
+    /* box-shadow: .2vw .2vw .2vw #b974c2; */
 
 }
 
@@ -643,7 +643,7 @@ light purple:BEA2C2*/
 .gg:hover{
     opacity: 1;
     cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
-    box-shadow: .2vw .2vw .2vw #b974c2;
+    /* box-shadow: .2vw .2vw .2vw #b974c2; */
 
 }
 
