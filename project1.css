@@ -265,7 +265,15 @@ body{
     height:auto;
     font-size: 1.5vw;
 }
-
+#text5{
+    margin-left: 3vw;
+    margin-right: 30vw;
+    margin-top: 2.5vh;
+    color:#371c08;
+    width: 10%;
+    height:auto;
+    font-size: 1.5vw;
+}
 .sprout{
     background-image: url("sprout-brand.png");
     background-repeat: no-repeat;
@@ -354,8 +362,8 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:70%;
-    height:50vh;
-    margin-top: 3vh;
+    height:67vh;
+    margin-top: 0vh;
     margin-bottom: 3vh;
     margin-left: 1vw;
     border-radius: 1vh;
@@ -464,6 +472,45 @@ body{
     margin-left: 1vw;
     border-radius: 1vh;
 }
+.sprout-box{
+    background-image: url("sprout-box.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:75%;
+    height:60vh;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    margin-left: 1vw;
+    border-radius: 1vh;
+}
+.sprout-card{
+    background-image: url("sprout-stationary.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:75%;
+    height:60vh;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    margin-left: 1vw;
+    border-radius: 1vh;
+}
+.sprout-brand{
+    background-image: url("sprout-brand.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:98%;
+    height:60vh;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    margin-left: 1vw;
+    border-radius: 1vh;
+}
 /* .sprout-13{
     background-image: url("sprout-brand.png");
     background-repeat: no-repeat;
@@ -485,7 +532,7 @@ body{
     background-position-y: center;
     width:70%;
     height:75vh;
-    margin-top: 3vh;
+    margin-top: 0vh;
     margin-left: 1vw;
     border-radius: 1vh;
 }
@@ -497,8 +544,8 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:50%;
-    height:75vh;
-    margin-top: 3vh;
+    height:80vh;
+    margin-top: 0vh;
     margin-left: 1vw;
     border-radius: 1vh;
 }
@@ -511,7 +558,7 @@ body{
     background-position-y: center;
     width:70%;
     height:60vh;
-    margin-top: 3vh;
+    margin-top: 0vh;
     margin-left: 1vw;
     border-radius: 1vh;
 }
@@ -540,693 +587,7 @@ body{
 #style{
     margin-top: 5vh;
 }
-.wtw{
-    background-image: url("wtw-1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:auto;
-    height:100vh;
-    margin-top: 1.5vh;
-}
 
-.wtw-2{
-    background-image: url("wtw-2.png");
-    background-repeat: no-repeat;
-    background-size: 110% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    background-size: cover;
-    width:60%;
-    height:80vh;
-    margin-left: 20vw;
-    margin-top: 1.5vh;
-    border-radius: 1vh;
-}
-
-.wtw-3{
-    background-image: url("wtw-19.gif");
-    background-repeat: no-repeat;
-    background-size: 170% , 100%;
-    background-size: cover;
-    background-position-x: center;
-    background-position-y: center;
-    width:25%;
-    height:85vh;
-    margin-top: 1.5vh;
-    margin-left: 15vw;
-    border-radius: 1vh;
-}
-
-.wtw-4{
-    background-image: url("wtw-5.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:80%;
-    height: 70vh;
-    margin-top: 1.5vh;
-    margin-left: 10vw;
-    border-radius: 1vh;
-}
-
-.wtw-5{
-    background-image: url("wtw-6.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:80%;
-    height:80vh;
-    margin-top: 1.5vh;
-    margin-left: 10vw;
-    border-radius: 1vh;
-}
-
-.wtw-6{
-    /* background-image: url("wtw-v1.png"); */
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height:80vh;
-    margin-top: 1.5vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-}
-
-.wtw-7{
-    background-image: url("wtw-v1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:40%;
-    height:30vh;
-    margin-top: 2vh;
-    margin-left: 15vw;
-    /* border-radius: 1vh; */
-}
-
-.wtw-8{
-    background-image: url("wtw-v2.png");
-    background-repeat: no-repeat;
-    background-size: 81% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:30%;
-    height: 30vh;
-    margin-top: 2vh;
-    margin-left: -2vw;
-    /* border-radius: 1vh; */
-}
-
-.wtw-9{
-    background-image: url("wtw-3.png");
-    background-repeat: no-repeat;
-    background-size: 75% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:40%;
-    height:40vh;
-    margin-top: 2vh;
-    margin-left: 12vw;
-    border-radius: 1vh;
-}
-.wtw-10{
-    background-image: url("wtw-4.png");
-    background-repeat: no-repeat;
-    background-size: 72% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:40%;
-    height:40vh;
-    margin-top: 2vh;
-    margin-left: -9vw;
-    border-radius: 1vh;
-}
-
-.diary{
-    background-image: url("8.gif");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:auto;
-    height:115vh;
-    margin-top: 1.5vh;
-}
-
-.diary-2{
-    background-image: url("7.gif");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:auto;
-    height:115vh;
-    margin-top: 1.5vh;
-}
-
-.diary-3{
-    background-image: url("9.gif");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:auto;
-    height:115vh;
-    margin-top: 1.5vh;
-}
-.gd-1{
-    background-image: url("gd-v1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:80%;
-    height:57vh;
-    margin-top: 1.5vh;
-    margin-left: 10vw;
-    border-radius: 1vh;
-}
-.gd-2{
-    background-image: url("gd-v2.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:80%;
-    height:57vh;
-    margin-left: 10vw;
-    margin-top: 1.5vh;
-    border-radius: 1vh;
-}
-.nwt-1{
-    background-image: url("nwt-v1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:80%;
-    border-radius: 1vh;
-    height:35vh;
-    margin-left: 10vw;
-    margin-top: 1.5vh;
-}
-.nwt-2{
-    background-image: url("nwt-v2.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:80%;
-    height:35vh;
-    border-radius: 1vh;
-    margin-left: 10vw;
-    margin-top: 1.5vh;
-}
-.rd-1{
-    background-image: url("rd-v1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:80%;
-    height:57vh;
-    border-radius: 1vh;
-    margin-left: 10vw;
-    margin-top: 1.5vh;
-}
-.rd-2{
-    background-image: url("rd-v2.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:80%;
-    height:57vh;
-    border-radius: 1vh;
-    margin-left: 10vw;
-    margin-top: 1.5vh;
-}
-
-.gg{
-    background-image: url("gg-1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:auto;
-    height:90vh;
-    margin-top: 1.5vh;
-}
-
-.gg-2{
-    background-image: url("gg-4.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:70%;
-    height:70vh;
-    margin-left: 13vw;
-    margin-top: 1.5vh;
-}
-
-.gg-3{
-    background-image: url("gg-2.png");
-    background-repeat: no-repeat;
-    background-size: 180% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height:80vh;
-    margin-left: 25vw;
-    margin-top: 1.5vh;
-}
-
-.gg-4{
-    background-image: url("gg-3.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:auto;
-    height:120vh;
-    margin-top: 1.5vh;
-}
-
-/* .gg-5{
-    background-image: url("gg-all.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:auto;
-    height:120vh;
-    margin-top: 1.5vh;
-} */
-
-.gg-6{
-    background-image: url("gg-all.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:auto;
-    height:120vh;
-    margin-top: 1.5vh;
-}
-
-.gg-7{
-    background-image: url("gg-v1.png");
-    background-repeat: no-repeat;
-    background-size: 140% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height:40vh;
-    margin-top: 1.5vh;
-    margin-left: 1vw;
-}
-
-.gg-8{
-    background-image: url("gg-v2.png");
-    background-repeat: no-repeat;
-    background-size: 140% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height:40vh;
-    margin-top: 1.5vh;
-    margin-left: 1vw;
-}
-
-.gg-9{
-    background-image: url("gg-desktop.jpg");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height:50vh;
-    margin-top: 1.5vh;
-    margin-left: 1vw;
-}
-
-.gg-10{
-    background-image: url("gg-desktop2.jpg");
-    background-repeat: no-repeat;
-    background-size: 120% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height:50vh;
-    margin-top: 1.5vh;
-    margin-left: 1vw;
-}
-.wmf{
-    background-image: url("wmf-4.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:auto;
-    height:115vh;
-    margin-top: 1.5vh;
-}
-
-.wmf-2{
-    background-image: url("wmf-1.png");
-    background-repeat: no-repeat;
-    background-size: 150% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:70%;
-    height:80vh;
-    margin-left: 15vw;
-    margin-top: 1.5vh;
-    border-radius: 1vh;
-}
-
-.wmf-3{
-    background-image: url("wmf-5.png");
-    background-repeat: no-repeat;
-    background-size: 120% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:90%;
-    height: 75vh;
-    margin-top: 1.5vh;
-    margin-left: 3vw;
-    border-radius: 1vh;
-}
-
-.wmf-4{
-    background-image: url("wmf-v1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:35%;
-    height: 60vh;
-    margin-top: 3vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-    
-}
-
-.wmf-5{
-    background-image: url("wmf-v5.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:60%;
-    height: 60vh;
-    margin-top: 3vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-    
-}
-
-.wmf-6{
-    background-image: url("wmf-v3.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height: 50vh;
-    margin-top: 3vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-}
-
-.wmf-7{
-    background-image: url("wmf-v6.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height: 50vh;
-    margin-top: 3vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-}
-
-.wmf-8{
-    background-image: url("wmf-v4.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height: 50vh;
-    margin-top: 5vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-}
-
-
-#v1{
-    margin-top: 3vh;
-}
-#v2{
-    margin-top: 3vh;
-    margin-left: 45vh;
-}
-#v3{
-    margin-top: 3vh;
-}
-#v4{
-    margin-top: 3vh;
-    margin-left: 70vh;
-}
-#v5{
-    margin-top: 3vh;
-}
-
-.jo{
-    background-image: url("jo-2.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:auto;
-    height: 110vh;
-    margin-top: 1.5vh;
-    /* border-radius: 1vh; */
-}
-
-.jo-2{
-    background-image: url("jo-6.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:60%;
-    height: 70vh;
-    margin-left: 20vw;
-    margin-top: 1.5vh;
-    border-radius: 1vh;
-}
-
-.jo-3{
-    background-image: url("jo-1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:75%;
-    height: 80vh;
-    margin-top: 1.5vh;
-    margin-left: 15vw;
-    border-radius: 1vh;
-}
-.jo-4{
-    background-image: url("jo2.gif");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:100%;
-    height: 95vh;
-    margin-top: 0vh;
-    margin-left: 0vw;
-    border-radius: 1vh;
-}
-
-.jo-sp-1{
-    background-image: url("jo-sp-1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:30%;
-    height: 75vh;
-    margin-top: 1.5vh;
-    margin-left: 2.5vw;
-    border-radius: 1vh;
-}
-.jo-sp-2{
-    background-image: url("jo-sp-2.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:30%;
-    height: 75vh;
-    margin-top: 1.5vh;
-    margin-left: 2.5vw;
-    border-radius: 1vh;
-}
-.jo-sp-3{
-    background-image: url("jo-sp-3.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:30%;
-    height: 75vh;
-    margin-top: 1.5vh;
-    margin-left: 2.5vw;
-    border-radius: 1vh;
-}
-/* .jo-d-1{
-    background-image: url("jo-draft-cover.png");
-    background-repeat: no-repeat;
-    background-size: 120% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:25%;
-    height: 70vh;
-    margin-top: 1.5vh;
-    margin-left: 2.5vw;
-    border-radius: 1vh;
-} */
-.jo-d-2{
-    background-image: url("jo-draft.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:75%;
-    height: 70vh;
-    margin-top: 1.5vh;
-    margin-left: 12vw;
-    border-radius: 1vh;
-}
 .flex{
     display: flex;
-}
-.type{
-    background-image: url("type1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:80%;
-    height:80vh;
-    margin-left: 10vw;
-    margin-top: 1.5vh;
-    border-radius: 1vh;
-}
-
-.type-2{
-    background-image: url("type-4.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-size: cover;
-    background-position-x: center;
-    background-position-y: center;
-    width:auto;
-    height:60vh;
-    margin-top: 1.5vh;
-}
-
-.type-3{
-    background-image: url("type-2.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height:60vh;
-    margin-left: 4vw;
-    margin-top: 1.5vh;
-    border-radius: 1vh;
-    margin-bottom: 1.5vh;
-}
-
-.type-4{
-    background-image: url("type-3.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height:60vh;
-    margin-left: 2.5vw;
-    margin-top: 1.5vh;
-    border-radius: 1vh;
-    margin-bottom: 1.5vh;
-}
-
-.type-5{
-    background-image: url("shamail-type.gif");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:100%;
-    height:95vh;
-    margin-left: 2.5vw;
-    margin-top: 1.5vh;
-    border-radius: 1vh;
-    margin-bottom: 1.5vh;
-}
-
-.mean{
-    background-image: url("poster-1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:105%;
-    height:100vh;
-    margin-top: 1.5vh;
-    margin-left: -1vw;
-}
-
-.mean-2{
-    background-image: url("posters-2.png");
-    background-repeat: no-repeat;
-    background-size: 150% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    background-size: cover;
-    width:80%;
-    height:100vh;
-    margin-top: 1.5vh;
-    margin-left: 8vw;
-    border-radius: 1vh;
-}
-.mean-3{
-    background-image: url("posters.gif");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    background-size: cover;
-    width:70%;
-    height:80vh;
-    margin-top: 1.5vh;
-    margin-left: 15vw;
-    border-radius: 1vh;
 }
