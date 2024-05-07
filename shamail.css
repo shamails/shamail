@@ -427,7 +427,13 @@ light purple:BEA2C2*/
     margin-top: 2.5vh;
     margin-bottom: 2.5vh;
 }
-
+.copy1{
+    color:  #270029;
+    margin-left: 38vw;
+    margin-right: 15vw;
+    margin-top: -1vh;
+    font-size: 1.25vw;
+}
 .sprout{
     background-image: url("Comp\ 1_2.gif");
     background-repeat: no-repeat;
