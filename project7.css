@@ -105,12 +105,19 @@ body{
 }
 
 
+.copy1{
+    color:  #a70000;
+    margin-left: 38vw;
+    margin-right: 15vw;
+    margin-top: -1vh;
+    font-size: 1.25vw;
+}
 .copy{
     color:  #a70000;
     margin-left: 15vw;
     margin-right: 15vw;
     margin-top: 1vh;
-    font-size: 1.5vw;
+    font-size: 1.25vw;
 }
 .subtitle{
     color:  #a70000;

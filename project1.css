@@ -119,13 +119,22 @@ body{
     cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
 }
 
+.copy1{
+    color:  #371c08;
+    margin-left: 38vw;
+    margin-right: 15vw;
+    margin-top: -1vh;
+    font-size: 1.25vw;
+}
+
 .copy{
     color:  #371c08;
     margin-left: 15vw;
     margin-right: 15vw;
     margin-top: 1vh;
-    font-size: 1.5vw;
+    font-size: 1.25vw;
 }
+
 .subtitle{
     color:  #371c08;
     margin-left: 3vw;
