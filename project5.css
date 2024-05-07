@@ -410,7 +410,30 @@ body{
     margin-left: 19vw;
     border-radius: 1vh;
 }
-
+.wmf-inspo{
+    background-image: url("wmf-inspo1.png");
+    background-repeat: no-repeat;
+    background-size: 105% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:50%;
+    height: 55vh;
+    margin-top: 0vh;
+    margin-left: 30vw;
+    border-radius: 1vh;
+}
+.wmf-ss{
+    background-image: url("wmf-ss.png");
+    background-repeat: no-repeat;
+    background-size: 105% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:50%;
+    height: 55vh;
+    margin-top: 0vh;
+    margin-left: 30vw;
+    border-radius: 1vh;
+}
 
 #v1{
     margin-top: 3vh;
