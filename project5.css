@@ -351,9 +351,9 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:35%;
-    height: 60vh;
+    height: 70vh;
     margin-top: 3vh;
-    margin-left: 1vw;
+    margin-left: 2vw;
     border-radius: 1vh;
     
 }
@@ -361,11 +361,11 @@ body{
 .wmf-5{
     background-image: url("wmf-v5.png");
     background-repeat: no-repeat;
-    background-size: 100% , 100%;
+    background-size: 107% , 100%;
     background-position-x: center;
     background-position-y: center;
     width:60%;
-    height: 60vh;
+    height: 70vh;
     margin-top: 3vh;
     margin-left: 1vw;
     border-radius: 1vh;
@@ -379,9 +379,9 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:50%;
-    height: 50vh;
+    height: 55vh;
     margin-top: 3vh;
-    margin-left: 1vw;
+    margin-left: 30vw;
     border-radius: 1vh;
 }
 
@@ -392,9 +392,9 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:50%;
-    height: 50vh;
+    height: 55vh;
     margin-top: 3vh;
-    margin-left: 1vw;
+    margin-left: 30vw;
     border-radius: 1vh;
 }
 
@@ -405,9 +405,9 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:50%;
-    height: 50vh;
+    height: 55vh;
     margin-top: 5vh;
-    margin-left: 1vw;
+    margin-left: 19vw;
     border-radius: 1vh;
 }
 
