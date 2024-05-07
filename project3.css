@@ -31,7 +31,9 @@ body{
     cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
     
 }
-
+.flex{
+    display: flex;
+}
 .email , .email:link , .email:visited , .email:active{
     display: flex;
     color: #FFF3DA;
@@ -243,9 +245,29 @@ body{
     margin-right: 10vw;
     margin-top: 2.5vh;
     color:#371c08;
-    width: 10%;
+    width: 20%;
     height:auto;
-    font-size: 1.5vw;
+    font-size: 1vw;
+}
+#text3 , #text3:visited , #text3:active , #text3:link{
+    
+    margin-right: 10vw;
+    margin-top: 2.5vh;
+    color:#371c08;
+    width: 20%;
+    height:auto;
+    font-size: 1vw;
+    text-decoration: none;
+}
+#text3:hover{
+    
+    margin-right: 10vw;
+    margin-top: 2.5vh;
+    color:#371c08;
+    width: 20%;
+    height:auto;
+    font-size: 1vw;
+    text-decoration: underline;
 }
 #asset{
     margin-left:37vw;
@@ -339,14 +361,49 @@ body{
     margin-top: 1.5vh;
     margin-left: 20vw;
 }
+.diary11{
+    background-image: url("8.gif");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:50%;
+    height:60vh;
+    margin-top: 0vh;
+    margin-left: 10vw;
+}
+
+.diary22{
+    background-image: url("7.gif");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:50%;
+    height:60vh;
+    margin-left: 10vw;
+    margin-top: 0vh;
+}
+
+.diary33{
+    background-image: url("9.gif");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:50%;
+    height:60vh;
+    margin-top: 0vh;
+    margin-left: 10vw;
+}
 .gd-1{
     background-image: url("gd-v1.png");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:80%;
-    height:57vh;
+    width:50%;
+    height:40vh;
     margin-top: 1.5vh;
     margin-left: 1vw;
     border-radius: 1vh;
@@ -357,8 +414,8 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:80%;
-    height:57vh;
+    width:50%;
+    height:40vh;
     margin-left: 1vw;
     margin-top: 1.5vh;
     border-radius: 1vh;
@@ -369,7 +426,7 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:80%;
+    width:50%;
     border-radius: 1vh;
     height:35vh;
     margin-left: 1vw;
@@ -381,7 +438,7 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:80%;
+    width:50%;
     height:35vh;
     border-radius: 1vh;
     margin-left: 1vw;
@@ -393,8 +450,8 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:80%;
-    height:57vh;
+    width:50%;
+    height:40vh;
     border-radius: 1vh;
     margin-left: 1vw;
     margin-top: 1.5vh;
@@ -405,13 +462,36 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:80%;
-    height:57vh;
+    width:50%;
+    height:40vh;
     border-radius: 1vh;
     margin-left: 1vw;
     margin-top: 1.5vh;
 }
-
+.asset1{
+    background-image: url("asset1.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:40%;
+    height:85vh;
+    border-radius: 1vh;
+    margin-left: 15vw;
+    
+}
+.asset2{
+    background-image: url("asset2.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:40%;
+    height:85vh;
+    border-radius: 1vh;
+    margin-left: 1vw;
+    
+}
 
 
 #v1{
@@ -433,8 +513,6 @@ body{
 }
 
 
-.flex{
-    display: flex;
-}
+
 
 

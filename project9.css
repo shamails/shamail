@@ -259,7 +259,7 @@ body{
 #text1 , #text1:visited , #text1:active , #text1:link{
     margin-left: 3vw;
     margin-right: 5vw;
-    margin-top: 2.5vh;
+    margin-top: 0vh;
     color:#CCFF03;
     width: 55%;
     height:auto;
@@ -268,7 +268,7 @@ body{
 #text2{
     margin-left: 2vw;
     margin-right: 10vw;
-    margin-top: 2.5vh;
+    margin-top: 0vh;
     color:#CCFF03;
     width: 30%;
     height:auto;
@@ -286,7 +286,7 @@ body{
 #text3{
     margin-left: 3vw;
     margin-right: 13vw;
-    margin-top: 2.5vh;
+    margin-top: 0vh;
     color:#CCFF03;
     width: 10%;
     height:auto;
@@ -295,7 +295,7 @@ body{
 #text5{
     margin-left: 3vw;
     margin-right: 30vw;
-    margin-top: 2.5vh;
+    margin-top: 0vh;
     color:#CCFF03;
     width: 10%;
     height:auto;
@@ -341,19 +341,20 @@ body{
 .mun-2{
     background-image: url("gp-pro.webp");
     background-repeat: no-repeat;
-    background-size: 100% , 100%;
+    background-size: 80% , 100%;
     background-position-x: center;
     background-position-y: center;
     width:25%;
     height:90vh;
-    margin-bottom: 3vh;
-    margin-left: 1vw;
+    margin-bottom: 0vh;
+    margin-left: 45vw;
+    margin-top: -1vh;
     border-radius: 1vh;
 }
 .mun-3{
     background-image: url("gp4.webp");
     background-repeat: no-repeat;
-    background-size: 100% , 100%;
+    background-size: 90% , 100%;
     background-position-x: center;
     background-position-y: center;
     width:75%;
@@ -365,7 +366,7 @@ body{
 .mun-4{
     background-image: url("gp7.webp");
     background-repeat: no-repeat;
-    background-size: 100% , 100%;
+    background-size: 90% , 100%;
     background-position-x: center;
     background-position-y: center;
     width:75%;
@@ -377,11 +378,11 @@ body{
 .mun-5{
     background-image: url("gp-10.webp");
     background-repeat: no-repeat;
-    background-size: 100% , 100%;
+    background-size: 85% , 100%;
     background-position-x: center;
     background-position-y: center;
     width:75%;
-    height:70vh;
+    height:75vh;
     margin-bottom: 3vh;
     margin-left: 1vw;
     border-radius: 1vh;
@@ -392,10 +393,10 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:75%;
-    height:85vh;
+    width:60%;
+    height:70vh;
     margin-bottom: 3vh;
-    margin-left: 1vw;
+    margin-left: -5vw;
     border-radius: 1vh;
 }
 .mun-7{
@@ -407,6 +408,6 @@ body{
     width:35%;
     height:70vh;
     margin-bottom: 3vh;
-    margin-left: 1vw;
+    margin-left: 15vw;
     border-radius: 1vh;
 }

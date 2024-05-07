@@ -327,16 +327,16 @@ body{
 }
 
 .wtw-3{
-    background-image: url("wtw-19.gif");
+    background-image: url("wtw-14.png");
     background-repeat: no-repeat;
-    background-size: 170% , 100%;
+    background-size: 100% , 100%;
     background-size: cover;
     background-position-x: center;
     background-position-y: center;
     width:25%;
     height:85vh;
-    margin-top: 1.5vh;
-    margin-left: 5vw;
+    margin-top: 0vh;
+    margin-left: 50vw;
     border-radius: 1vh;
 }
 
