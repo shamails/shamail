@@ -313,18 +313,7 @@ light purple:BEA2C2*/
     text-shadow: 0px .07vw .1vw #b974c2;
 }
 
-.e:hover{
-    /* color: #1f0e20;
-    background-color: #FFF3DA; */
-    font-size: 1.25vw;
-    text-decoration: underline;
-    /* margin-left: 2vw; */
-    margin-right: 2vw;
-    -webkit-text-stroke: .07vw #BEA2C2;
-    text-shadow: 0px .07vw .1vw #b974c2;
-    animation: wavly 1s infinite;
-  animation-delay: calc(.1s * var(--i));
-}
+
 .email:hover{
      /* color: #1f0e20;
     background-color: #FFF3DA; */
@@ -347,19 +336,6 @@ light purple:BEA2C2*/
     -webkit-text-stroke: .07vw #BEA2C2;
     text-shadow: 0px .07vw .1vw #b974c2;
 }
-
-.l:hover{
-   /* color: #1f0e20;
-    background-color: #FFF3DA; */
-    font-size: 1.25vw;
-    text-decoration: underline;
-    /* margin-left: 2vw; */
-    margin-right: 2vw;
-    -webkit-text-stroke: .07vw #BEA2C2;
-    text-shadow: 0px .07vw .1vw #b974c2;
-    animation: wavly 1s infinite;
-  animation-delay: calc(.1s * var(--i));
-}
 .linkedin:hover{
     /* color: #1f0e20;
     background-color: #FFF3DA; */
@@ -380,19 +356,6 @@ light purple:BEA2C2*/
     margin-right: 2vw;
     -webkit-text-stroke: .07vw #BEA2C2;
     text-shadow: 0px .07vw .1vw #b974c2;
-}
-
-.a:hover{
-    /* color: #1f0e20;
-    background-color: #FFF3DA; */
-    font-size: 1.25vw;
-    text-decoration: underline;
-    /* margin-left: 2vw; */
-    margin-right: 2vw;
-    -webkit-text-stroke: .07vw #BEA2C2;
-    text-shadow: 0px .07vw .1vw #b974c2;
-    animation: wavly 1s infinite;
-  animation-delay: calc(.1s * var(--i));
 }
 .about:hover{
      /* color: #1f0e20;
