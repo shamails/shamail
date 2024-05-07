@@ -417,4 +417,42 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:50%;
-    
+    height: 55vh;
+    margin-top: 0vh;
+    margin-left: 30vw;
+    border-radius: 1vh;
+}
+.wmf-ss{
+    background-image: url("wmf-ss.png");
+    background-repeat: no-repeat;
+    background-size: 105% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:50%;
+    height: 55vh;
+    margin-top: 0vh;
+    margin-left: 30vw;
+    border-radius: 1vh;
+}
+
+#v1{
+    margin-top: 3vh;
+}
+#v2{
+    margin-top: 3vh;
+    margin-left: 45vh;
+}
+#v3{
+    margin-top: 3vh;
+}
+#v4{
+    margin-top: 3vh;
+    margin-left: 70vh;
+}
+#v5{
+    margin-top: 3vh;
+}
+
+.flex{
+    display: flex;
+}
