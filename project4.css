@@ -229,6 +229,44 @@ body{
     margin-top: 2.5vh;
     margin-bottom: 2.5vh;
 }
+#text1 , #text1:visited , #text1:active , #text1:link{
+    margin-left: 3vw;
+    margin-right: 30vw;
+    margin-top: 2.5vh;
+    color:#371c08;
+    width: 55%;
+    height:auto;
+    font-size: 1.5vw;
+}
+#text2{
+    margin-left: 3vw;
+    margin-right: 10vw;
+    margin-top: 2.5vh;
+    color:#371c08;
+    width: 20%;
+    height:auto;
+    font-size: 1vw;
+}
+#text3 , #text3:visited , #text3:active , #text3:link{
+    
+    margin-right: 10vw;
+    margin-top: 2.5vh;
+    color:#371c08;
+    width: 20%;
+    height:auto;
+    font-size: 1vw;
+    text-decoration: none;
+}
+#text3:hover{
+    
+    margin-right: 10vw;
+    margin-top: 2.5vh;
+    color:#371c08;
+    width: 20%;
+    height:auto;
+    font-size: 1vw;
+    text-decoration: underline;
+}
 
 #asset{
     margin-left:37vw;
@@ -302,6 +340,16 @@ body{
     height:120vh;
     margin-top: 1.5vh;
 }
+.gg-12{
+    background-image: url("gg-3.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-position-x: center;
+    background-position-y: center;
+    width:50%;
+    height:60vh;
+    margin-top: 1.5vh;
+}
 
 /* .gg-5{
     background-image: url("gg-all.png");
@@ -320,7 +368,7 @@ body{
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:auto;
+    width:100%;
     height:100vh;
     margin-top: 1.5vh;
 }

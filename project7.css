@@ -1,5 +1,5 @@
 body{
-    background-color: #FFF3DA;
+    background-color: #ebeae7;
     font-family: 'K2D', sans-serif;
     font-weight: 500;
     overflow-x: hidden;
@@ -34,7 +34,7 @@ body{
 
 .email , .email:link , .email:visited , .email:active{
     display: flex;
-    color: #FFF3DA;
+    color: #a70000;
     text-decoration: solid;
     font-size: 1.25vw;
     margin-left: 3vw;
@@ -73,7 +73,7 @@ body{
 }
 .linkedin , .linkedin:link , .linkedin:visited , .linkedin:active{
     display: flex;
-    color: #FFF3DA;
+    color: #a70000;
     text-decoration: solid;
     font-size: 1.25vw;
     padding-left: 30vw;
@@ -114,7 +114,7 @@ body{
 
 .about , .about:link , .about:visited , .about:active{
     display: flex;
-    color: #FFF3DA;
+    color: #a70000;
     text-decoration: solid;
     font-size: 1.25vw;
     padding-left: 60vw;
@@ -156,7 +156,7 @@ body{
 
 .home , .home:link , .home:visited , .home:active{
     display: flex;
-    color: #FFF3DA;
+    color: #a70000;
     text-decoration: solid;
     font-size: 1.25vw;
     padding-left: 90vw;
@@ -197,14 +197,14 @@ body{
 }
 
 .copy{
-    color:  #270029;
+    color:  #a70000;
     margin-left: 15vw;
     margin-right: 15vw;
     margin-top: 1vh;
     font-size: 1.5vw;
 }
 .subtitle{
-    color:  #270029;
+    color:  #a70000;
     margin-left: 3vw;
     margin-right: 3vw;
     margin-top: 1vh;
@@ -212,252 +212,72 @@ body{
 }
 .line{
     border-bottom: .5vh solid;
-    border-color:  #270029;
+    border-color:  #a70000;
     margin-left: 1vw;
     margin-right: 3vw;
     margin-top: 2.5vh;
     margin-bottom: 2.5vh;
     width:100%;
     height: 5vh;
-    background-color: #270029;
+    background-color: #a70000;
 }
-
-.sprout{
-    background-image: url("sprout-brand.png");
-    background-repeat: no-repeat;
-    background-size: 105% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:100%;
-    height:68vh;
-    /* margin-top: ; */
-    
+.line2{
+    border-bottom: .5vh solid;
+    border-color:  #a70000;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;
 }
-
-.sprout-2{
-    background-image: url("sprout-1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:100%;
-    height:100vh;
-    margin-left: 0vw;
-    margin-top: 3vh;
-    border-radius: 1vh;
+#text1 , #text1:visited , #text1:active , #text1:link{
+    margin-left: 3vw;
+    margin-right: 3vw;
+    text-decoration: none;
+    margin-top: 2.5vh;
+    color:#a70000;
+    width: 55%;
+    height:auto;
+    font-size: 1.5vw;
 }
-
-.sprout-3{
-    background-image: url("sprout-2.png");
-    background-repeat: no-repeat;
-    background-size: 180% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:35%;
-    height: 70vh;
-    margin-left: 6vw;
-    margin-top: 3vh;
-    border-radius: 1vh;
+#text1:hover{
+    margin-left: 3vw;
+    margin-right: 3vw;
+    text-decoration: underline;
+    margin-top: 2.5vh;
+    color:#a70000;
+    width: 55%;
+    height:auto;
+    font-size: 1.5vw;
 }
-
-.sprout-4{
-    background-image: url("s2.gif");
-    background-repeat: no-repeat;
-    background-size: cover;
-    /* background-size: 100% , 100%; */
-    background-position-x: center;
-    background-position-y: center;
-    width:25%;
-    height: 90vh;
-    margin-left: 20vw;
-    margin-top: 3vh;
+#text2{
+    margin-left: 3vw;
+    margin-right: 10vw;
+    margin-top: 2.5vh;
+    color:#a70000;
+    width: 20%;
+    height:auto;
+    font-size: 1vw;
 }
-
-.sprout-17{
-    background-image: url("sprout-stationary.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    /* background-size: 100% , 100%; */
-    background-position-x: center;
-    background-position-y: center;
-    width:65%;
-    height: 80vh;
-    margin-left: 1vw;
-    margin-top: 4vh;
-    margin-bottom: 4vh;
-    border-radius: 1vh;
+#text3 , #text3:visited , #text3:active , #text3:link{
+    margin-right: 10vw;
+    margin-top: 2.5vh;
+    color:#a70000;
+    width: 20%;
+    height:auto;
+    font-size: 1vw;
+    text-decoration: none;
 }
-
-.sprout-18{
-    background-image: url("sprout-box.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    /* background-size: 100% , 100%; */
-    background-position-x: center;
-    background-position-y: center;
-    width:35%;
-    height: 80vh;
-    margin-left: 2vw;
-    margin-top: 4vh;
-    margin-bottom: 4vh;
-    border-radius: 1vh;
+#text3:hover{
+    margin-right: 10vw;
+    margin-top: 2.5vh;
+    color:#a70000;
+    width: 20%;
+    height:auto;
+    font-size: 1vw;
+    text-decoration: underline;
 }
-
-.sprout-5{
-    background-image: url("sprout-17.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height:50vh;
-    margin-top: 3vh;
-    margin-bottom: 3vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-}
-
-.sprout-6{
-    background-image: url("sprout-6.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height:50vh;
-    margin-top: 1vh;
-    margin-left: 2vw;
-    border-radius: 1vh;
-}
-
-.sprout-7{
-    background-image: url("sprou-23.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height:50vh;
-    margin-top: 1vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-}
-
-.sprout-8{
-    background-image: url("sprou-17.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:30%;
-    height:25vh;
-    margin-top: 3vh;
-    margin-left: 5vw;
-    border-radius: 1vh;
-}
-
-.sprout-9{
-    background-image: url("sprout-18.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:30%;
-    height:25vh;
-    margin-top: 3vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-}
-
-.sprout-10{
-    background-image: url("sprout-20.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:30%;
-    height:25vh;
-    margin-top: 3vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-}
-
-.sprout-11{
-    background-image: url("sprout-19.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:30%;
-    height:25vh;
-    margin-top: 1vh;
-    margin-left: 5vw;
-    border-radius: 1vh;
-}
-
-.sprout-12{
-    background-image: url("sprout-21.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:30%;
-    height:25vh;
-    margin-top: 1vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-}
-
-/* .sprout-13{
-    background-image: url("sprout-brand.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:100%;
-    height:70vh;
-    margin-top: 2vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-} */
-
-.sprout-14{
-    background-image: url("sprout-assets.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height:50vh;
-    margin-top: 3vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-}
-
-.sprout-15{
-    background-image: url("sprout-moodboard.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height:50vh;
-    margin-top: 3vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-}
-
-.sprout-16{
-    background-image: url("sprout-goals.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:70%;
-    height:50vh;
-    margin-top: 3vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
+#text6{
+    margin-left:30vw;
 }
 #asset{
     margin-left:37vw;
@@ -484,458 +304,7 @@ body{
 #style{
     margin-top: 5vh;
 }
-.wtw{
-    background-image: url("wtw-1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:auto;
-    height:100vh;
-    margin-top: 1.5vh;
-}
 
-.wtw-2{
-    background-image: url("wtw-2.png");
-    background-repeat: no-repeat;
-    background-size: 110% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    background-size: cover;
-    width:60%;
-    height:80vh;
-    margin-left: 20vw;
-    margin-top: 1.5vh;
-    border-radius: 1vh;
-}
-
-.wtw-3{
-    background-image: url("wtw-19.gif");
-    background-repeat: no-repeat;
-    background-size: 170% , 100%;
-    background-size: cover;
-    background-position-x: center;
-    background-position-y: center;
-    width:25%;
-    height:85vh;
-    margin-top: 1.5vh;
-    margin-left: 15vw;
-    border-radius: 1vh;
-}
-
-.wtw-4{
-    background-image: url("wtw-5.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:80%;
-    height: 70vh;
-    margin-top: 1.5vh;
-    margin-left: 10vw;
-    border-radius: 1vh;
-}
-
-.wtw-5{
-    background-image: url("wtw-6.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:80%;
-    height:80vh;
-    margin-top: 1.5vh;
-    margin-left: 10vw;
-    border-radius: 1vh;
-}
-
-.wtw-6{
-    /* background-image: url("wtw-v1.png"); */
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height:80vh;
-    margin-top: 1.5vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-}
-
-.wtw-7{
-    background-image: url("wtw-v1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:40%;
-    height:30vh;
-    margin-top: 2vh;
-    margin-left: 15vw;
-    /* border-radius: 1vh; */
-}
-
-.wtw-8{
-    background-image: url("wtw-v2.png");
-    background-repeat: no-repeat;
-    background-size: 81% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:30%;
-    height: 30vh;
-    margin-top: 2vh;
-    margin-left: -2vw;
-    /* border-radius: 1vh; */
-}
-
-.wtw-9{
-    background-image: url("wtw-3.png");
-    background-repeat: no-repeat;
-    background-size: 75% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:40%;
-    height:40vh;
-    margin-top: 2vh;
-    margin-left: 12vw;
-    border-radius: 1vh;
-}
-.wtw-10{
-    background-image: url("wtw-4.png");
-    background-repeat: no-repeat;
-    background-size: 72% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:40%;
-    height:40vh;
-    margin-top: 2vh;
-    margin-left: -9vw;
-    border-radius: 1vh;
-}
-
-.diary{
-    background-image: url("8.gif");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:auto;
-    height:115vh;
-    margin-top: 1.5vh;
-}
-
-.diary-2{
-    background-image: url("7.gif");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:auto;
-    height:115vh;
-    margin-top: 1.5vh;
-}
-
-.diary-3{
-    background-image: url("9.gif");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:auto;
-    height:115vh;
-    margin-top: 1.5vh;
-}
-.gd-1{
-    background-image: url("gd-v1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:80%;
-    height:57vh;
-    margin-top: 1.5vh;
-    margin-left: 10vw;
-    border-radius: 1vh;
-}
-.gd-2{
-    background-image: url("gd-v2.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:80%;
-    height:57vh;
-    margin-left: 10vw;
-    margin-top: 1.5vh;
-    border-radius: 1vh;
-}
-.nwt-1{
-    background-image: url("nwt-v1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:80%;
-    border-radius: 1vh;
-    height:35vh;
-    margin-left: 10vw;
-    margin-top: 1.5vh;
-}
-.nwt-2{
-    background-image: url("nwt-v2.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:80%;
-    height:35vh;
-    border-radius: 1vh;
-    margin-left: 10vw;
-    margin-top: 1.5vh;
-}
-.rd-1{
-    background-image: url("rd-v1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:80%;
-    height:57vh;
-    border-radius: 1vh;
-    margin-left: 10vw;
-    margin-top: 1.5vh;
-}
-.rd-2{
-    background-image: url("rd-v2.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:80%;
-    height:57vh;
-    border-radius: 1vh;
-    margin-left: 10vw;
-    margin-top: 1.5vh;
-}
-
-.gg{
-    background-image: url("gg-1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:auto;
-    height:90vh;
-    margin-top: 1.5vh;
-}
-
-.gg-2{
-    background-image: url("gg-4.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:70%;
-    height:70vh;
-    margin-left: 13vw;
-    margin-top: 1.5vh;
-}
-
-.gg-3{
-    background-image: url("gg-2.png");
-    background-repeat: no-repeat;
-    background-size: 180% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height:80vh;
-    margin-left: 25vw;
-    margin-top: 1.5vh;
-}
-
-.gg-4{
-    background-image: url("gg-3.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:auto;
-    height:120vh;
-    margin-top: 1.5vh;
-}
-
-/* .gg-5{
-    background-image: url("gg-all.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:auto;
-    height:120vh;
-    margin-top: 1.5vh;
-} */
-
-.gg-6{
-    background-image: url("gg-all.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:auto;
-    height:120vh;
-    margin-top: 1.5vh;
-}
-
-.gg-7{
-    background-image: url("gg-v1.png");
-    background-repeat: no-repeat;
-    background-size: 140% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height:40vh;
-    margin-top: 1.5vh;
-    margin-left: 1vw;
-}
-
-.gg-8{
-    background-image: url("gg-v2.png");
-    background-repeat: no-repeat;
-    background-size: 140% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height:40vh;
-    margin-top: 1.5vh;
-    margin-left: 1vw;
-}
-
-.gg-9{
-    background-image: url("gg-desktop.jpg");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height:50vh;
-    margin-top: 1.5vh;
-    margin-left: 1vw;
-}
-
-.gg-10{
-    background-image: url("gg-desktop2.jpg");
-    background-repeat: no-repeat;
-    background-size: 120% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height:50vh;
-    margin-top: 1.5vh;
-    margin-left: 1vw;
-}
-.wmf{
-    background-image: url("wmf-4.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:auto;
-    height:115vh;
-    margin-top: 1.5vh;
-}
-
-.wmf-2{
-    background-image: url("wmf-1.png");
-    background-repeat: no-repeat;
-    background-size: 150% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:70%;
-    height:80vh;
-    margin-left: 15vw;
-    margin-top: 1.5vh;
-    border-radius: 1vh;
-}
-
-.wmf-3{
-    background-image: url("wmf-5.png");
-    background-repeat: no-repeat;
-    background-size: 120% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:90%;
-    height: 75vh;
-    margin-top: 1.5vh;
-    margin-left: 3vw;
-    border-radius: 1vh;
-}
-
-.wmf-4{
-    background-image: url("wmf-v1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:35%;
-    height: 60vh;
-    margin-top: 3vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-    
-}
-
-.wmf-5{
-    background-image: url("wmf-v5.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:60%;
-    height: 60vh;
-    margin-top: 3vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-    
-}
-
-.wmf-6{
-    background-image: url("wmf-v3.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height: 50vh;
-    margin-top: 3vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-}
-
-.wmf-7{
-    background-image: url("wmf-v6.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height: 50vh;
-    margin-top: 3vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-}
-
-.wmf-8{
-    background-image: url("wmf-v4.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:50%;
-    height: 50vh;
-    margin-top: 5vh;
-    margin-left: 1vw;
-    border-radius: 1vh;
-}
 
 
 #v1{
@@ -956,116 +325,7 @@ body{
     margin-top: 3vh;
 }
 
-.jo{
-    background-image: url("jo-2.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:auto;
-    height: 110vh;
-    margin-top: 1.5vh;
-    /* border-radius: 1vh; */
-}
 
-.jo-2{
-    background-image: url("jo-6.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:60%;
-    height: 70vh;
-    margin-left: 20vw;
-    margin-top: 1.5vh;
-    border-radius: 1vh;
-}
-
-.jo-3{
-    background-image: url("jo-1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:75%;
-    height: 80vh;
-    margin-top: 1.5vh;
-    margin-left: 15vw;
-    border-radius: 1vh;
-}
-.jo-4{
-    background-image: url("jo2.gif");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:100%;
-    height: 95vh;
-    margin-top: 0vh;
-    margin-left: 0vw;
-    border-radius: 1vh;
-}
-
-.jo-sp-1{
-    background-image: url("jo-sp-1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:30%;
-    height: 75vh;
-    margin-top: 1.5vh;
-    margin-left: 2.5vw;
-    border-radius: 1vh;
-}
-.jo-sp-2{
-    background-image: url("jo-sp-2.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:30%;
-    height: 75vh;
-    margin-top: 1.5vh;
-    margin-left: 2.5vw;
-    border-radius: 1vh;
-}
-.jo-sp-3{
-    background-image: url("jo-sp-3.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:30%;
-    height: 75vh;
-    margin-top: 1.5vh;
-    margin-left: 2.5vw;
-    border-radius: 1vh;
-}
-/* .jo-d-1{
-    background-image: url("jo-draft-cover.png");
-    background-repeat: no-repeat;
-    background-size: 120% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:25%;
-    height: 70vh;
-    margin-top: 1.5vh;
-    margin-left: 2.5vw;
-    border-radius: 1vh;
-} */
-.jo-d-2{
-    background-image: url("jo-draft.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:75%;
-    height: 70vh;
-    margin-top: 1.5vh;
-    margin-left: 12vw;
-    border-radius: 1vh;
-}
 .flex{
     display: flex;
 }
@@ -1092,6 +352,18 @@ body{
     width:auto;
     height:60vh;
     margin-top: 1.5vh;
+}
+.type2{
+    background-image: url("type-4.png");
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    width:70%;
+    height:60vh;
+    margin-top: 1.5vh;
+    margin-left: 10vw;
 }
 
 .type-3{
@@ -1129,48 +401,10 @@ body{
     background-position-x: center;
     background-position-y: center;
     width:100%;
-    height:95vh;
+    height:100vh;
     margin-left: 2.5vw;
     margin-top: 1.5vh;
     border-radius: 1vh;
     margin-bottom: 1.5vh;
 }
 
-.mean{
-    background-image: url("poster-1.png");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    width:105%;
-    height:100vh;
-    margin-top: 1.5vh;
-    margin-left: -1vw;
-}
-
-.mean-2{
-    background-image: url("posters-2.png");
-    background-repeat: no-repeat;
-    background-size: 150% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    background-size: cover;
-    width:80%;
-    height:100vh;
-    margin-top: 1.5vh;
-    margin-left: 8vw;
-    border-radius: 1vh;
-}
-.mean-3{
-    background-image: url("posters.gif");
-    background-repeat: no-repeat;
-    background-size: 100% , 100%;
-    background-position-x: center;
-    background-position-y: center;
-    background-size: cover;
-    width:70%;
-    height:80vh;
-    margin-top: 1.5vh;
-    margin-left: 15vw;
-    border-radius: 1vh;
-}
