@@ -865,7 +865,7 @@ light purple:BEA2C2*/
     text-decoration: underline;
 }
 
-@media only screen 
+/* @media only screen 
 and (min-device-width: 375px) 
 and (max-device-width: 812px) {
     .intro{
@@ -874,8 +874,8 @@ and (max-device-width: 812px) {
         background-color: #FFF3DA;
         height: 102%;
         width: 104%;
-        padding-top: 150vh;
-        padding-bottom: 150vh;
+        padding-top: 90%;
+        padding-bottom: 70%;
         margin-top: -2vh;
         margin-left: -1vw;
     }
@@ -886,11 +886,11 @@ and (max-device-width: 812px) {
         justify-content: space-between;
         margin-left: 3.5vw;
         margin-right: 5vw;
-        /* margin-top: 23vh; */
-        /* height: 25%;
+        margin-top: 23vh;
+        height: 25%;
         width: 25%; 
         left: 50;
         top: 50;
-         position: absolute; */
+         position: absolute;
     }
-}
+} */
