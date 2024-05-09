@@ -326,6 +326,8 @@ body{
     margin-top: 5vh;
     margin-left: 19vw;
     border-radius: 1vh;
+    border-color: #f9f1da;
+    border: solid;
 }
 .wmf-inspo{
     background-image: url("wmf-inspo1.png");
@@ -349,7 +351,10 @@ body{
     height: 55vh;
     margin-top: 0vh;
     margin-left: 30vw;
-    border-radius: 1vh;
+    border-radius: 100vh;
+    border-color: #f9f1da;
+    border-width: 10px;
+    
 }
 
 #v1{

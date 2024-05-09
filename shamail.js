@@ -36,10 +36,14 @@ $(document).ready(function(){
     })
     $(window).scroll(function () {
 
-    if ($(window).scrollTop() >= 700) {
+    if ($(window).scrollTop() >= 850) {
         $('body').css('background-color','#FFF3DA');
+        $('.shift').css('color','#270029');
+        $('.shift').css('opacity','100%');
         } else {
         $('body').css('background-color','#270029');
+        $('.shift').css('color','#FFF3DA');
+        $('.shift').css('opacity','50%');
         }
     });
 
