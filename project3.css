@@ -315,7 +315,7 @@ body{
     margin-left: 10vw;
 }
 .gd-1{
-    background-image: url("gd-v1.png");
+    background-image: url("gd-v1.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -327,7 +327,7 @@ body{
     border-radius: 1vh;
 }
 .gd-2{
-    background-image: url("gd-v2.png");
+    background-image: url("gd-v2.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -339,7 +339,7 @@ body{
     border-radius: 1vh;
 }
 .nwt-1{
-    background-image: url("nwt-v1.png");
+    background-image: url("nwt-v1.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -351,7 +351,7 @@ body{
     margin-top: 1.5vh;
 }
 .nwt-2{
-    background-image: url("nwt-v2.png");
+    background-image: url("nwt-v2.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -363,7 +363,7 @@ body{
     margin-top: 1.5vh;
 }
 .rd-1{
-    background-image: url("rd-v1.png");
+    background-image: url("rd-v1.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -375,7 +375,7 @@ body{
     margin-top: 1.5vh;
 }
 .rd-2{
-    background-image: url("rd-v2.png");
+    background-image: url("rd-v2.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -387,7 +387,7 @@ body{
     margin-top: 1.5vh;
 }
 .asset1{
-    background-image: url("asset1.png");
+    background-image: url("asset1.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -399,7 +399,7 @@ body{
     
 }
 .asset2{
-    background-image: url("asset2.png");
+    background-image: url("asset2.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;

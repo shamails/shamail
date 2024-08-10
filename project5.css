@@ -225,7 +225,7 @@ body{
 }
 
 .wmf{
-    background-image: url("wmf-4.png");
+    background-image: url("wmf-4.webp");
     background-repeat: no-repeat;
     background-size: 96% , 100%;
     background-position-x: center;
@@ -249,7 +249,7 @@ body{
 }
 
 .wmf-3{
-    background-image: url("wmf-5.png");
+    background-image: url("wmf-5.webp");
     background-repeat: no-repeat;
     background-size: 150% , 100%;
     background-position-x: center;
@@ -262,7 +262,7 @@ body{
 }
 
 .wmf-4{
-    background-image: url("wmf-v1.png");
+    background-image: url("wmf-v1.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -276,7 +276,7 @@ body{
 }
 
 .wmf-5{
-    background-image: url("wmf-v5.png");
+    background-image: url("wmf-v5.webp");
     background-repeat: no-repeat;
     background-size: 107% , 100%;
     background-position-x: center;
@@ -290,7 +290,7 @@ body{
 }
 
 .wmf-6{
-    background-image: url("wmf-v3.png");
+    background-image: url("wmf-v3.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -303,7 +303,7 @@ body{
 }
 
 .wmf-7{
-    background-image: url("wmf-v6.png");
+    background-image: url("wmf-v6.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -316,7 +316,7 @@ body{
 }
 
 .wmf-8{
-    background-image: url("wmf-v4.png");
+    background-image: url("wmf-v4.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -330,7 +330,7 @@ body{
     border: solid;
 }
 .wmf-inspo{
-    background-image: url("wmf-inspo1.png");
+    background-image: url("wmf-inspo1.webp");
     background-repeat: no-repeat;
     background-size: 105% , 100%;
     background-position-x: center;
@@ -342,7 +342,7 @@ body{
     border-radius: 1vh;
 }
 .wmf-ss{
-    background-image: url("wmf-ss.png");
+    background-image: url("wmf-ss.webp");
     background-repeat: no-repeat;
     background-size: 105% , 100%;
     background-position-x: center;

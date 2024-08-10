@@ -215,7 +215,7 @@ body{
 
 
 .gg{
-    background-image: url("gg-1.png");
+    background-image: url("gg-1.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -226,7 +226,7 @@ body{
 }
 
 .gg-2{
-    background-image: url("gg-4.png");
+    background-image: url("gg-4.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -238,7 +238,7 @@ body{
 }
 
 .gg-3{
-    background-image: url("gg-2.png");
+    background-image: url("gg-2.webp");
     background-repeat: no-repeat;
     background-size: 200% , 100%;
     background-position-x: center;
@@ -250,7 +250,7 @@ body{
 }
 
 .gg-4{
-    background-image: url("gg-3.png");
+    background-image: url("gg-3.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -260,7 +260,7 @@ body{
     margin-top: 1.5vh;
 }
 .gg-12{
-    background-image: url("gg-3.png");
+    background-image: url("gg-3.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -293,7 +293,7 @@ body{
 }
 
 .gg-7{
-    background-image: url("gg-v1.png");
+    background-image: url("gg-v1.webp");
     background-repeat: no-repeat;
     background-size: 160% , 100%;
     background-position-x: center;
@@ -305,7 +305,7 @@ body{
 }
 
 .gg-8{
-    background-image: url("gg-v2.png");
+    background-image: url("gg-v2.webp");
     background-repeat: no-repeat;
     background-size: 160% , 100%;
     background-position-x: center;
@@ -317,7 +317,7 @@ body{
 }
 
 .gg-9{
-    background-image: url("gg-desktop.jpg");
+    background-image: url("gg-desktop.webp");
     background-repeat: no-repeat;
     background-size: 160% , 100%;
     background-position-x: center;
@@ -329,7 +329,7 @@ body{
 }
 
 .gg-10{
-    background-image: url("gg-desktop2.jpg");
+    background-image: url("gg-desktop2.webp");
     background-repeat: no-repeat;
     background-size: 120% , 100%;
     background-position-x: center;

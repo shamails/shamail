@@ -228,7 +228,7 @@ body{
     font-size: 1.5vw;
 }
 .wtw{
-    background-image: url("wtw-1.png");
+    background-image: url("wtw-1.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -239,7 +239,7 @@ body{
 }
 
 .wtw-2{
-    background-image: url("wtw-2.png");
+    background-image: url("wtw-2.webp");
     background-repeat: no-repeat;
     background-size: 110% , 100%;
     background-position-x: center;
@@ -253,7 +253,7 @@ body{
 }
 
 .wtw-3{
-    background-image: url("wtw-14.png");
+    background-image: url("wtw-14.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-size: cover;
@@ -267,7 +267,7 @@ body{
 }
 
 .wtw-4{
-    background-image: url("wtw-5.png");
+    background-image: url("wtw-5.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -280,7 +280,7 @@ body{
 }
 
 .wtw-5{
-    background-image: url("wtw-6.png");
+    background-image: url("wtw-6.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -306,7 +306,7 @@ body{
 }
 
 .wtw-7{
-    background-image: url("wtw-v1.png");
+    background-image: url("wtw-v1.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -319,7 +319,7 @@ body{
 }
 
 .wtw-8{
-    background-image: url("wtw-v2.png");
+    background-image: url("wtw-v2.webp");
     background-repeat: no-repeat;
     background-size: 81% , 100%;
     background-position-x: center;
@@ -344,7 +344,7 @@ body{
     border-radius: 1vh;
 }
 .wtw-10{
-    background-image: url("wtw-4.png");
+    background-image: url("wtw-4.webp");
     background-repeat: no-repeat;
     background-size: 72% , 100%;
     background-position-x: center;

@@ -240,7 +240,7 @@ body{
 }
 
 .jo{
-    background-image: url("jo-2.png");
+    background-image: url("jo-2.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -278,7 +278,7 @@ body{
 }
 
 .jo-3{
-    background-image: url("jo-1.png");
+    background-image: url("jo-1.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -315,7 +315,7 @@ body{
     border-radius: 1vh;
 }
 .jo-sp-2{
-    background-image: url("jo-sp-2.png");
+    background-image: url("jo-sp-2.webp");
     background-repeat: no-repeat;
     background-size: 110% , 100%;
     background-position-x: center;
@@ -339,7 +339,7 @@ body{
     border-radius: 1vh;
 }
 .jo-d-1{
-    background-image: url("jo-draft-cover.png");
+    background-image: url("jo-draft-cover.webp");
     background-repeat: no-repeat;
     background-size: 100% , 100%;
     background-position-x: center;
@@ -351,7 +351,7 @@ body{
     border-radius: 1vh;
 }
 .jo-d-2{
-    background-image: url("jo-draft.png");
+    background-image: url("jo-draft.webp");
     background-repeat: no-repeat;
     background-size: 90% , 100%;
     background-position-x: center;
