@@ -1115,14 +1115,12 @@ light purple:BEA2C2*/
 
 .sp{
     height: 95%;
-    width: 70%;
+    width: 85%;
     padding-top: 15vh;
     padding-bottom: 2vh;
-    padding-right: 1vw;
-    padding-left: 30vw;
-
-    /* margin-left: 37vw; */
-    /* margin-right: -3vw; */
+    padding-right: -10vw;
+    padding-left: 1vw;
+    margin-right: -11vw;
     /* margin-top: 5vw; */
     /* border-radius: 2vh;
     box-shadow: .2vw .2vw .2vw #b974c2; */
@@ -1152,7 +1150,7 @@ light purple:BEA2C2*/
     padding-left: 11vw;
     padding-right: 1vw;
 
-    padding-bottom: 5vh;
+    padding-bottom: 10vh;
     margin-left: -.3vh;
     color: #FFF3DA;
     text-align: center;
@@ -1399,18 +1397,26 @@ light purple:BEA2C2*/
     margin-right: 3vw;
     margin-top: 2.5vh;
     margin-bottom: 2.5vh;
+    padding-top: 6vh;
+}
+.line1{
+    border-bottom: .5vh solid;
+    border-color:  #270029;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;
+    padding-top: 2vh;
 }
 .copy1{
     color:  #270029;
-    margin-left: 38vw;
+    margin-left: 30vw;
     margin-right: 15vw;
     margin-top: -1vh;
     padding-bottom: 1.5vh;
-    font-size: 5vw;
+    font-size: 2vw;
 }
-.project1{
-    height: 50vh;
-}
+
 .sprout{
     background-image: url("Comp\ 1_2.gif");
     background-repeat: no-repeat;
@@ -1422,6 +1428,7 @@ light purple:BEA2C2*/
     margin-left: 5vw;
     height:25vh;
     opacity: 1;
+    
 }
 
 .title-s , .title-s:visited , .title-s:active , .title-s:link{
@@ -1435,7 +1442,7 @@ light purple:BEA2C2*/
     width:100%;
     margin-left: 1.5vw;
     height:1vh;
-    margin-top: -10vh;
+    margin-top: -24vh;
     /* background-color: #b974c2; */
     cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
 }
@@ -1472,9 +1479,9 @@ light purple:BEA2C2*/
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:100%;
-    margin-left: 2.5vw;
-    height:20vh;
+    width:90%;
+    margin-left: 5vw;
+    height:25vh;
     opacity: 1;
 }
 .title-w , .title-w:visited , .title-w:active , .title-w:link{
@@ -1488,6 +1495,7 @@ light purple:BEA2C2*/
     width:100%;
     margin-left: 1.5vw;
     height:10vh;
+    margin-top: -24vh;
     /* background-color: #b974c2; */
     cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
 }
@@ -1517,9 +1525,9 @@ light purple:BEA2C2*/
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:100%;
-    height:20vh;
-    margin-left: 2.5vw;
+    width:90%;
+    height:25vh;
+    margin-left: 5vw;
     margin-top: 1.5vh;
     opacity: 1;
 }
@@ -1534,6 +1542,7 @@ light purple:BEA2C2*/
     width: 100%;
     height: 10vh ;
     margin-top: 1.5vh;
+    margin-top: -24vh;
     /* margin-left: 1.5vw; */
     /* background-color: #b974c2; */
     border-width: .5vh;
@@ -1567,9 +1576,9 @@ light purple:BEA2C2*/
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:100%;
-    height:20vh;
-    margin-left: 2.5vw;
+    width:90%;
+    height:25vh;
+    margin-left: 5vw;
     margin-top: 1.5vh;
     opacity: 1;
 }
@@ -1584,6 +1593,7 @@ light purple:BEA2C2*/
     /* padding: 5vh; */
     width: 100%;
     height: 10vh;
+    margin-top: -24vh;
     /* background-color: #b974c2; */
     cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1029.ani), url(https://cur.cursors-4u.net/nature/nat-11/nat1029.gif), auto !important;
 }
@@ -1614,9 +1624,9 @@ light purple:BEA2C2*/
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:100%;
-    height:20vh;
-    margin-left: 2.5vw;
+    width:90%;
+    height:25vh;
+    margin-left: 5vw;
     margin-top: 1.5vh;
     opacity: 1;
 }
@@ -1664,9 +1674,9 @@ light purple:BEA2C2*/
     background-size: 100% , 100%;
     background-position-x: center;
     background-position-y: center;
-    width:100%;
-    height:20vh;
-    margin-left: 2.5vw;
+    width:90%;
+    height:25vh;
+    margin-left: 5vw;
     margin-top: 1.5vh;
     opacity: 1;
 }
@@ -1682,6 +1692,7 @@ light purple:BEA2C2*/
     width: 100%;
     height: 10vh;
     margin-top: 1.5vh;
+    margin-top: -24vh;
     /* margin-left: 1.5vw; */
     /* background-color: #b974c2; */
     border-width: .5vh;
@@ -1715,7 +1726,7 @@ light purple:BEA2C2*/
     background-position-x: center;
     background-position-y: center;
     width:100%;
-    margin-left: 2.5vw;
+    margin-left: 5vw;
     height:40vh;
     margin-top: 1.5vh;
     opacity: 1;
