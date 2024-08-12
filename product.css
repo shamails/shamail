@@ -1243,14 +1243,14 @@ light purple:BEA2C2*/
 .email , .email:link , .email:visited , .email:active{
     color: #FFF3DA;
     text-decoration: none;
-    font-size: 2vw;
+    font-size: 3.5vw;
     margin-left: 1vw;
 }
 
 .e:hover{
     /* color: #1f0e20;
     background-color: #FFF3DA; */
-    font-size: 2vw;
+    font-size: 3.5vw;
     text-decoration: underline;
     /* margin-left: 2vw; */
     /* margin-right: 2vw; */
@@ -1263,7 +1263,7 @@ light purple:BEA2C2*/
 .email:hover{
     /* color: #1f0e20;
     background-color: #FFF3DA; */
-    font-size: 2vw;
+    font-size: 3.5vw;
     text-decoration: underline;
     /* margin-left: 2vw; */
     /* margin-right: 2vw; */
@@ -1279,7 +1279,7 @@ light purple:BEA2C2*/
     -webkit-text-stroke: .07vw #BEA2C2;
     text-shadow: 0px .07vw .1vw #b974c2;
     text-decoration: none;
-    font-size: 2vw;
+    font-size: 3.5vw;
     margin-left: 2vw;
     margin-right: 2vw;
 }
@@ -1287,7 +1287,7 @@ light purple:BEA2C2*/
 .l:hover{
     /* color: #1f0e20;
     background-color: #FFF3DA; */
-    font-size: 2vw;
+    font-size: 3.5vw;
     text-decoration: underline;
     /* margin-left: 2vw; */
     /* margin-right: 2vw; */
@@ -1297,7 +1297,7 @@ light purple:BEA2C2*/
 .linkedin:hover{
     /* color: #1f0e20;
     background-color: #FFF3DA; */
-    font-size: 2vw;
+    font-size: 3.5vw;
     text-decoration: underline;
     /* margin-left: 2vw; */
     -webkit-text-stroke: .07vw #BEA2C2;
@@ -1309,7 +1309,7 @@ light purple:BEA2C2*/
 .about , .about:link , .about:visited , .about:active{
     color: #FFF3DA;
     text-decoration: none;
-    font-size: 2vw;
+    font-size: 3.5vw;
     margin-left: 2vw;
     margin-right: 2vw;
     -webkit-text-stroke: .07vw #BEA2C2;
@@ -1319,7 +1319,7 @@ light purple:BEA2C2*/
 .a:hover{
     /* color: #1f0e20;
     background-color: #FFF3DA; */
-    font-size: 2vw;
+    font-size: 3.5vw;
     text-decoration: underline;
     /* margin-left: 2vw; */
     margin-right: 2vw;
@@ -1331,7 +1331,7 @@ light purple:BEA2C2*/
 .about:hover{
     /* color: #1f0e20;
     background-color: #FFF3DA; */
-    font-size: 2vw;
+    font-size: 3.5vw;
     text-decoration: underline;
     /* margin-left: 2vw; */
     -webkit-text-stroke: .07vw #BEA2C2;
